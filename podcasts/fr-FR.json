@@ -1,0 +1,475 @@
+{
+  "version": 1,
+  "categories": [
+    {
+      "id": "tech",
+      "titleKey": "discover_category_tech",
+      "icon": "cpu",
+      "color": "blue",
+      "feeds": [
+        {
+          "title": "Underscore_",
+          "description": "Tech, web, code et culture numérique",
+          "url": "https://podcast.ausha.co/underscore/rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=underscore.show&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Le Comptoir Sécu",
+          "description": "Cybersécurité en français pour tous",
+          "url": "https://www.comptoirsecu.fr/feed/podcast/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=comptoirsecu.fr&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Génération Do It Yourself",
+          "description": "Entrepreneuriat tech et makers en France",
+          "url": "https://gdiy.fr/feed/podcast/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=gdiy.fr&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "If This Then Dev",
+          "description": "Développement web, frameworks et bonnes pratiques",
+          "url": "https://ifttd.io/feed/podcast/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=ifttd.io&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Artisan Développeur",
+          "description": "Software craftsmanship, architecture et XP",
+          "url": "https://artisandeveloppeur.fr/feed/podcast/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=artisandeveloppeur.fr&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Electro Monkeys",
+          "description": "Cloud, DevOps, infrastructure et open source",
+          "url": "https://electro-monkeys.fr/feed/podcast/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=electro-monkeys.fr&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Le Podcast AWS en Français",
+          "description": "Amazon Web Services, cloud et architecture",
+          "url": "https://le-podcast-aws-en-francais.s3.eu-west-1.amazonaws.com/rss.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=aws.amazon.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Tech.Rocks",
+          "description": "Leadership tech, CTO et culture engineering",
+          "url": "https://podcast.tech.rocks/feed/podcast/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=tech.rocks&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Café Tech",
+          "description": "Intelligence artificielle et impact sur la société",
+          "url": "https://cafetech.fr/feed/podcast/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=cafetech.fr&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Double Slash",
+          "description": "Développement JavaScript, React et écosystème web",
+          "url": "https://double-slash.dev/rss.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=double-slash.dev&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "La French Tech Le Podcast",
+          "description": "Startups françaises et écosystème entrepreneurial",
+          "url": "https://feeds.acast.com/public/shows/la-french-tech-le-podcast",
+          "imageURL": "https://www.google.com/s2/favicons?domain=lafrenchtech.com&sz=128",
+          "type": "podcast"
+        }
+      ]
+    },
+    {
+      "id": "science",
+      "titleKey": "discover_category_science",
+      "icon": "atom",
+      "color": "green",
+      "feeds": [
+        {
+          "title": "Le Collimateur",
+          "description": "Géopolitique, défense et sciences stratégiques",
+          "url": "https://podcasts.lepodcast.fr/le-collimateur/rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=lecollimateur.fr&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "La Méthode Scientifique",
+          "description": "Sciences, recherche et épistémologie sur France Culture",
+          "url": "https://radiofrance-podcast.net/podcast09/rss_14312.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=radiofrance.fr&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Eurêka",
+          "description": "Vulgarisation scientifique pour les curieux",
+          "url": "https://feeds.buzzsprout.com/1847889.rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=buzzsprout.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Science VS",
+          "description": "Les myths contre la science, en français",
+          "url": "https://feeds.megaphone.fm/sciencevs",
+          "imageURL": "https://www.google.com/s2/favicons?domain=gimletmedia.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Le Podcast de la Recherche",
+          "description": "Interviews de chercheurs et découvertes récentes",
+          "url": "https://podcasts.lepodcast.fr/le-podcast-de-la-recherche/rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=lepodcast.fr&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Huberman Lab",
+          "description": "Neurosciences et optimisation du cerveau humain",
+          "url": "https://feeds.libsyn.com/263769/rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=hubermanlab.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Chaleur Humaine",
+          "description": "Climat, environnement et solutions concrètes",
+          "url": "https://www.lemonde.fr/podcasts/chaleur-humaine/rss.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=lemonde.fr&sz=128",
+          "type": "podcast"
+        }
+      ]
+    },
+    {
+      "id": "news",
+      "titleKey": "discover_category_news",
+      "icon": "newspaper",
+      "color": "red",
+      "feeds": [
+        {
+          "title": "Le Monde : Décryptage",
+          "description": "Analyses et contexte des grands événements",
+          "url": "https://www.lemonde.fr/podcasts/decryptage/rss.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=lemonde.fr&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "L'Heure du Monde",
+          "description": "L'actu du jour expliquée par Le Monde",
+          "url": "https://www.lemonde.fr/podcasts/l-heure-du-monde/rss.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=lemonde.fr&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "28 Minutes",
+          "description": "Actualité et débat sur Arte",
+          "url": "https://radiofrance-podcast.net/podcast09/rss_17358.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=arte.tv&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Les Pieds sur Terre",
+          "description": "Histoires de vie ordinaire et récits du quotidien",
+          "url": "https://radiofrance-podcast.net/podcast09/rss_10239.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=radiofrance.fr&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Présidentielle",
+          "description": "Politique française et enjeux de société",
+          "url": "https://www.lefigaro.fr/podcast/presidentielle/rss.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=lefigaro.fr&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Soft Power",
+          "description": "Géopolitique culturelle et influence internationale",
+          "url": "https://radiofrance-podcast.net/podcast09/rss_19777.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=radiofrance.fr&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "La Story",
+          "description": "L'enquête de la rédaction des Échos",
+          "url": "https://www.lesechos.fr/podcast/la-story/rss.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=lesechos.fr&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "C Dans l'Air",
+          "description": "Débat politique quotidien de France 5",
+          "url": "https://radiofrance-podcast.net/podcast09/rss_19215.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=france.tv&sz=128",
+          "type": "podcast"
+        }
+      ]
+    },
+    {
+      "id": "culture",
+      "titleKey": "discover_category_culture",
+      "icon": "theatermasks",
+      "color": "pink",
+      "feeds": [
+        {
+          "title": "La Poudre",
+          "description": "Féminismes, arts et femmes inspirantes",
+          "url": "https://feeds.acast.com/public/shows/la-poudre",
+          "imageURL": "https://www.google.com/s2/favicons?domain=acast.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Transfert",
+          "description": "Histoires vraies racontées à la première personne",
+          "url": "https://feeds.acast.com/public/shows/transfert",
+          "imageURL": "https://www.google.com/s2/favicons?domain=slate.fr&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Les Couilles sur la Table",
+          "description": "Masculinités et féminismes contemporains",
+          "url": "https://feeds.acast.com/public/shows/les-couilles-sur-la-table",
+          "imageURL": "https://www.google.com/s2/favicons?domain=acast.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Le Cinéma est Politique",
+          "description": "Analyse politique et sociale du cinéma",
+          "url": "https://feed.podbean.com/lecinemaestpolitique/feed.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=podbean.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Flip Flop",
+          "description": "Musique, albums et artistes en profondeur",
+          "url": "https://feeds.acast.com/public/shows/flip-flop",
+          "imageURL": "https://www.google.com/s2/favicons?domain=acast.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Ou peut-être une nuit",
+          "description": "Littérature contemporaine et lecture à voix haute",
+          "url": "https://radiofrance-podcast.net/podcast09/rss_19176.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=radiofrance.fr&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Cultures Monde",
+          "description": "Cultures et civilisations du monde sur France Culture",
+          "url": "https://radiofrance-podcast.net/podcast09/rss_11549.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=radiofrance.fr&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Le Masque et la Plume",
+          "description": "Critique cinéma, livres et théâtre sur France Inter",
+          "url": "https://radiofrance-podcast.net/podcast09/rss_10109.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=radiofrance.fr&sz=128",
+          "type": "podcast"
+        }
+      ]
+    },
+    {
+      "id": "design",
+      "titleKey": "discover_category_design",
+      "icon": "paintpalette",
+      "color": "purple",
+      "feeds": [
+        {
+          "title": "UX Republik Podcast",
+          "description": "UX design, accessibilité et innovation numérique",
+          "url": "https://www.ux-republic.com/feed/podcast/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=ux-republic.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Design & Humain",
+          "description": "Design centré utilisateur et psychologie cognitive",
+          "url": "https://feeds.buzzsprout.com/1321628.rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=buzzsprout.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Pixel Parfait",
+          "description": "Graphisme, identité visuelle et typographie",
+          "url": "https://feeds.buzzsprout.com/1503399.rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=buzzsprout.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Le Board",
+          "description": "Créativité, direction artistique et agences",
+          "url": "https://feeds.acast.com/public/shows/le-board",
+          "imageURL": "https://www.google.com/s2/favicons?domain=acast.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Design Matters",
+          "description": "Conversations avec les grandes figures du design mondial",
+          "url": "https://feeds.simplecast.com/OsJO0d4E",
+          "imageURL": "https://www.google.com/s2/favicons?domain=designmattersmedia.com&sz=128",
+          "type": "podcast"
+        }
+      ]
+    },
+    {
+      "id": "business",
+      "titleKey": "discover_category_business",
+      "icon": "chart.line.uptrend.xyaxis",
+      "color": "orange",
+      "feeds": [
+        {
+          "title": "BFM Business Radio",
+          "description": "Économie, marchés et actualité des entreprises",
+          "url": "https://podcast.bfmbusiness.bfmtv.com/bfm/bfmbusiness/grand_journal.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=bfmbusiness.bfmtv.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Les Échos Entrepreneurs",
+          "description": "Entrepreneuriat, startups et croissance",
+          "url": "https://www.lesechos.fr/podcast/entrepreneurs/rss.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=lesechos.fr&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Fintech Podcast",
+          "description": "Finance, paiements et innovation financière",
+          "url": "https://feeds.buzzsprout.com/1844442.rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=buzzsprout.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Le Gratin",
+          "description": "Entrepreneurs français et leurs histoires",
+          "url": "https://feeds.acast.com/public/shows/le-gratin",
+          "imageURL": "https://www.google.com/s2/favicons?domain=acast.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Jab Jab Jab",
+          "description": "Marketing digital et growth hacking",
+          "url": "https://feeds.buzzsprout.com/1094451.rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=buzzsprout.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "InPower",
+          "description": "Leadership, management et culture d'entreprise",
+          "url": "https://feeds.acast.com/public/shows/inpower",
+          "imageURL": "https://www.google.com/s2/favicons?domain=acast.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Sans Permission",
+          "description": "Disruption, investissement et tech entrepreneuriat",
+          "url": "https://feeds.acast.com/public/shows/sans-permission",
+          "imageURL": "https://www.google.com/s2/favicons?domain=acast.com&sz=128",
+          "type": "podcast"
+        }
+      ]
+    },
+    {
+      "id": "gaming",
+      "titleKey": "discover_category_gaming",
+      "icon": "gamecontroller",
+      "color": "indigo",
+      "feeds": [
+        {
+          "title": "Game Side Story",
+          "description": "Histoire et culture du jeu vidéo",
+          "url": "https://feeds.acast.com/public/shows/game-side-story",
+          "imageURL": "https://www.google.com/s2/favicons?domain=acast.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Canard PC Hardware",
+          "description": "PC gaming, composants et benchmarks",
+          "url": "https://feeds.acast.com/public/shows/canard-pc-hardware",
+          "imageURL": "https://www.google.com/s2/favicons?domain=canardpc.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Les Hauts Parleurs",
+          "description": "Jeux vidéo, pop culture et passion gaming",
+          "url": "https://feeds.acast.com/public/shows/les-hauts-parleurs",
+          "imageURL": "https://www.google.com/s2/favicons?domain=acast.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Pixels Le Podcast",
+          "description": "Actualité gaming par la rédaction du Monde Pixels",
+          "url": "https://www.lemonde.fr/podcasts/pixels/rss.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=lemonde.fr&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Versus",
+          "description": "Esport, compétition et gaming professionnel",
+          "url": "https://feeds.acast.com/public/shows/versus-esport",
+          "imageURL": "https://www.google.com/s2/favicons?domain=acast.com&sz=128",
+          "type": "podcast"
+        }
+      ]
+    },
+    {
+      "id": "sports",
+      "titleKey": "discover_category_sports",
+      "icon": "trophy",
+      "color": "yellow",
+      "feeds": [
+        {
+          "title": "Europe 1 Sport",
+          "description": "Football, tennis et actualité sportive",
+          "url": "https://podcast.europe1.fr/sport/sport-europe1.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=europe1.fr&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Canal Football Club",
+          "description": "Football français et international, analyses",
+          "url": "https://podcast.canalplus.com/podcasts/canal-football-club/rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=canalplus.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "L'Équipe du Soir",
+          "description": "Débats sportifs quotidiens de L'Équipe",
+          "url": "https://podcast.lequipe.fr/equipe-du-soir/rss.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=lequipe.fr&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Rugby Club",
+          "description": "Rugby français et international — analyses",
+          "url": "https://podcast.rmc.fr/rugby-club/rss.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=rmc.fr&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Afterfoot RMC",
+          "description": "Débats et analyses post-match football",
+          "url": "https://podcast.rmc.fr/afterfoot/rss.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=rmc.fr&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Formule 1 — Les Rois de la Piste",
+          "description": "Coulisses et analyses de la Formule 1",
+          "url": "https://feeds.acast.com/public/shows/formule1",
+          "imageURL": "https://www.google.com/s2/favicons?domain=acast.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Le Vestiaire",
+          "description": "Football féminin et sport au féminin",
+          "url": "https://feeds.acast.com/public/shows/le-vestiaire",
+          "imageURL": "https://www.google.com/s2/favicons?domain=acast.com&sz=128",
+          "type": "podcast"
+        }
+      ]
+    }
+  ]
+}

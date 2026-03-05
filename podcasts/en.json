@@ -1,0 +1,622 @@
+{
+  "version": 1,
+  "categories": [
+    {
+      "id": "tech",
+      "titleKey": "discover_category_tech",
+      "icon": "cpu",
+      "color": "blue",
+      "feeds": [
+        {
+          "title": "Syntax",
+          "description": "Web development podcast by Wes Bos & Scott Tolinski",
+          "url": "https://feed.syntax.fm/rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=syntax.fm&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Swift by Sundell",
+          "description": "Deep-dive into Swift and iOS development",
+          "url": "https://www.swiftbysundell.com/podcast/feed.rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=swiftbysundell.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "ATP — Accidental Tech Podcast",
+          "description": "Three nerds discuss tech, Apple, and anything else",
+          "url": "https://atp.fm/episodes?format=rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=atp.fm&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Cortex",
+          "description": "CGP Grey & Myke Hurley discuss working lives",
+          "url": "https://www.relay.fm/cortex/feed",
+          "imageURL": "https://www.google.com/s2/favicons?domain=relay.fm&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "The Changelog",
+          "description": "Conversations with hackers, leaders, and innovators in open source",
+          "url": "https://changelog.com/podcast/feed",
+          "imageURL": "https://www.google.com/s2/favicons?domain=changelog.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Under the Radar",
+          "description": "From development to the App Store, no longer than 30 minutes",
+          "url": "https://www.relay.fm/radar/feed",
+          "imageURL": "https://www.google.com/s2/favicons?domain=relay.fm&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Darknet Diaries",
+          "description": "True stories from the dark side of the internet",
+          "url": "https://feeds.megaphone.fm/darknetdiaries",
+          "imageURL": "https://www.google.com/s2/favicons?domain=darknetdiaries.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Security Now",
+          "description": "Weekly discussion of security topics by Steve Gibson and Leo Laporte",
+          "url": "https://feeds.twit.tv/sn.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=twit.tv&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Hardcore Software",
+          "description": "Stories from the front lines of the PC revolution",
+          "url": "https://hardcoresoftware.learningbyshipping.com/feed",
+          "imageURL": "https://www.google.com/s2/favicons?domain=hardcoresoftware.learningbyshipping.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "The Talk Show — Daring Fireball",
+          "description": "John Gruber's conversations about Apple and technology",
+          "url": "https://daringfireball.net/thetalkshow/rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=daringfireball.net&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "CppCast",
+          "description": "The podcast for C++ developers",
+          "url": "https://cppcast.com/cppcast.rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=cppcast.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Software Engineering Radio",
+          "description": "Podcasts for professional software developers",
+          "url": "https://feeds.feedburner.com/se-radio",
+          "imageURL": "https://www.google.com/s2/favicons?domain=se-radio.net&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Lex Fridman Podcast",
+          "description": "Conversations about AI, science, technology, and humanity",
+          "url": "https://lexfridman.com/feed/podcast/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=lexfridman.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Hard Fork — NYT",
+          "description": "Making sense of the rapidly changing world of technology",
+          "url": "https://feeds.simplecast.com/l2i9YnTd",
+          "imageURL": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Acquired",
+          "description": "Deep dives on technology companies and their histories",
+          "url": "https://feeds.simplecast.com/4K-hjKBY",
+          "imageURL": "https://www.google.com/s2/favicons?domain=acquired.fm&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Techmeme Ride Home",
+          "description": "A daily audio tech news summary",
+          "url": "https://feeds.megaphone.fm/techmeme-ride-home",
+          "imageURL": "https://www.google.com/s2/favicons?domain=techmeme.com&sz=128",
+          "type": "podcast"
+        }
+      ]
+    },
+    {
+      "id": "science",
+      "titleKey": "discover_category_science",
+      "icon": "atom",
+      "color": "green",
+      "feeds": [
+        {
+          "title": "Radiolab",
+          "description": "Science, philosophy, and the human experience",
+          "url": "https://feeds.simplecast.com/EmVW7VGp",
+          "imageURL": "https://www.google.com/s2/favicons?domain=radiolab.org&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Lex Fridman Podcast",
+          "description": "Conversations about AI, science, and humanity",
+          "url": "https://lexfridman.com/feed/podcast/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=lexfridman.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "StarTalk Radio",
+          "description": "Science meets pop culture with Neil deGrasse Tyson",
+          "url": "https://feeds.feedburner.com/startalkradio",
+          "imageURL": "https://www.google.com/s2/favicons?domain=startalkradio.net&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Science Vs",
+          "description": "Takes on fads, trends, and opinions with actual science",
+          "url": "https://feeds.megaphone.fm/sciencevs",
+          "imageURL": "https://www.google.com/s2/favicons?domain=gimletmedia.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Huberman Lab",
+          "description": "Science-based tools for everyday life",
+          "url": "https://feeds.megaphone.fm/hubermanlab",
+          "imageURL": "https://www.google.com/s2/favicons?domain=hubermanlab.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "In Our Time — Science",
+          "description": "BBC Radio 4's history of ideas and science",
+          "url": "https://podcasts.files.bbci.co.uk/b006qykl.rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=bbc.co.uk&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "The Infinite Monkey Cage",
+          "description": "Brian Cox and Robin Ince take a look at the world through a scientific lens",
+          "url": "https://podcasts.files.bbci.co.uk/b00snr0w.rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=bbc.co.uk&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Stuff You Should Know",
+          "description": "Josh and Chuck explain how things work",
+          "url": "https://feeds.megaphone.fm/stuffyoushouldknow",
+          "imageURL": "https://www.google.com/s2/favicons?domain=iheartradio.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Hidden Brain",
+          "description": "Shankar Vedantam explores the unconscious patterns in human behavior",
+          "url": "https://feeds.npr.org/510308/podcast.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=npr.org&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "60-Second Science — Scientific American",
+          "description": "Fast reports from the world of science",
+          "url": "https://rss.sciam.com/sciam/60secsciencepodcast",
+          "imageURL": "https://www.google.com/s2/favicons?domain=scientificamerican.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Planetary Radio",
+          "description": "Space exploration, astronomy, and planetary science",
+          "url": "https://www.planetary.org/podcasts/planetary-radio",
+          "imageURL": "https://www.google.com/s2/favicons?domain=planetary.org&sz=128",
+          "type": "podcast"
+        }
+      ]
+    },
+    {
+      "id": "news",
+      "titleKey": "discover_category_news",
+      "icon": "newspaper",
+      "color": "red",
+      "feeds": [
+        {
+          "title": "The Daily — NYT",
+          "description": "The biggest stories of our time, told by the best journalists in the world",
+          "url": "https://feeds.simplecast.com/54nAGcIl",
+          "imageURL": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Global News Podcast — BBC",
+          "description": "The world's most listened-to English language podcast",
+          "url": "https://podcasts.files.bbci.co.uk/p02nq0gn.rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=bbc.co.uk&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Up First — NPR",
+          "description": "Start your day with three short stories to know",
+          "url": "https://feeds.npr.org/510318/podcast.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=npr.org&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "The Intelligence — The Economist",
+          "description": "Daily news and analysis from The Economist",
+          "url": "https://feeds.megaphone.fm/economist-intelligence",
+          "imageURL": "https://www.google.com/s2/favicons?domain=economist.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Axios Today",
+          "description": "Essential news that matters, with a story-driven approach",
+          "url": "https://feeds.megaphone.fm/axios-today",
+          "imageURL": "https://www.google.com/s2/favicons?domain=axios.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "The Guardian Daily",
+          "description": "The Guardian's daily news podcast",
+          "url": "https://www.theguardian.com/news/series/the-guardian-daily/podcast.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "NPR News Now",
+          "description": "The latest news from NPR in under 5 minutes",
+          "url": "https://feeds.npr.org/500005/podcast.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=npr.org&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Today in Focus — The Guardian",
+          "description": "In-depth reporting on the most important stories",
+          "url": "https://www.theguardian.com/news/series/todayinfocus/podcast.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "The World — PRX",
+          "description": "Global news from a public media partnership",
+          "url": "https://feeds.megaphone.fm/theworld",
+          "imageURL": "https://www.google.com/s2/favicons?domain=theworld.org&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Vox Conversations",
+          "description": "Thoughtful discussions on the ideas behind the news",
+          "url": "https://feeds.megaphone.fm/vox-conversations",
+          "imageURL": "https://www.google.com/s2/favicons?domain=vox.com&sz=128",
+          "type": "podcast"
+        }
+      ]
+    },
+    {
+      "id": "culture",
+      "titleKey": "discover_category_culture",
+      "icon": "book",
+      "color": "orange",
+      "feeds": [
+        {
+          "title": "Conan O'Brien Needs a Friend",
+          "description": "Conan, Sona Movsesian, and Matt Gourley",
+          "url": "https://feeds.simplecast.com/dHoohVNH",
+          "imageURL": "https://www.google.com/s2/favicons?domain=teamcoco.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Fresh Air — NPR",
+          "description": "Conversations with the cultural figures of our time",
+          "url": "https://feeds.npr.org/381444908/podcast.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=npr.org&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "99% Invisible",
+          "description": "Stories about the unnoticed design that shapes our world",
+          "url": "https://feeds.simplecast.com/BqbsxVfO",
+          "imageURL": "https://www.google.com/s2/favicons?domain=99percentinvisible.org&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Armchair Expert",
+          "description": "Dax Shepard's search for the science behind human behavior",
+          "url": "https://feeds.megaphone.fm/armchairexpert",
+          "imageURL": "https://www.google.com/s2/favicons?domain=armchairexpertpod.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Song Exploder",
+          "description": "Musicians take apart their songs piece by piece",
+          "url": "https://feeds.megaphone.fm/songexploder",
+          "imageURL": "https://www.google.com/s2/favicons?domain=songexploder.net&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "SmartLess",
+          "description": "Jason Bateman, Sean Hayes, and Will Arnett talk with guests",
+          "url": "https://feeds.simplecast.com/q4p2t4ke",
+          "imageURL": "https://www.google.com/s2/favicons?domain=smartless.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Revisionist History",
+          "description": "Malcolm Gladwell re-examines overlooked and misunderstood events",
+          "url": "https://feeds.megaphone.fm/revisionist-history",
+          "imageURL": "https://www.google.com/s2/favicons?domain=revisionisthistory.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "The Moth Radio Hour",
+          "description": "True stories told live without notes",
+          "url": "https://feeds.themoth.org/themothpodcast",
+          "imageURL": "https://www.google.com/s2/favicons?domain=themoth.org&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Radiolab Presents: Gonads",
+          "description": "The biology, history, and culture of reproduction",
+          "url": "https://feeds.simplecast.com/oiFdrexD",
+          "imageURL": "https://www.google.com/s2/favicons?domain=radiolab.org&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "This American Life",
+          "description": "Stories of ordinary people in extraordinary situations",
+          "url": "https://feeds.thisamericanlife.org/talpodcast",
+          "imageURL": "https://www.google.com/s2/favicons?domain=thisamericanlife.org&sz=128",
+          "type": "podcast"
+        }
+      ]
+    },
+    {
+      "id": "business",
+      "titleKey": "discover_category_business",
+      "icon": "chart.line.uptrend.xyaxis",
+      "color": "indigo",
+      "feeds": [
+        {
+          "title": "How I Built This — NPR",
+          "description": "The stories behind the world's best-known companies",
+          "url": "https://feeds.npr.org/510313/podcast.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=npr.org&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Acquired",
+          "description": "In-depth analysis of the greatest technology companies",
+          "url": "https://feeds.simplecast.com/4K-hjKBY",
+          "imageURL": "https://www.google.com/s2/favicons?domain=acquired.fm&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "My First Million",
+          "description": "Sam Parr and Shaan Puri brainstorm business ideas",
+          "url": "https://feeds.megaphone.fm/mfm",
+          "imageURL": "https://www.google.com/s2/favicons?domain=mfmpod.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "The Tim Ferriss Show",
+          "description": "World-class performers share tactics, tools, and routines",
+          "url": "https://rss.art19.com/tim-ferriss-show",
+          "imageURL": "https://www.google.com/s2/favicons?domain=tim.blog&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Planet Money — NPR",
+          "description": "The economy explained through story",
+          "url": "https://feeds.npr.org/510289/podcast.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=npr.org&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Freakonomics Radio",
+          "description": "The hidden side of everything",
+          "url": "https://feeds.simplecast.com/Y6hOkYhJ",
+          "imageURL": "https://www.google.com/s2/favicons?domain=freakonomics.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Masters of Scale",
+          "description": "Reid Hoffman tests unconventional theories about how companies grow",
+          "url": "https://feeds.megaphone.fm/mastersofscale",
+          "imageURL": "https://www.google.com/s2/favicons?domain=mastersofscale.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Invest Like the Best",
+          "description": "Conversations with the world's best investors",
+          "url": "https://feeds.megaphone.fm/investlikethebest",
+          "imageURL": "https://www.google.com/s2/favicons?domain=joincolossus.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "The Knowledge Project",
+          "description": "Shane Parrish's interviews on decision-making and mental models",
+          "url": "https://feeds.simplecast.com/jWqMxS0R",
+          "imageURL": "https://www.google.com/s2/favicons?domain=fs.blog&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "a16z Podcast",
+          "description": "Discussions on technology trends from Andreessen Horowitz",
+          "url": "https://feeds.simplecast.com/JGE3yC0V",
+          "imageURL": "https://www.google.com/s2/favicons?domain=a16z.com&sz=128",
+          "type": "podcast"
+        }
+      ]
+    },
+    {
+      "id": "design",
+      "titleKey": "discover_category_design",
+      "icon": "paintbrush.pointed",
+      "color": "pink",
+      "feeds": [
+        {
+          "title": "Design Details",
+          "description": "A show about the people who design our favorite products",
+          "url": "https://feeds.simplecast.com/DTOLbD4z",
+          "imageURL": "https://www.google.com/s2/favicons?domain=designdetails.fm&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Layout",
+          "description": "iOS design and development topics",
+          "url": "https://feeds.feedburner.com/layout-podcast",
+          "imageURL": "https://www.google.com/s2/favicons?domain=layout.fm&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "99% Invisible",
+          "description": "Stories about the unnoticed design that shapes our world",
+          "url": "https://feeds.simplecast.com/BqbsxVfO",
+          "imageURL": "https://www.google.com/s2/favicons?domain=99percentinvisible.org&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "The Design of Business",
+          "description": "Conversations on design thinking and business innovation",
+          "url": "https://feeds.megaphone.fm/design-of-business",
+          "imageURL": "https://www.google.com/s2/favicons?domain=hbr.org&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Overtime — Dribbble",
+          "description": "The Dribbble podcast for creatives",
+          "url": "https://dribbble.com/overtime/feed.rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=dribbble.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Shop Talk Show",
+          "description": "A podcast about front end web design and development",
+          "url": "https://shoptalkshow.com/feed/podcast/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=shoptalkshow.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "The Futur",
+          "description": "Business of design and the future of creativity",
+          "url": "https://feeds.megaphone.fm/the-futur-podcast",
+          "imageURL": "https://www.google.com/s2/favicons?domain=thefutur.com&sz=128",
+          "type": "podcast"
+        }
+      ]
+    },
+    {
+      "id": "gaming",
+      "titleKey": "discover_category_gaming",
+      "icon": "gamecontroller",
+      "color": "cyan",
+      "feeds": [
+        {
+          "title": "The Giant Beastcast",
+          "description": "Giant Bomb's East Coast crew discuss games and more",
+          "url": "https://feeds.megaphone.fm/giant-beastcast",
+          "imageURL": "https://www.google.com/s2/favicons?domain=giantbomb.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Triple Click",
+          "description": "A video game podcast from Maximum Fun",
+          "url": "https://feeds.simplecast.com/5IEapJpL",
+          "imageURL": "https://www.google.com/s2/favicons?domain=maximumfun.org&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Dropped Frames",
+          "description": "A podcast about video games from IGN",
+          "url": "https://feeds.simplecast.com/sCVE5Z2Y",
+          "imageURL": "https://www.google.com/s2/favicons?domain=ign.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Kinda Funny Games Daily",
+          "description": "Video game news and analysis",
+          "url": "https://feeds.megaphone.fm/KF7182657507",
+          "imageURL": "https://www.google.com/s2/favicons?domain=kindafunny.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Idle Thumbs",
+          "description": "A video game podcast with Steve Gaynor, Nick Breckon, and more",
+          "url": "https://www.idlethumbs.net/feeds/idlethumbs",
+          "imageURL": "https://www.google.com/s2/favicons?domain=idlethumbs.net&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "The Besties",
+          "description": "Friends argue about the best games of the week",
+          "url": "https://feeds.megaphone.fm/the-besties",
+          "imageURL": "https://www.google.com/s2/favicons?domain=thebesties.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Into the AM",
+          "description": "Gaming culture, esports, and tech",
+          "url": "https://feeds.megaphone.fm/into-the-am",
+          "imageURL": "https://www.google.com/s2/favicons?domain=intotheam.com&sz=128",
+          "type": "podcast"
+        }
+      ]
+    },
+    {
+      "id": "sports",
+      "titleKey": "discover_category_sports",
+      "icon": "sportscourt",
+      "color": "mint",
+      "feeds": [
+        {
+          "title": "The Bill Simmons Podcast",
+          "description": "Sports, pop culture, and entertainment",
+          "url": "https://feeds.megaphone.fm/BillSimmonsPodcast",
+          "imageURL": "https://www.google.com/s2/favicons?domain=theringer.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "ESPN Daily",
+          "description": "Stories from the world of sports",
+          "url": "https://feeds.megaphone.fm/ESPN9007809123",
+          "imageURL": "https://www.google.com/s2/favicons?domain=espn.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "The Athletic Football",
+          "description": "Football coverage and analysis from The Athletic",
+          "url": "https://feeds.megaphone.fm/the-athletic-football",
+          "imageURL": "https://www.google.com/s2/favicons?domain=theathletic.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "First Take — ESPN",
+          "description": "Stephen A. Smith and friends debate the biggest stories in sports",
+          "url": "https://feeds.megaphone.fm/first-take",
+          "imageURL": "https://www.google.com/s2/favicons?domain=espn.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Sky Sports Football Podcast",
+          "description": "Football analysis and debate from Sky Sports",
+          "url": "https://audioboom.com/channels/4693841.rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=skysports.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "F1: Beyond The Grid",
+          "description": "Stories from Formula 1 drivers, legends, and team principals",
+          "url": "https://feeds.megaphone.fm/f1-beyond-the-grid",
+          "imageURL": "https://www.google.com/s2/favicons?domain=formula1.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Pardon My Take",
+          "description": "Sports and pop culture commentary",
+          "url": "https://feeds.megaphone.fm/pardonmytake",
+          "imageURL": "https://www.google.com/s2/favicons?domain=barstoolsports.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Woj Pod — ESPN",
+          "description": "Adrian Wojnarowski's conversations about the NBA",
+          "url": "https://feeds.megaphone.fm/woj-pod",
+          "imageURL": "https://www.google.com/s2/favicons?domain=espn.com&sz=128",
+          "type": "podcast"
+        }
+      ]
+    }
+  ]
+}

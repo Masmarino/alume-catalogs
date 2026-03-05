@@ -1,0 +1,965 @@
+{
+  "version": 1,
+  "categories": [
+    {
+      "id": "tech",
+      "titleKey": "discover_category_tech",
+      "icon": "cpu",
+      "color": "blue",
+      "feeds": [
+        {
+          "title": "Hacker News",
+          "description": "Top stories from the tech community",
+          "url": "https://news.ycombinator.com/rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "The Verge",
+          "description": "Technology, science, art, and culture",
+          "url": "https://www.theverge.com/rss/index.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=theverge.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "TechCrunch",
+          "description": "Startup and technology news",
+          "url": "https://techcrunch.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Ars Technica",
+          "description": "Technology news and in-depth analysis",
+          "url": "https://feeds.arstechnica.com/arstechnica/index",
+          "imageURL": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Wired",
+          "description": "Where technology meets culture",
+          "url": "https://www.wired.com/feed/rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=wired.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "9to5Mac",
+          "description": "Apple news, rumors, and how-tos",
+          "url": "https://9to5mac.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=9to5mac.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "MacRumors",
+          "description": "Apple news and rumors",
+          "url": "https://feeds.macrumors.com/MacRumors-All",
+          "imageURL": "https://www.google.com/s2/favicons?domain=macrumors.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "9to5Google",
+          "description": "Google news, reviews, and insight",
+          "url": "https://9to5google.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=9to5google.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Android Authority",
+          "description": "Android and tech news for enthusiasts",
+          "url": "https://www.androidauthority.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=androidauthority.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Engadget",
+          "description": "Technology news and reviews",
+          "url": "https://www.engadget.com/rss.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "CNET",
+          "description": "Technology reviews, news, prices, and downloads",
+          "url": "https://www.cnet.com/rss/all/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=cnet.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Tom's Hardware",
+          "description": "PC hardware news, reviews, and benchmarks",
+          "url": "https://www.tomshardware.com/feeds/all",
+          "imageURL": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "IEEE Spectrum",
+          "description": "Technology for the benefit of humanity",
+          "url": "https://spectrum.ieee.org/feeds/feed.rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=spectrum.ieee.org&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "MIT Technology Review",
+          "description": "Explaining what technology means for humans",
+          "url": "https://www.technologyreview.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=technologyreview.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Daring Fireball",
+          "description": "John Gruber's Apple and tech commentary",
+          "url": "https://daringfireball.net/feeds/main",
+          "imageURL": "https://www.google.com/s2/favicons?domain=daringfireball.net&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Six Colors",
+          "description": "Apple and technology by Jason Snell",
+          "url": "https://sixcolors.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=sixcolors.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Swift.org Blog",
+          "description": "Official Swift programming language blog",
+          "url": "https://www.swift.org/atom.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=swift.org&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "NSHipster",
+          "description": "Obscure topics in Cocoa and Swift",
+          "url": "https://nshipster.com/feed.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=nshipster.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "iOS Dev Weekly",
+          "description": "The best iOS development links every week",
+          "url": "https://iosdevweekly.com/issues.rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=iosdevweekly.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Stratechery",
+          "description": "Analysis of the strategy and business side of technology",
+          "url": "https://stratechery.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=stratechery.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Benedict Evans",
+          "description": "Technology industry analysis and essays",
+          "url": "https://www.ben-evans.com/benedictevans?format=rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=ben-evans.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "The Register",
+          "description": "Biting the hand that feeds IT",
+          "url": "https://www.theregister.com/headlines.atom",
+          "imageURL": "https://www.google.com/s2/favicons?domain=theregister.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "ZDNet",
+          "description": "Technology news, analysis, and reviews",
+          "url": "https://www.zdnet.com/news/rss.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "VentureBeat",
+          "description": "AI, gaming, and enterprise technology",
+          "url": "https://venturebeat.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=venturebeat.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Slashdot",
+          "description": "News for nerds, stuff that matters",
+          "url": "https://rss.slashdot.org/Slashdot/slashdotMain",
+          "imageURL": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Paul Graham Essays",
+          "description": "Essays on startups and technology",
+          "url": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=paulgraham.com&sz=128",
+          "type": "article"
+        }
+      ]
+    },
+    {
+      "id": "science",
+      "titleKey": "discover_category_science",
+      "icon": "atom",
+      "color": "green",
+      "feeds": [
+        {
+          "title": "NASA Breaking News",
+          "description": "Latest news from NASA",
+          "url": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=nasa.gov&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Nature",
+          "description": "Cutting-edge scientific research",
+          "url": "https://www.nature.com/nature.rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=nature.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Science Daily",
+          "description": "Breaking science news from all fields",
+          "url": "https://www.sciencedaily.com/rss/all.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=sciencedaily.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Quanta Magazine",
+          "description": "Illuminating basic science and math",
+          "url": "https://api.quantamagazine.org/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=quantamagazine.org&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Scientific American",
+          "description": "Science for the curious mind since 1845",
+          "url": "https://rss.sciam.com/ScientificAmerican-Global",
+          "imageURL": "https://www.google.com/s2/favicons?domain=scientificamerican.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "New Scientist",
+          "description": "The latest science and technology news",
+          "url": "https://www.newscientist.com/feed/home/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=newscientist.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "The Guardian Science",
+          "description": "Science news and analysis from The Guardian",
+          "url": "https://www.theguardian.com/science/rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "BBC Science & Environment",
+          "description": "Science and environment news from the BBC",
+          "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=bbc.co.uk&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Phys.org",
+          "description": "Latest science news in physics and space",
+          "url": "https://phys.org/rss-feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=phys.org&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "EurekAlert!",
+          "description": "Global source for science news from AAAS",
+          "url": "https://www.eurekalert.org/rss.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=eurekalert.org&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Live Science",
+          "description": "Science news and remarkable discoveries",
+          "url": "https://www.livescience.com/feeds/all",
+          "imageURL": "https://www.google.com/s2/favicons?domain=livescience.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Popular Science",
+          "description": "Science and technology for curious minds",
+          "url": "https://www.popsci.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=popsci.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "ESA — Space Science",
+          "description": "Space science news from the European Space Agency",
+          "url": "https://www.esa.int/rssfeed/Our_Activities/Space_Science",
+          "imageURL": "https://www.google.com/s2/favicons?domain=esa.int&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Cell",
+          "description": "Leading peer-reviewed life sciences journal",
+          "url": "https://www.cell.com/cell/current.rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=cell.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "The Scientist",
+          "description": "News and commentary for the life sciences",
+          "url": "https://www.the-scientist.com/rss/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=the-scientist.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "PNAS",
+          "description": "Proceedings of the National Academy of Sciences",
+          "url": "https://www.pnas.org/rss/current.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=pnas.org&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Space.com",
+          "description": "Space exploration, astronomy, and space science",
+          "url": "https://www.space.com/feeds/all",
+          "imageURL": "https://www.google.com/s2/favicons?domain=space.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Discover Magazine",
+          "description": "Science that matters",
+          "url": "https://www.discovermagazine.com/rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=discovermagazine.com&sz=128",
+          "type": "article"
+        }
+      ]
+    },
+    {
+      "id": "news",
+      "titleKey": "discover_category_news",
+      "icon": "newspaper",
+      "color": "red",
+      "feeds": [
+        {
+          "title": "Reuters",
+          "description": "International news agency",
+          "url": "https://feeds.reuters.com/reuters/topNews",
+          "imageURL": "https://www.google.com/s2/favicons?domain=reuters.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "BBC News",
+          "description": "World and UK news from the BBC",
+          "url": "https://feeds.bbci.co.uk/news/rss.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=bbc.co.uk&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Associated Press",
+          "description": "Breaking news from AP",
+          "url": "https://feeds.apnews.com/rss/apf-topnews",
+          "imageURL": "https://www.google.com/s2/favicons?domain=apnews.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "NPR",
+          "description": "National Public Radio news",
+          "url": "https://feeds.npr.org/1001/rss.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=npr.org&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Al Jazeera",
+          "description": "Global perspectives on world news",
+          "url": "https://www.aljazeera.com/xml/rss/all.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "The Guardian",
+          "description": "News, sport and opinion from The Guardian",
+          "url": "https://www.theguardian.com/world/rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "The New York Times",
+          "description": "Breaking news, world news and multimedia",
+          "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "The Washington Post",
+          "description": "Democracy dies in darkness",
+          "url": "https://feeds.washingtonpost.com/rss/world",
+          "imageURL": "https://www.google.com/s2/favicons?domain=washingtonpost.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Axios",
+          "description": "News worth knowing in smart brevity",
+          "url": "https://api.axios.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=axios.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Politico",
+          "description": "Political news and policy analysis",
+          "url": "https://www.politico.com/rss/politicopicks.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=politico.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Foreign Affairs",
+          "description": "The leading forum for international affairs",
+          "url": "https://www.foreignaffairs.com/rss.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=foreignaffairs.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Foreign Policy",
+          "description": "Global politics, economics, and ideas",
+          "url": "https://foreignpolicy.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=foreignpolicy.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "The Economist",
+          "description": "World news, politics, economics, and more",
+          "url": "https://www.economist.com/the-world-this-week/rss.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=economist.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Financial Times",
+          "description": "International business and financial news",
+          "url": "https://www.ft.com/rss/home",
+          "imageURL": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Vox",
+          "description": "Explaining the news in depth",
+          "url": "https://www.vox.com/rss/index.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=vox.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "ProPublica",
+          "description": "Investigative journalism in the public interest",
+          "url": "https://feeds.propublica.org/propublica/main",
+          "imageURL": "https://www.google.com/s2/favicons?domain=propublica.org&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "The Independent",
+          "description": "UK and world news",
+          "url": "https://www.independent.co.uk/news/rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=independent.co.uk&sz=128",
+          "type": "article"
+        }
+      ]
+    },
+    {
+      "id": "culture",
+      "titleKey": "discover_category_culture",
+      "icon": "book",
+      "color": "orange",
+      "feeds": [
+        {
+          "title": "The Atlantic",
+          "description": "Ideas, politics, culture",
+          "url": "https://feeds.theatlantic.com/TheAtlantic/all",
+          "imageURL": "https://www.google.com/s2/favicons?domain=theatlantic.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Pitchfork",
+          "description": "Music news and reviews",
+          "url": "https://pitchfork.com/rss/news/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=pitchfork.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Aeon",
+          "description": "Philosophy, science, and culture essays",
+          "url": "https://aeon.co/feed.rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=aeon.co&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "The Marginalian",
+          "description": "Brain pickings on art, science, and philosophy",
+          "url": "https://www.themarginalian.org/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=themarginalian.org&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Literary Hub",
+          "description": "The best of the literary internet",
+          "url": "https://lithub.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=lithub.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Rolling Stone",
+          "description": "Music, film, TV and political news coverage",
+          "url": "https://www.rollingstone.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "The New Yorker",
+          "description": "Reporting, commentary, criticism, and fiction",
+          "url": "https://www.newyorker.com/feed/everything",
+          "imageURL": "https://www.google.com/s2/favicons?domain=newyorker.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "The Paris Review",
+          "description": "Literary magazine with fiction, poetry, and essays",
+          "url": "https://www.theparisreview.org/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=theparisreview.org&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Vulture",
+          "description": "Entertainment and pop culture criticism",
+          "url": "https://www.vulture.com/feed/all.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=vulture.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "The AV Club",
+          "description": "Film, TV, music, and comedy coverage",
+          "url": "https://www.avclub.com/rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=avclub.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Hyperallergic",
+          "description": "Sensitive to art and its discontents",
+          "url": "https://hyperallergic.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=hyperallergic.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Longreads",
+          "description": "The best long-form stories on the web",
+          "url": "https://longreads.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=longreads.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "The Guardian Culture",
+          "description": "Culture news and reviews from The Guardian",
+          "url": "https://www.theguardian.com/culture/rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Criterion Collection",
+          "description": "Essays and analysis on classic and contemporary films",
+          "url": "https://www.criterion.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=criterion.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "NME",
+          "description": "Music news, reviews, and interviews",
+          "url": "https://www.nme.com/feed",
+          "imageURL": "https://www.google.com/s2/favicons?domain=nme.com&sz=128",
+          "type": "article"
+        }
+      ]
+    },
+    {
+      "id": "design",
+      "titleKey": "discover_category_design",
+      "icon": "paintbrush.pointed",
+      "color": "pink",
+      "feeds": [
+        {
+          "title": "A List Apart",
+          "description": "For people who make websites",
+          "url": "https://alistapart.com/main/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=alistapart.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Smashing Magazine",
+          "description": "For web designers and developers",
+          "url": "https://www.smashingmagazine.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=smashingmagazine.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Dezeen",
+          "description": "Architecture and design magazine",
+          "url": "https://www.dezeen.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=dezeen.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Creative Bloq",
+          "description": "Design inspiration and creative tips",
+          "url": "https://www.creativebloq.com/feeds.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=creativebloq.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "It's Nice That",
+          "description": "Championing creativity across art and design",
+          "url": "https://www.itsnicethat.com/rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=itsnicethat.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Codrops",
+          "description": "Web design and development tutorials and inspiration",
+          "url": "https://tympanus.net/codrops/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=tympanus.net&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "CSS-Tricks",
+          "description": "Tips, tricks, and techniques on CSS and web design",
+          "url": "https://css-tricks.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=css-tricks.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "UX Collective",
+          "description": "Curated stories on UX, visual design, and product thinking",
+          "url": "https://uxdesign.cc/feed",
+          "imageURL": "https://www.google.com/s2/favicons?domain=uxdesign.cc&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Design Observer",
+          "description": "Thinking about design and visual culture",
+          "url": "https://designobserver.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=designobserver.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Eye on Design — AIGA",
+          "description": "Design content for a global community",
+          "url": "https://eyeondesign.aiga.org/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=eyeondesign.aiga.org&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Dribbble Blog",
+          "description": "Design inspiration and stories from Dribbble",
+          "url": "https://dribbble.com/stories/feed.rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=dribbble.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Wallpaper*",
+          "description": "International design, fashion, and architecture",
+          "url": "https://www.wallpaper.com/rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=wallpaper.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Core77",
+          "description": "Industrial design news, competitions, and resources",
+          "url": "https://www.core77.com/rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=core77.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Architectural Digest",
+          "description": "Architecture, interior design, and culture",
+          "url": "https://www.architecturaldigest.com/feed/rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=architecturaldigest.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "AIGA Eye on Design",
+          "description": "Design thinking for creatives and professionals",
+          "url": "https://eyeondesign.aiga.org/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=aiga.org&sz=128",
+          "type": "article"
+        }
+      ]
+    },
+    {
+      "id": "business",
+      "titleKey": "discover_category_business",
+      "icon": "chart.line.uptrend.xyaxis",
+      "color": "indigo",
+      "feeds": [
+        {
+          "title": "Bloomberg Markets",
+          "description": "Financial news and business analysis",
+          "url": "https://feeds.bloomberg.com/markets/news.rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Harvard Business Review",
+          "description": "Management ideas for business leaders",
+          "url": "https://hbr.org/resources/rss/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=hbr.org&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "The Economist — Finance",
+          "description": "Finance and economics analysis",
+          "url": "https://www.economist.com/finance-and-economics/rss.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=economist.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Y Combinator Blog",
+          "description": "Insights from the startup accelerator",
+          "url": "https://www.ycombinator.com/blog/rss.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=ycombinator.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Fast Company",
+          "description": "Business and innovation news",
+          "url": "https://www.fastcompany.com/latest/rss?format=xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=fastcompany.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Inc.",
+          "description": "Resources and advice for entrepreneurs",
+          "url": "https://www.inc.com/rss/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=inc.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Fortune",
+          "description": "Business, finance, and technology news",
+          "url": "https://fortune.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=fortune.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Wall Street Journal",
+          "description": "Business and financial news",
+          "url": "https://feeds.a.dj.com/rss/RSSWorldNews.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=wsj.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Financial Times",
+          "description": "International business and financial news",
+          "url": "https://www.ft.com/rss/home/uk",
+          "imageURL": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "TechCrunch Startups",
+          "description": "Startup news and funding rounds",
+          "url": "https://techcrunch.com/category/startups/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "CB Insights",
+          "description": "Tech market intelligence and venture capital",
+          "url": "https://www.cbinsights.com/research/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=cbinsights.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "McKinsey Insights",
+          "description": "Business, management, and strategy insights",
+          "url": "https://www.mckinsey.com/insights/rss.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=mckinsey.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Business Insider",
+          "description": "Business, finance, and tech news",
+          "url": "https://www.businessinsider.com/rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=businessinsider.com&sz=128",
+          "type": "article"
+        }
+      ]
+    },
+    {
+      "id": "gaming",
+      "titleKey": "discover_category_gaming",
+      "icon": "gamecontroller",
+      "color": "cyan",
+      "feeds": [
+        {
+          "title": "IGN",
+          "description": "Video game reviews, news, and trailers",
+          "url": "https://feeds.ign.com/ign/all",
+          "imageURL": "https://www.google.com/s2/favicons?domain=ign.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Kotaku",
+          "description": "Gaming culture and news",
+          "url": "https://kotaku.com/rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=kotaku.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Polygon",
+          "description": "Video games, entertainment, and pop culture",
+          "url": "https://www.polygon.com/rss/index.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=polygon.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "PC Gamer",
+          "description": "PC gaming news, reviews, and features",
+          "url": "https://www.pcgamer.com/rss/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=pcgamer.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Rock Paper Shotgun",
+          "description": "PC gaming without the BS",
+          "url": "https://www.rockpapershotgun.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=rockpapershotgun.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Eurogamer",
+          "description": "Video games reviews and news",
+          "url": "https://www.eurogamer.net/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=eurogamer.net&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Game Developer",
+          "description": "News and analysis for game developers",
+          "url": "https://www.gamedeveloper.com/rss.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=gamedeveloper.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Nintendo Life",
+          "description": "Nintendo news, reviews, and features",
+          "url": "https://www.nintendolife.com/feeds/latest",
+          "imageURL": "https://www.google.com/s2/favicons?domain=nintendolife.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Push Square",
+          "description": "PlayStation news, reviews, and features",
+          "url": "https://www.pushsquare.com/feeds/latest",
+          "imageURL": "https://www.google.com/s2/favicons?domain=pushsquare.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Destructoid",
+          "description": "Gaming news, reviews, and community",
+          "url": "https://www.destructoid.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=destructoid.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Game Informer",
+          "description": "Video game reviews, previews, and news",
+          "url": "https://www.gameinformer.com/rss.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=gameinformer.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "VG247",
+          "description": "Gaming news, reviews, previews, and guides",
+          "url": "https://www.vg247.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=vg247.com&sz=128",
+          "type": "article"
+        }
+      ]
+    },
+    {
+      "id": "sports",
+      "titleKey": "discover_category_sports",
+      "icon": "sportscourt",
+      "color": "mint",
+      "feeds": [
+        {
+          "title": "ESPN",
+          "description": "Sports news, scores, and highlights",
+          "url": "https://www.espn.com/espn/rss/news",
+          "imageURL": "https://www.google.com/s2/favicons?domain=espn.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "BBC Sport",
+          "description": "Sport news from the BBC",
+          "url": "https://feeds.bbci.co.uk/sport/rss.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=bbc.co.uk&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Sky Sports",
+          "description": "Latest sport news and results",
+          "url": "https://www.skysports.com/rss/12040",
+          "imageURL": "https://www.google.com/s2/favicons?domain=skysports.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "The Athletic",
+          "description": "In-depth sports journalism",
+          "url": "https://theathletic.com/rss/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=theathletic.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Sports Illustrated",
+          "description": "Sports news, analysis, and features",
+          "url": "https://www.si.com/rss/si_topstories.rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=si.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "CBS Sports",
+          "description": "Sports news and scores from CBS",
+          "url": "https://www.cbssports.com/rss/headlines/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=cbssports.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "The Ringer",
+          "description": "Sports and pop culture analysis",
+          "url": "https://www.theringer.com/rss/index.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=theringer.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Bleacher Report",
+          "description": "Sports news, highlights, and analysis",
+          "url": "https://bleacherreport.com/articles/feed",
+          "imageURL": "https://www.google.com/s2/favicons?domain=bleacherreport.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Formula 1",
+          "description": "Official F1 news and race results",
+          "url": "https://www.formula1.com/content/fom-website/en/latest/all.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=formula1.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Cycling News",
+          "description": "Professional cycling news and results",
+          "url": "https://www.cyclingnews.com/rss/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=cyclingnews.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "NBA",
+          "description": "Official NBA news and highlights",
+          "url": "https://www.nba.com/rss/nba_rss.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=nba.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "NFL News",
+          "description": "Official NFL news and analysis",
+          "url": "https://www.nfl.com/rss/rsslanding?searchString=news",
+          "imageURL": "https://www.google.com/s2/favicons?domain=nfl.com&sz=128",
+          "type": "article"
+        }
+      ]
+    }
+  ]
+}
