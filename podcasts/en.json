@@ -617,6 +617,149 @@
           "type": "podcast"
         }
       ]
+    },
+    {
+      "id": "health",
+      "titleKey": "discover_category_health",
+      "icon": "heart.pulse",
+      "color": "mint",
+      "feeds": [
+        {
+          "title": "Huberman Lab",
+          "description": "Science-based tools for everyday life",
+          "url": "https://feeds.megaphone.fm/hubermanlab",
+          "imageURL": "https://www.google.com/s2/favicons?domain=hubermanlab.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Maintenance Phase",
+          "description": "Debunking wellness myths and the diet industry",
+          "url": "https://feeds.buzzsprout.com/1411126.rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=maintenancephase.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "On Being — Krista Tippett",
+          "description": "Conversations about meaning, wellbeing, and the human experience",
+          "url": "https://feeds.onbeing.org/programs/on-being-podcast",
+          "imageURL": "https://www.google.com/s2/favicons?domain=onbeing.org&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Feel Better, Live More",
+          "description": "Dr Rangan Chatterjee on the four pillars of health",
+          "url": "https://feeds.acast.com/public/shows/feel-better-live-more-with-dr-rangan-chatterjee",
+          "imageURL": "https://www.google.com/s2/favicons?domain=drchatterjee.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "ZOE Science & Nutrition",
+          "description": "Cutting-edge science on food, gut health, and wellbeing",
+          "url": "https://feeds.simplecast.com/m2F5X6N5",
+          "imageURL": "https://www.google.com/s2/favicons?domain=joinzoe.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Science Vs",
+          "description": "Takes on health fads, trends, and opinions with actual science",
+          "url": "https://feeds.megaphone.fm/sciencevs",
+          "imageURL": "https://www.google.com/s2/favicons?domain=gimletmedia.com&sz=128",
+          "type": "podcast"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "titleKey": "discover_category_ai",
+      "icon": "sparkles",
+      "color": "cyan",
+      "feeds": [
+        {
+          "title": "TWIML AI Podcast",
+          "description": "Machine learning and AI interviews with practitioners",
+          "url": "https://twimlai.com/feed",
+          "imageURL": "https://www.google.com/s2/favicons?domain=twimlai.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Practical AI",
+          "description": "Making artificial intelligence practical and actionable",
+          "url": "https://changelog.com/practicalai/feed",
+          "imageURL": "https://www.google.com/s2/favicons?domain=changelog.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Machine Learning Street Talk",
+          "description": "In-depth interviews on ML research and theory",
+          "url": "https://feeds.redcircle.com/c3ddb0c3-7a68-48be-87e4-a0a45c7a3fba",
+          "imageURL": "https://www.google.com/s2/favicons?domain=mlst.net&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "The AI Breakdown",
+          "description": "Daily briefings on the most important AI stories",
+          "url": "https://feeds.megaphone.fm/artificialintelligencedailybrief",
+          "imageURL": "https://www.google.com/s2/favicons?domain=breakdown.fm&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Gradient Dissent — Weights & Biases",
+          "description": "Conversations with ML practitioners building the future",
+          "url": "https://feeds.simplecast.com/8qCkUNwR",
+          "imageURL": "https://www.google.com/s2/favicons?domain=wandb.ai&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Eye on AI",
+          "description": "Weekly interviews with the people building AI",
+          "url": "https://feeds.simplecast.com/yM5EoRR0",
+          "imageURL": "https://www.google.com/s2/favicons?domain=eye-on.ai&sz=128",
+          "type": "podcast"
+        }
+      ]
+    },
+    {
+      "id": "environment",
+      "titleKey": "discover_category_environment",
+      "icon": "leaf",
+      "color": "teal",
+      "feeds": [
+        {
+          "title": "Outrage + Optimism",
+          "description": "Climate leaders on solutions and system change",
+          "url": "https://feeds.simplecast.com/KP4P7jLZ",
+          "imageURL": "https://www.google.com/s2/favicons?domain=outrageandoptimism.org&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "My Climate Journey",
+          "description": "Stories of climate solutions from entrepreneurs and investors",
+          "url": "https://feeds.simplecast.com/IqBFUFtR",
+          "imageURL": "https://www.google.com/s2/favicons?domain=mcjcollective.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Sea Change Radio",
+          "description": "A podcast on the move toward a sustainable future",
+          "url": "https://www.seachangeradio.com/podcast/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=seachangeradio.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "How to Save a Planet",
+          "description": "Science-backed climate solutions from Gimlet Media",
+          "url": "https://feeds.megaphone.fm/HSA9175756108",
+          "imageURL": "https://www.google.com/s2/favicons?domain=spotify.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Drilled",
+          "description": "Investigative journalism on the fossil fuel industry and climate denial",
+          "url": "https://feeds.acast.com/public/shows/drilled",
+          "imageURL": "https://www.google.com/s2/favicons?domain=drilledpodcast.com&sz=128",
+          "type": "podcast"
+        }
+      ]
     }
   ]
 }

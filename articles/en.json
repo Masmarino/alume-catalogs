@@ -960,6 +960,198 @@
           "type": "article"
         }
       ]
+    },
+    {
+      "id": "health",
+      "titleKey": "discover_category_health",
+      "icon": "heart.pulse",
+      "color": "mint",
+      "feeds": [
+        {
+          "title": "STAT News",
+          "description": "Health, medicine, and life sciences journalism",
+          "url": "https://www.statnews.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=statnews.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Medical News Today",
+          "description": "Health and medical news",
+          "url": "https://www.medicalnewstoday.com/rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=medicalnewstoday.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Harvard Health Blog",
+          "description": "Trusted health and wellness advice from Harvard",
+          "url": "https://www.health.harvard.edu/blog/feed",
+          "imageURL": "https://www.google.com/s2/favicons?domain=health.harvard.edu&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Mayo Clinic Newsroom",
+          "description": "Latest health news and research from Mayo Clinic",
+          "url": "https://newsnetwork.mayoclinic.org/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=mayoclinic.org&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "The Guardian — Health",
+          "description": "Health and wellbeing from The Guardian",
+          "url": "https://www.theguardian.com/society/health/rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Healthline",
+          "description": "Evidence-based health and wellness information",
+          "url": "https://www.healthline.com/rss/health-news",
+          "imageURL": "https://www.google.com/s2/favicons?domain=healthline.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "WebMD Health News",
+          "description": "Breaking health news and medical information",
+          "url": "https://rss.webmd.com/rss/rss.aspx?RSSSource=RSS_PUBLIC",
+          "imageURL": "https://www.google.com/s2/favicons?domain=webmd.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "NIH News in Health",
+          "description": "Health and research news from the National Institutes of Health",
+          "url": "https://newsinhealth.nih.gov/nihnews.rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=nih.gov&sz=128",
+          "type": "article"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "titleKey": "discover_category_ai",
+      "icon": "sparkles",
+      "color": "cyan",
+      "feeds": [
+        {
+          "title": "VentureBeat — AI",
+          "description": "AI news, research, and industry coverage",
+          "url": "https://venturebeat.com/ai/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=venturebeat.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "The Gradient",
+          "description": "Perspectives on AI research and technology",
+          "url": "https://thegradient.pub/rss/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=thegradient.pub&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Import AI",
+          "description": "Weekly newsletter on AI research by Jack Clark",
+          "url": "https://jack-clark.net/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=jack-clark.net&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "The Batch — DeepLearning.AI",
+          "description": "AI news curated by Andrew Ng",
+          "url": "https://www.deeplearning.ai/thebatch/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=deeplearning.ai&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Hugging Face Blog",
+          "description": "Research, models, and updates from Hugging Face",
+          "url": "https://huggingface.co/blog/feed.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Simon Willison's Blog",
+          "description": "Deep dives into LLMs, tools, and AI development",
+          "url": "https://simonwillison.net/atom/everything/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "AI Alignment Forum",
+          "description": "Research and discussion on AI safety and alignment",
+          "url": "https://www.alignmentforum.org/feed.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=alignmentforum.org&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "MIT AI News",
+          "description": "Artificial intelligence research from MIT",
+          "url": "https://news.mit.edu/topic/mitartificial-intelligence2-rss.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=mit.edu&sz=128",
+          "type": "article"
+        }
+      ]
+    },
+    {
+      "id": "environment",
+      "titleKey": "discover_category_environment",
+      "icon": "leaf",
+      "color": "teal",
+      "feeds": [
+        {
+          "title": "Carbon Brief",
+          "description": "Climate science, policy, and energy analysis",
+          "url": "https://www.carbonbrief.org/feed",
+          "imageURL": "https://www.google.com/s2/favicons?domain=carbonbrief.org&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "The Guardian — Environment",
+          "description": "Climate and environment news from The Guardian",
+          "url": "https://www.theguardian.com/environment/rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Inside Climate News",
+          "description": "Award-winning non-profit climate journalism",
+          "url": "https://insideclimatenews.org/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=insideclimatenews.org&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Yale Environment 360",
+          "description": "Analysis, opinion, and reporting on the global environment",
+          "url": "https://e360.yale.edu/feed",
+          "imageURL": "https://www.google.com/s2/favicons?domain=e360.yale.edu&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Grist",
+          "description": "Climate solutions and environmental justice",
+          "url": "https://grist.org/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=grist.org&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "RealClimate",
+          "description": "Climate science commentary from working scientists",
+          "url": "https://www.realclimate.org/feed/atom/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=realclimate.org&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "BBC — Environment",
+          "description": "Environment and nature news from the BBC",
+          "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=bbc.co.uk&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "DeSmog",
+          "description": "Clearing the PR pollution that clouds climate science",
+          "url": "https://www.desmog.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=desmog.com&sz=128",
+          "type": "article"
+        }
+      ]
     }
   ]
 }

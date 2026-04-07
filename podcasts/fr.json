@@ -442,6 +442,135 @@
           "type": "podcast"
         }
       ]
+    },
+    {
+      "id": "health",
+      "titleKey": "discover_category_health",
+      "icon": "heart.pulse",
+      "color": "mint",
+      "feeds": [
+        {
+          "title": "Choses à Savoir Santé",
+          "description": "Réponses aux questions santé du quotidien",
+          "url": "https://feeds.acast.com/public/shows/choses-a-savoir-sante",
+          "imageURL": "https://www.google.com/s2/favicons?domain=chosesasavoir.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "La Méthode Scientifique",
+          "description": "Sciences et santé — France Culture",
+          "url": "https://radiofrance-podcast.net/podcast09/rss_10474.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=radiofrance.fr&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Grand bien vous fasse !",
+          "description": "Santé, bien-être et médecine — France Inter",
+          "url": "https://radiofrance-podcast.net/podcast09/rss_14024.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=radiofrance.fr&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "France Info — Santé",
+          "description": "Actualité médicale et santé publique",
+          "url": "https://radiofrance-podcast.net/podcast09/rss_sante.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=francetvinfo.fr&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Pourquoi Docteur",
+          "description": "Décryptages santé en podcast",
+          "url": "https://www.pourquoidocteur.fr/rss.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=pourquoidocteur.fr&sz=128",
+          "type": "podcast"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "titleKey": "discover_category_ai",
+      "icon": "sparkles",
+      "color": "cyan",
+      "feeds": [
+        {
+          "title": "Tech & Co",
+          "description": "Technologies, IA et innovation — BFM Business",
+          "url": "https://rss.bfmtv.com/podcast/bfm-business/tech-co/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=bfmtv.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Génération Do It Yourself",
+          "description": "Entrepreneuriat tech et IA avec Mathieu Stefani",
+          "url": "https://feeds.soundcloud.com/users/soundcloud:users:166360999/sounds.rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=gdiy.fr&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Synapse",
+          "description": "Intelligence artificielle et enjeux éthiques",
+          "url": "https://feeds.acast.com/public/shows/synapse-ia",
+          "imageURL": "https://www.google.com/s2/favicons?domain=acast.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Underscore_",
+          "description": "Développement, IA et culture numérique",
+          "url": "https://feeds.acast.com/public/shows/underscore_",
+          "imageURL": "https://www.google.com/s2/favicons?domain=acast.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Allez savoir — EPFL",
+          "description": "Sciences et IA depuis l'École polytechnique fédérale",
+          "url": "https://feeds.acast.com/public/shows/allez-savoir",
+          "imageURL": "https://www.google.com/s2/favicons?domain=epfl.ch&sz=128",
+          "type": "podcast"
+        }
+      ]
+    },
+    {
+      "id": "environment",
+      "titleKey": "discover_category_environment",
+      "icon": "leaf",
+      "color": "teal",
+      "feeds": [
+        {
+          "title": "Présages",
+          "description": "Transition écologique et sociétale en profondeur",
+          "url": "https://feeds.acast.com/public/shows/presages",
+          "imageURL": "https://www.google.com/s2/favicons?domain=presages.io&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Chaleur Humaine",
+          "description": "Comprendre la crise climatique — Le Monde",
+          "url": "https://feeds.acast.com/public/shows/chaleur-humaine",
+          "imageURL": "https://www.google.com/s2/favicons?domain=lemonde.fr&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Sismique",
+          "description": "Société, économie et transition — Julien Devaureix",
+          "url": "https://feeds.acast.com/public/shows/sismique",
+          "imageURL": "https://www.google.com/s2/favicons?domain=acast.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "La Terre au carré",
+          "description": "Environnement et biodiversité — France Inter",
+          "url": "https://radiofrance-podcast.net/podcast09/rss_19515.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=radiofrance.fr&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Superfail",
+          "description": "Quand les projets écologiques tournent mal",
+          "url": "https://feeds.acast.com/public/shows/superfail",
+          "imageURL": "https://www.google.com/s2/favicons?domain=acast.com&sz=128",
+          "type": "podcast"
+        }
+      ]
     }
   ]
 }
