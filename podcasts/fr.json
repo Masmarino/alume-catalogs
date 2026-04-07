@@ -445,7 +445,7 @@
     {
       "id": "health",
       "titleKey": "discover_category_health",
-      "icon": "heart.pulse",
+      "icon": "stethoscope",
       "color": "mint",
       "feeds": [
         {
