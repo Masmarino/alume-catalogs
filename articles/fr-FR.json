@@ -612,15 +612,8 @@
         {
           "title": "Futura Santé",
           "description": "Santé, bien-être et médecines douces",
-          "url": "https://www.futura-sciences.com/sante/rss.xml",
+          "url": "https://www.futura-sciences.com/rss/sante/actualites.xml",
           "imageURL": "https://www.google.com/s2/favicons?domain=futura-sciences.com&sz=128",
-          "type": "article"
-        },
-        {
-          "title": "Pourquoi Docteur",
-          "description": "Actualités santé et médecine grand public",
-          "url": "https://www.pourquoidocteur.fr/rss.xml",
-          "imageURL": "https://www.google.com/s2/favicons?domain=pourquoidocteur.fr&sz=128",
           "type": "article"
         },
         {
@@ -635,13 +628,6 @@
           "description": "Actualités santé de France Télévisions",
           "url": "https://www.francetvinfo.fr/sante.rss",
           "imageURL": "https://www.google.com/s2/favicons?domain=francetvinfo.fr&sz=128",
-          "type": "article"
-        },
-        {
-          "title": "Vidal — Actualités",
-          "description": "Information médicale et pharmaceutique",
-          "url": "https://www.vidal.fr/rss/actualites.xml",
-          "imageURL": "https://www.google.com/s2/favicons?domain=vidal.fr&sz=128",
           "type": "article"
         }
       ]
@@ -676,7 +662,7 @@
         {
           "title": "L'Usine Digitale",
           "description": "Industrie, tech et transformation numérique",
-          "url": "https://www.usine-digitale.fr/rss/all.xml",
+          "url": "https://www.usine-digitale.fr/arc/outboundfeeds/rss/",
           "imageURL": "https://www.google.com/s2/favicons?domain=usine-digitale.fr&sz=128",
           "type": "article"
         },
@@ -707,13 +693,6 @@
           "description": "Environnement, climat et biodiversité du Monde",
           "url": "https://www.lemonde.fr/planete/rss_full.xml",
           "imageURL": "https://www.google.com/s2/favicons?domain=lemonde.fr&sz=128",
-          "type": "article"
-        },
-        {
-          "title": "Novethic",
-          "description": "Économie responsable, RSE et transition écologique",
-          "url": "https://www.novethic.fr/rss.xml",
-          "imageURL": "https://www.google.com/s2/favicons?domain=novethic.fr&sz=128",
           "type": "article"
         },
         {

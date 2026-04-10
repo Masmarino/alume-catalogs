@@ -225,13 +225,6 @@
           "type": "article"
         },
         {
-          "title": "Scientific American",
-          "description": "Science for the curious mind since 1845",
-          "url": "https://rss.sciam.com/ScientificAmerican-Global",
-          "imageURL": "https://www.google.com/s2/favicons?domain=scientificamerican.com&sz=128",
-          "type": "article"
-        },
-        {
           "title": "New Scientist",
           "description": "The latest science and technology news",
           "url": "https://www.newscientist.com/feed/home/",
@@ -257,13 +250,6 @@
           "description": "Latest science news in physics and space",
           "url": "https://phys.org/rss-feed/",
           "imageURL": "https://www.google.com/s2/favicons?domain=phys.org&sz=128",
-          "type": "article"
-        },
-        {
-          "title": "EurekAlert!",
-          "description": "Global source for science news from AAAS",
-          "url": "https://www.eurekalert.org/rss.xml",
-          "imageURL": "https://www.google.com/s2/favicons?domain=eurekalert.org&sz=128",
           "type": "article"
         },
         {
@@ -297,7 +283,7 @@
         {
           "title": "The Scientist",
           "description": "News and commentary for the life sciences",
-          "url": "https://www.the-scientist.com/rss/",
+          "url": "https://www.the-scientist.com/atom/latest",
           "imageURL": "https://www.google.com/s2/favicons?domain=the-scientist.com&sz=128",
           "type": "article"
         },
@@ -314,13 +300,6 @@
           "url": "https://www.space.com/feeds/all",
           "imageURL": "https://www.google.com/s2/favicons?domain=space.com&sz=128",
           "type": "article"
-        },
-        {
-          "title": "Discover Magazine",
-          "description": "Science that matters",
-          "url": "https://www.discovermagazine.com/rss",
-          "imageURL": "https://www.google.com/s2/favicons?domain=discovermagazine.com&sz=128",
-          "type": "article"
         }
       ]
     },
@@ -331,24 +310,10 @@
       "color": "red",
       "feeds": [
         {
-          "title": "Reuters",
-          "description": "International news agency",
-          "url": "https://feeds.reuters.com/reuters/topNews",
-          "imageURL": "https://www.google.com/s2/favicons?domain=reuters.com&sz=128",
-          "type": "article"
-        },
-        {
           "title": "BBC News",
           "description": "World and UK news from the BBC",
           "url": "https://feeds.bbci.co.uk/news/rss.xml",
           "imageURL": "https://www.google.com/s2/favicons?domain=bbc.co.uk&sz=128",
-          "type": "article"
-        },
-        {
-          "title": "Associated Press",
-          "description": "Breaking news from AP",
-          "url": "https://feeds.apnews.com/rss/apf-topnews",
-          "imageURL": "https://www.google.com/s2/favicons?domain=apnews.com&sz=128",
           "type": "article"
         },
         {
@@ -458,13 +423,6 @@
       "color": "orange",
       "feeds": [
         {
-          "title": "The Atlantic",
-          "description": "Ideas, politics, culture",
-          "url": "https://feeds.theatlantic.com/TheAtlantic/all",
-          "imageURL": "https://www.google.com/s2/favicons?domain=theatlantic.com&sz=128",
-          "type": "article"
-        },
-        {
           "title": "Pitchfork",
           "description": "Music news and reviews",
           "url": "https://pitchfork.com/rss/news/",
@@ -507,20 +465,6 @@
           "type": "article"
         },
         {
-          "title": "The Paris Review",
-          "description": "Literary magazine with fiction, poetry, and essays",
-          "url": "https://www.theparisreview.org/feed/",
-          "imageURL": "https://www.google.com/s2/favicons?domain=theparisreview.org&sz=128",
-          "type": "article"
-        },
-        {
-          "title": "Vulture",
-          "description": "Entertainment and pop culture criticism",
-          "url": "https://www.vulture.com/feed/all.xml",
-          "imageURL": "https://www.google.com/s2/favicons?domain=vulture.com&sz=128",
-          "type": "article"
-        },
-        {
           "title": "The AV Club",
           "description": "Film, TV, music, and comedy coverage",
           "url": "https://www.avclub.com/rss",
@@ -546,13 +490,6 @@
           "description": "Culture news and reviews from The Guardian",
           "url": "https://www.theguardian.com/culture/rss",
           "imageURL": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
-          "type": "article"
-        },
-        {
-          "title": "Criterion Collection",
-          "description": "Essays and analysis on classic and contemporary films",
-          "url": "https://www.criterion.com/feed/",
-          "imageURL": "https://www.google.com/s2/favicons?domain=criterion.com&sz=128",
           "type": "article"
         },
         {
@@ -599,13 +536,6 @@
           "type": "article"
         },
         {
-          "title": "It's Nice That",
-          "description": "Championing creativity across art and design",
-          "url": "https://www.itsnicethat.com/rss",
-          "imageURL": "https://www.google.com/s2/favicons?domain=itsnicethat.com&sz=128",
-          "type": "article"
-        },
-        {
           "title": "Codrops",
           "description": "Web design and development tutorials and inspiration",
           "url": "https://tympanus.net/codrops/feed/",
@@ -641,24 +571,10 @@
           "type": "article"
         },
         {
-          "title": "Dribbble Blog",
-          "description": "Design inspiration and stories from Dribbble",
-          "url": "https://dribbble.com/stories/feed.rss",
-          "imageURL": "https://www.google.com/s2/favicons?domain=dribbble.com&sz=128",
-          "type": "article"
-        },
-        {
           "title": "Wallpaper*",
           "description": "International design, fashion, and architecture",
           "url": "https://www.wallpaper.com/rss",
           "imageURL": "https://www.google.com/s2/favicons?domain=wallpaper.com&sz=128",
-          "type": "article"
-        },
-        {
-          "title": "Core77",
-          "description": "Industrial design news, competitions, and resources",
-          "url": "https://www.core77.com/rss",
-          "imageURL": "https://www.google.com/s2/favicons?domain=core77.com&sz=128",
           "type": "article"
         },
         {
@@ -688,13 +604,6 @@
           "description": "Financial news and business analysis",
           "url": "https://feeds.bloomberg.com/markets/news.rss",
           "imageURL": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
-          "type": "article"
-        },
-        {
-          "title": "Harvard Business Review",
-          "description": "Management ideas for business leaders",
-          "url": "https://hbr.org/resources/rss/",
-          "imageURL": "https://www.google.com/s2/favicons?domain=hbr.org&sz=128",
           "type": "article"
         },
         {
@@ -758,13 +667,6 @@
           "description": "Tech market intelligence and venture capital",
           "url": "https://www.cbinsights.com/research/feed/",
           "imageURL": "https://www.google.com/s2/favicons?domain=cbinsights.com&sz=128",
-          "type": "article"
-        },
-        {
-          "title": "McKinsey Insights",
-          "description": "Business, management, and strategy insights",
-          "url": "https://www.mckinsey.com/insights/rss.xml",
-          "imageURL": "https://www.google.com/s2/favicons?domain=mckinsey.com&sz=128",
           "type": "article"
         },
         {
@@ -889,45 +791,10 @@
           "type": "article"
         },
         {
-          "title": "Sky Sports",
-          "description": "Latest sport news and results",
-          "url": "https://www.skysports.com/rss/12040",
-          "imageURL": "https://www.google.com/s2/favicons?domain=skysports.com&sz=128",
-          "type": "article"
-        },
-        {
-          "title": "The Athletic",
-          "description": "In-depth sports journalism",
-          "url": "https://theathletic.com/rss/",
-          "imageURL": "https://www.google.com/s2/favicons?domain=theathletic.com&sz=128",
-          "type": "article"
-        },
-        {
-          "title": "Sports Illustrated",
-          "description": "Sports news, analysis, and features",
-          "url": "https://www.si.com/rss/si_topstories.rss",
-          "imageURL": "https://www.google.com/s2/favicons?domain=si.com&sz=128",
-          "type": "article"
-        },
-        {
           "title": "CBS Sports",
           "description": "Sports news and scores from CBS",
           "url": "https://www.cbssports.com/rss/headlines/",
           "imageURL": "https://www.google.com/s2/favicons?domain=cbssports.com&sz=128",
-          "type": "article"
-        },
-        {
-          "title": "The Ringer",
-          "description": "Sports and pop culture analysis",
-          "url": "https://www.theringer.com/rss/index.xml",
-          "imageURL": "https://www.google.com/s2/favicons?domain=theringer.com&sz=128",
-          "type": "article"
-        },
-        {
-          "title": "Bleacher Report",
-          "description": "Sports news, highlights, and analysis",
-          "url": "https://bleacherreport.com/articles/feed",
-          "imageURL": "https://www.google.com/s2/favicons?domain=bleacherreport.com&sz=128",
           "type": "article"
         },
         {
@@ -943,20 +810,6 @@
           "url": "https://www.cyclingnews.com/rss/",
           "imageURL": "https://www.google.com/s2/favicons?domain=cyclingnews.com&sz=128",
           "type": "article"
-        },
-        {
-          "title": "NBA",
-          "description": "Official NBA news and highlights",
-          "url": "https://www.nba.com/rss/nba_rss.xml",
-          "imageURL": "https://www.google.com/s2/favicons?domain=nba.com&sz=128",
-          "type": "article"
-        },
-        {
-          "title": "NFL News",
-          "description": "Official NFL news and analysis",
-          "url": "https://www.nfl.com/rss/rsslanding?searchString=news",
-          "imageURL": "https://www.google.com/s2/favicons?domain=nfl.com&sz=128",
-          "type": "article"
         }
       ]
     },
@@ -971,20 +824,6 @@
           "description": "Health, medicine, and life sciences journalism",
           "url": "https://www.statnews.com/feed/",
           "imageURL": "https://www.google.com/s2/favicons?domain=statnews.com&sz=128",
-          "type": "article"
-        },
-        {
-          "title": "Medical News Today",
-          "description": "Health and medical news",
-          "url": "https://www.medicalnewstoday.com/rss",
-          "imageURL": "https://www.google.com/s2/favicons?domain=medicalnewstoday.com&sz=128",
-          "type": "article"
-        },
-        {
-          "title": "Harvard Health Blog",
-          "description": "Trusted health and wellness advice from Harvard",
-          "url": "https://www.health.harvard.edu/blog/feed",
-          "imageURL": "https://www.google.com/s2/favicons?domain=health.harvard.edu&sz=128",
           "type": "article"
         },
         {
@@ -1007,20 +846,6 @@
           "url": "https://www.healthline.com/rss/health-news",
           "imageURL": "https://www.google.com/s2/favicons?domain=healthline.com&sz=128",
           "type": "article"
-        },
-        {
-          "title": "WebMD Health News",
-          "description": "Breaking health news and medical information",
-          "url": "https://rss.webmd.com/rss/rss.aspx?RSSSource=RSS_PUBLIC",
-          "imageURL": "https://www.google.com/s2/favicons?domain=webmd.com&sz=128",
-          "type": "article"
-        },
-        {
-          "title": "NIH News in Health",
-          "description": "Health and research news from the National Institutes of Health",
-          "url": "https://newsinhealth.nih.gov/nihnews.rss",
-          "imageURL": "https://www.google.com/s2/favicons?domain=nih.gov&sz=128",
-          "type": "article"
         }
       ]
     },
@@ -1030,13 +855,6 @@
       "icon": "sparkles",
       "color": "cyan",
       "feeds": [
-        {
-          "title": "VentureBeat — AI",
-          "description": "AI news, research, and industry coverage",
-          "url": "https://venturebeat.com/ai/feed/",
-          "imageURL": "https://www.google.com/s2/favicons?domain=venturebeat.com&sz=128",
-          "type": "article"
-        },
         {
           "title": "The Gradient",
           "description": "Perspectives on AI research and technology",
@@ -1049,20 +867,6 @@
           "description": "Weekly newsletter on AI research by Jack Clark",
           "url": "https://jack-clark.net/feed/",
           "imageURL": "https://www.google.com/s2/favicons?domain=jack-clark.net&sz=128",
-          "type": "article"
-        },
-        {
-          "title": "The Batch — DeepLearning.AI",
-          "description": "AI news curated by Andrew Ng",
-          "url": "https://www.deeplearning.ai/thebatch/feed/",
-          "imageURL": "https://www.google.com/s2/favicons?domain=deeplearning.ai&sz=128",
-          "type": "article"
-        },
-        {
-          "title": "Hugging Face Blog",
-          "description": "Research, models, and updates from Hugging Face",
-          "url": "https://huggingface.co/blog/feed.xml",
-          "imageURL": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=128",
           "type": "article"
         },
         {
@@ -1116,24 +920,10 @@
           "type": "article"
         },
         {
-          "title": "Yale Environment 360",
-          "description": "Analysis, opinion, and reporting on the global environment",
-          "url": "https://e360.yale.edu/feed",
-          "imageURL": "https://www.google.com/s2/favicons?domain=e360.yale.edu&sz=128",
-          "type": "article"
-        },
-        {
           "title": "Grist",
           "description": "Climate solutions and environmental justice",
           "url": "https://grist.org/feed/",
           "imageURL": "https://www.google.com/s2/favicons?domain=grist.org&sz=128",
-          "type": "article"
-        },
-        {
-          "title": "RealClimate",
-          "description": "Climate science commentary from working scientists",
-          "url": "https://www.realclimate.org/feed/atom/",
-          "imageURL": "https://www.google.com/s2/favicons?domain=realclimate.org&sz=128",
           "type": "article"
         },
         {
