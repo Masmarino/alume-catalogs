@@ -8,14 +8,18 @@ Catalog of RSS/podcast feeds for the [Alume](https://github.com/SkollN/Alume) ap
 
 ```
 articles/
-├── en.json       ← English articles (default fallback)
-├── fr.json       ← French articles
-└── fr-FR.json    ← French — France specific overrides
+├── de-DE.json    ← German articles
+├── en-US.json    ← English articles (default fallback)
+├── es-ES.json    ← Spanish articles
+├── fr-FR.json    ← French articles
+└── it-IT.json    ← Italian articles
 
 podcasts/
-├── en.json       ← English podcasts (default fallback)
-├── fr.json       ← French podcasts
-└── fr-FR.json    ← French — France specific overrides
+├── de-DE.json    ← German podcasts
+├── en-US.json    ← English podcasts (default fallback)
+├── es-ES.json    ← Spanish podcasts
+├── fr-FR.json    ← French podcasts
+└── it-IT.json    ← Italian podcasts
 ```
 
 The app fetches both `articles/` and `podcasts/` for the current locale concurrently, then merges categories with the same `id` so that articles and podcasts appear together under the same topic (e.g. all `tech` content in one `tech` category).
@@ -26,7 +30,7 @@ The app resolves each catalog in this order:
 
 1. `{language}-{REGION}.json` (e.g. `fr-FR.json`)
 2. `{language}.json` (e.g. `fr.json`)
-3. `en.json` (fallback)
+3. `en-US.json` (fallback)
 
 ## Category allowlist
 
@@ -42,6 +46,9 @@ The set of valid category IDs is **fixed inside the app**. Remote catalog files 
 | `business` | Economy, finance, entrepreneurship |
 | `gaming` | Video games, esport |
 | `sports` | Sports and athletics |
+| `health` | Health, medicine, well-being |
+| `ai` | Artificial intelligence |
+| `environment` | Climate, energy, nature |
 
 Any category with an unknown `id` is silently ignored at runtime. **Do not invent new IDs** — open an issue or PR against the Alume app first so the ID can be added to the allowlist.
 
@@ -49,7 +56,6 @@ Any category with an unknown `id` is silently ignored at runtime. **Do not inven
 
 ```json
 {
-  "version": 1,
   "categories": [
     {
       "id": "tech",
@@ -74,7 +80,6 @@ Any category with an unknown `id` is silently ignored at runtime. **Do not inven
 
 | Field | Type | Description |
 |-------|------|-------------|
-| `version` | Int | Increment when making breaking changes |
 | `id` | String | Unique category identifier — must be in the allowlist above |
 | `titleKey` | String | Localization key defined in the app |
 | `icon` | String | SF Symbol name |
@@ -102,6 +107,7 @@ Any category with an unknown `id` is silently ignored at runtime. **Do not inven
 - `imageURL` should be a square icon, ideally 128×128px
 - Keep `articles/` files to `type: article` only, and `podcasts/` files to `type: podcast` only
 - Only use category IDs from the allowlist above — unknown IDs are ignored by the app
+- The app (AlumeKit) only accepts `https` feeds of at most 5 MB, without redirects to `http`, and skips items without an `https` `<link>`: test a feed by subscribing to it in the app before adding it
 
 ---
 
@@ -117,14 +123,18 @@ Catalogue de flux RSS et podcasts pour l'application [Alume](https://github.com/
 
 ```
 articles/
-├── en.json       ← Articles en anglais (fallback par défaut)
-├── fr.json       ← Articles en français
-└── fr-FR.json    ← Articles en français — surcharges spécifiques France
+├── de-DE.json    ← Articles en allemand
+├── en-US.json    ← Articles en anglais (fallback par défaut)
+├── es-ES.json    ← Articles en espagnol
+├── fr-FR.json    ← Articles en français
+└── it-IT.json    ← Articles en italien
 
 podcasts/
-├── en.json       ← Podcasts en anglais (fallback par défaut)
-├── fr.json       ← Podcasts en français
-└── fr-FR.json    ← Podcasts en français — surcharges spécifiques France
+├── de-DE.json    ← Podcasts en allemand
+├── en-US.json    ← Podcasts en anglais (fallback par défaut)
+├── es-ES.json    ← Podcasts en espagnol
+├── fr-FR.json    ← Podcasts en français
+└── it-IT.json    ← Podcasts en italien
 ```
 
 L'app récupère simultanément `articles/` et `podcasts/` pour la locale courante, puis fusionne les catégories ayant le même `id`. Articles et podcasts apparaissent ainsi ensemble sous le même thème (ex. tout le contenu `tech` dans une seule catégorie `tech`).
@@ -135,7 +145,7 @@ L'app résout chaque catalogue dans cet ordre :
 
 1. `{langue}-{RÉGION}.json` (ex. `fr-FR.json`)
 2. `{langue}.json` (ex. `fr.json`)
-3. `en.json` (fallback)
+3. `en-US.json` (fallback)
 
 ## Liste blanche des catégories
 
@@ -151,6 +161,9 @@ L'ensemble des identifiants de catégories valides est **fixé dans l'applicatio
 | `business` | Économie, finance, entrepreneuriat |
 | `gaming` | Jeux vidéo, esport |
 | `sports` | Sports et athlétisme |
+| `health` | Santé, médecine, bien-être |
+| `ai` | Intelligence artificielle |
+| `environment` | Climat, énergie, nature |
 
 Toute catégorie avec un `id` inconnu est silencieusement ignorée à l'exécution. **Ne pas inventer de nouveaux IDs** — ouvrez d'abord une issue ou une PR sur le dépôt Alume pour que l'ID soit ajouté à la liste blanche.
 
@@ -158,7 +171,6 @@ Toute catégorie avec un `id` inconnu est silencieusement ignorée à l'exécuti
 
 ```json
 {
-  "version": 1,
   "categories": [
     {
       "id": "tech",
@@ -183,7 +195,6 @@ Toute catégorie avec un `id` inconnu est silencieusement ignorée à l'exécuti
 
 | Champ | Type | Description |
 |-------|------|-------------|
-| `version` | Int | À incrémenter lors de changements structurels |
 | `id` | String | Identifiant unique de catégorie — doit figurer dans la liste blanche |
 | `titleKey` | String | Clé de localisation définie dans l'application |
 | `icon` | String | Nom de symbole SF Symbol |
@@ -211,3 +222,4 @@ Toute catégorie avec un `id` inconnu est silencieusement ignorée à l'exécuti
 - `imageURL` doit être une icône carrée, idéalement 128×128 px
 - Garder les fichiers `articles/` en `type: article` uniquement, et les fichiers `podcasts/` en `type: podcast` uniquement
 - N'utiliser que les IDs de catégories de la liste blanche — les IDs inconnus sont ignorés par l'application
+- L'app (AlumeKit) n'accepte que des flux `https` de 5 Mo au plus, sans redirection vers `http`, et ignore les items sans `<link>` en `https` : tester un flux en s'y abonnant dans l'app avant de l'ajouter
