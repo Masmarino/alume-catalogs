@@ -103,6 +103,34 @@
           "url": "https://www.zdnet.fr/feeds/rss/actualites/",
           "imageURL": "https://www.google.com/s2/favicons?domain=zdnet.fr&sz=128",
           "type": "article"
+        },
+        {
+          "title": "01net",
+          "description": "High-tech, smartphones, informatique et jeux vidéo",
+          "url": "https://www.01net.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=01net.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Korben",
+          "description": "Tech, astuces et culture geek",
+          "url": "https://korben.info/feed",
+          "imageURL": "https://www.google.com/s2/favicons?domain=korben.info&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Begeek",
+          "description": "Actualité high-tech et geek",
+          "url": "https://www.begeek.fr/feed",
+          "imageURL": "https://www.google.com/s2/favicons?domain=begeek.fr&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Phonandroid",
+          "description": "Smartphones, Android et applications",
+          "url": "https://www.phonandroid.com/feed",
+          "imageURL": "https://www.google.com/s2/favicons?domain=phonandroid.com&sz=128",
+          "type": "article"
         }
       ]
     },
@@ -180,6 +208,62 @@
           "description": "Sciences vulgarisées pour tous les niveaux",
           "url": "https://lespritsorcier.org/feed/",
           "imageURL": "https://www.google.com/s2/favicons?domain=lespritsorcier.org&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Ça m'intéresse",
+          "description": "Sciences, histoire et curiosités",
+          "url": "https://feed.prismamediadigital.com/v1/cam/rss?limit=20",
+          "imageURL": "https://www.google.com/s2/favicons?domain=caminteresse.fr&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Science & Vie",
+          "description": "Le magazine scientifique",
+          "url": "https://www.science-et-vie.com/feed",
+          "imageURL": "https://www.google.com/s2/favicons?domain=science-et-vie.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Techno-Science.net",
+          "description": "Actualités scientifiques",
+          "url": "https://www.techno-science.net/fr/actualites/rss.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=techno-science.net&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Ciel et Espace",
+          "description": "Astronomie et espace",
+          "url": "https://www.cieletespace.fr/rss.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=cieletespace.fr&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Numerama Sciences",
+          "description": "Sciences chez Numerama",
+          "url": "https://www.numerama.com/sciences/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=numerama.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Le Journal du CNRS",
+          "description": "Recherche scientifique",
+          "url": "https://lejournal.cnrs.fr/rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=lejournal.cnrs.fr&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Science Post",
+          "description": "Actualités scientifiques",
+          "url": "https://sciencepost.fr/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=sciencepost.fr&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Trust My Science",
+          "description": "Sciences et découvertes",
+          "url": "https://trustmyscience.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=trustmyscience.com&sz=128",
           "type": "article"
         }
       ]
@@ -280,6 +364,41 @@
           "url": "https://feeds.leparisien.fr/leparisien/rss",
           "imageURL": "https://www.google.com/s2/favicons?domain=leparisien.fr&sz=128",
           "type": "article"
+        },
+        {
+          "title": "France 24",
+          "description": "Actualité internationale",
+          "url": "https://www.france24.com/fr/rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=france24.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Ouest-France",
+          "description": "À la une d'Ouest-France",
+          "url": "https://www.ouest-france.fr/rss/une",
+          "imageURL": "https://www.google.com/s2/favicons?domain=ouest-france.fr&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Le HuffPost",
+          "description": "Actualités et débats",
+          "url": "https://www.huffingtonpost.fr/feeds/index.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=huffingtonpost.fr&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Euronews",
+          "description": "Actualités européennes",
+          "url": "https://fr.euronews.com/rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=fr.euronews.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Le Temps",
+          "description": "Quotidien suisse",
+          "url": "https://www.letemps.ch/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=letemps.ch&sz=128",
+          "type": "article"
         }
       ]
     },
@@ -329,6 +448,69 @@
           "description": "Culture pop, art et divertissement",
           "url": "https://www.konbini.com/fr/feed/",
           "imageURL": "https://www.google.com/s2/favicons?domain=konbini.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Le Monde des livres",
+          "description": "Livres et littérature",
+          "url": "https://www.lemonde.fr/livres/rss_full.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=lemonde.fr&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "ActuaLitté",
+          "description": "Livres, édition et lecture",
+          "url": "https://actualitte.com/rss-main.rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=actualitte.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Écran Large",
+          "description": "Cinéma et séries",
+          "url": "https://www.ecranlarge.com/rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=ecranlarge.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Gonzaï",
+          "description": "Musique et contre-culture",
+          "url": "https://gonzai.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=gonzai.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Libération Culture",
+          "description": "Culture à Libération",
+          "url": "https://www.liberation.fr/arc/outboundfeeds/rss-all/category/culture/?outputType=xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=liberation.fr&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "France Culture",
+          "description": "Savoirs et culture",
+          "url": "https://www.radiofrance.fr/franceculture/rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=radiofrance.fr&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Connaissance des Arts",
+          "description": "Arts et patrimoine",
+          "url": "https://www.connaissancedesarts.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=connaissancedesarts.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Beaux Arts Magazine",
+          "description": "Art et expositions",
+          "url": "https://www.beauxarts.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=beauxarts.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Cineserie",
+          "description": "Cinéma et séries",
+          "url": "https://www.cineserie.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=cineserie.com&sz=128",
           "type": "article"
         }
       ]
@@ -380,6 +562,34 @@
           "url": "https://www.creapills.com/feed",
           "imageURL": "https://www.google.com/s2/favicons?domain=creapills.com&sz=128",
           "type": "article"
+        },
+        {
+          "title": "Archistorm",
+          "description": "Architecture",
+          "url": "https://www.archistorm.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=archistorm.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Journal du Design",
+          "description": "Design et créativité",
+          "url": "https://www.journal-du-design.fr/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=journal-du-design.fr&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Blog du Webdesign",
+          "description": "Webdesign et graphisme",
+          "url": "https://www.blogduwebdesign.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=blogduwebdesign.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Alsacréations",
+          "description": "Web, CSS et accessibilité",
+          "url": "https://www.alsacreations.com/rss/actualites.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=alsacreations.com&sz=128",
+          "type": "article"
         }
       ]
     },
@@ -429,6 +639,41 @@
           "description": "Startups, innovation et entrepreneuriat français",
           "url": "https://www.maddyness.com/feed/",
           "imageURL": "https://www.google.com/s2/favicons?domain=maddyness.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "La Tribune",
+          "description": "Économie et finance",
+          "url": "https://www.latribune.fr/feed.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=latribune.fr&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Capital",
+          "description": "Économie et finances personnelles",
+          "url": "https://feed.prismamediadigital.com/v1/cap/rss?limit=20",
+          "imageURL": "https://www.google.com/s2/favicons?domain=capital.fr&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Le Monde Économie",
+          "description": "Économie au Monde",
+          "url": "https://www.lemonde.fr/economie/rss_full.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=lemonde.fr&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "FrenchWeb",
+          "description": "Tech et startups",
+          "url": "https://www.frenchweb.fr/feed",
+          "imageURL": "https://www.google.com/s2/favicons?domain=frenchweb.fr&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "L'ADN",
+          "description": "Innovation et nouveaux usages",
+          "url": "https://www.ladn.eu/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=ladn.eu&sz=128",
           "type": "article"
         }
       ]
@@ -480,6 +725,41 @@
           "url": "https://www.actugaming.net/feed/",
           "imageURL": "https://www.google.com/s2/favicons?domain=actugaming.net&sz=128",
           "type": "article"
+        },
+        {
+          "title": "Gameblog",
+          "description": "Jeux vidéo et pop culture",
+          "url": "https://www.gameblog.fr/rssmap/rss_all.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=gameblog.fr&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Numerama Jeux vidéo",
+          "description": "Jeux vidéo chez Numerama",
+          "url": "https://www.numerama.com/tech/jeux-video/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=numerama.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Nintendo-Town",
+          "description": "Tout sur Nintendo",
+          "url": "https://www.nintendo-town.fr/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=nintendo-town.fr&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "PlayStation Blog FR",
+          "description": "Blog officiel PlayStation",
+          "url": "https://blog.fr.playstation.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=blog.fr.playstation.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "JV Le Mag",
+          "description": "Jeux vidéo",
+          "url": "https://www.jvlemag.com/rss.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=jvlemag.com&sz=128",
+          "type": "article"
         }
       ]
     },
@@ -530,6 +810,62 @@
           "url": "https://rmcsport.bfmtv.com/rss/societe/",
           "imageURL": "https://www.google.com/s2/favicons?domain=rmcsport.bfmtv.com&sz=128",
           "type": "article"
+        },
+        {
+          "title": "Le Monde Sport",
+          "description": "Le sport au Monde",
+          "url": "https://www.lemonde.fr/sport/rss_full.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=lemonde.fr&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "franceinfo Sports",
+          "description": "Sports sur franceinfo",
+          "url": "https://www.francetvinfo.fr/sports.rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=francetvinfo.fr&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "BasketUSA",
+          "description": "NBA en français",
+          "url": "https://www.basketusa.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=basketusa.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Tennis Actu",
+          "description": "Tennis",
+          "url": "https://www.tennisactu.net/rss_social.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=tennisactu.net&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Vélo 101",
+          "description": "Cyclisme",
+          "url": "https://www.velo101.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=velo101.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Nextgen Auto",
+          "description": "Formule 1 et sport auto",
+          "url": "https://motorsport.nextgen-auto.com/fr/rss/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=motorsport.nextgen-auto.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Le Figaro Sport",
+          "description": "Le sport au Figaro",
+          "url": "https://www.lefigaro.fr/rss/figaro_sport.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=lefigaro.fr&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Ouest-France Sport",
+          "description": "Le sport dans Ouest-France",
+          "url": "https://www.ouest-france.fr/rss/sport",
+          "imageURL": "https://www.google.com/s2/favicons?domain=ouest-france.fr&sz=128",
+          "type": "article"
         }
       ]
     },
@@ -565,6 +901,48 @@
           "description": "Actualités santé de France Télévisions",
           "url": "https://www.francetvinfo.fr/sante.rss",
           "imageURL": "https://www.google.com/s2/favicons?domain=francetvinfo.fr&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Doctissimo",
+          "description": "Santé et bien-être",
+          "url": "https://www.doctissimo.fr/feed",
+          "imageURL": "https://www.google.com/s2/favicons?domain=doctissimo.fr&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Santé Magazine",
+          "description": "Santé et bien-être",
+          "url": "https://www.santemagazine.fr/feeds/rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=santemagazine.fr&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Allodocteurs",
+          "description": "Information santé de France Télévisions",
+          "url": "https://www.allodocteurs.fr/rss/index.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=allodocteurs.fr&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "The Conversation Santé",
+          "description": "Santé analysée par des chercheurs",
+          "url": "https://theconversation.com/fr/sante/articles.atom",
+          "imageURL": "https://www.google.com/s2/favicons?domain=theconversation.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Le Figaro Santé",
+          "description": "Santé au Figaro",
+          "url": "https://www.lefigaro.fr/rss/figaro_sante.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=lefigaro.fr&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Sciences et Avenir Santé",
+          "description": "Santé chez Sciences et Avenir",
+          "url": "https://www.sciencesetavenir.fr/sante/rss.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=sciencesetavenir.fr&sz=128",
           "type": "article"
         }
       ]
@@ -602,6 +980,41 @@
           "url": "https://www.lemonde.fr/technologies/rss_full.xml",
           "imageURL": "https://www.google.com/s2/favicons?domain=lemonde.fr&sz=128",
           "type": "article"
+        },
+        {
+          "title": "ActuIA",
+          "description": "L'actualité de l'intelligence artificielle",
+          "url": "https://www.actuia.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=actuia.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Le Big Data",
+          "description": "IA, data et tech",
+          "url": "https://www.lebigdata.fr/feed",
+          "imageURL": "https://www.google.com/s2/favicons?domain=lebigdata.fr&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Journal du Geek IA",
+          "description": "IA chez Le Journal du Geek",
+          "url": "https://www.journaldugeek.com/tag/intelligence-artificielle/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=journaldugeek.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Presse-citron IA",
+          "description": "IA chez Presse-citron",
+          "url": "https://www.presse-citron.net/tag/intelligence-artificielle/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=presse-citron.net&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Le Monde IA",
+          "description": "IA au Monde",
+          "url": "https://www.lemonde.fr/intelligence-artificielle/rss_full.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=lemonde.fr&sz=128",
+          "type": "article"
         }
       ]
     },
@@ -637,6 +1050,48 @@
           "description": "Vulgarisation des enjeux climatiques",
           "url": "https://bonpote.com/feed/",
           "imageURL": "https://www.google.com/s2/favicons?domain=bonpote.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Libération Environnement",
+          "description": "Environnement à Libération",
+          "url": "https://www.liberation.fr/arc/outboundfeeds/rss-all/category/environnement/?outputType=xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=liberation.fr&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Up Magazine",
+          "description": "Transition écologique",
+          "url": "https://up-magazine.info/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=up-magazine.info&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Greenpeace France",
+          "description": "Actualités de Greenpeace",
+          "url": "https://www.greenpeace.fr/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=greenpeace.fr&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Révolution Énergétique",
+          "description": "Énergies et transition",
+          "url": "https://www.revolution-energetique.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=revolution-energetique.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Wedemain",
+          "description": "Transition écologique et sociale",
+          "url": "https://www.wedemain.fr/feeds/rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=wedemain.fr&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Kaizen",
+          "description": "Construire un autre monde",
+          "url": "https://www.kaizen-magazine.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=kaizen-magazine.com&sz=128",
           "type": "article"
         }
       ]

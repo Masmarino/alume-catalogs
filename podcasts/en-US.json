@@ -61,6 +61,34 @@
           "url": "https://lexfridman.com/feed/podcast/",
           "imageURL": "https://www.google.com/s2/favicons?domain=lexfridman.com&sz=128",
           "type": "podcast"
+        },
+        {
+          "title": "Accidental Tech Podcast",
+          "description": "Three nerds discussing tech, Apple, programming, and loosely related matters.",
+          "url": "https://cdn.atp.fm/rss/public?wtvryzdm",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/91/22/42/9122426f-df98-4302-6ba3-da67b0648e70/mza_5041274938111919910.png/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Machine Gods",
+          "description": "The official podcast of the singularity.",
+          "url": "https://feeds.npr.org/g-s1-143588/podcast.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3d/ad/5a/3dad5a7c-2993-7992-06ec-671870ed4672/mza_16764932599325750788.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Inside AsembleAI: DeepTech, AI & Science",
+          "description": "AsembleAI brings you thought-provoking conversations at the nexus of artificial intelligence…",
+          "url": "https://media.rss.com/asemble-mac-and-sam/feed.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/71/f8/8d/71f88df3-6ea7-7bd4-7446-9b54b05d84de/mza_1673868774664238951.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Acquired",
+          "description": "Every company has a story.",
+          "url": "https://feeds.transistor.fm/acquired",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a8/e1/de/a8e1deff-9f88-4e55-a541-b0dc793c0cdc/mza_11539673419613154037.jpg/256x256bb.jpg",
+          "type": "podcast"
         }
       ]
     },
@@ -97,6 +125,34 @@
           "url": "https://podcasts.files.bbci.co.uk/b00snr0w.rss",
           "imageURL": "https://www.google.com/s2/favicons?domain=bbc.co.uk&sz=128",
           "type": "podcast"
+        },
+        {
+          "title": "Big Ideas Lab",
+          "description": "Your exploration inside Lawrence Livermore National Laboratory.",
+          "url": "https://feeds.simplecast.com/WfThhbae",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/da/1b/ed/da1bedd0-daa5-5aac-d802-aa465382eef4/mza_5929512303487909442.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Huge If True Podcast",
+          "description": "Cleo Abram is a video journalist who produces Huge If True, an optimistic show about science and…",
+          "url": "https://feed.podbean.com/cleoabram931/feed.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/43/dd/2b/43dd2b80-e16c-a27b-3807-13aba3694cf9/mza_10353844332189134566.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "This Podcast Will Kill You",
+          "description": "This podcast might not actually kill you, but Erin Welsh and Erin Allmann Updyke cover so many…",
+          "url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/e0709a39-232b-4483-8e4f-b24c0111ae2c/64b4c224-562e-4b2f-9f31-b24c0111ae53/podcast.rss",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/31/fc/17/31fc17a4-78dc-a4ec-ed10-909b8aa0a67b/mza_1082798024989117655.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Sean Carroll's Mindscape: Science, Society, Philosophy, Culture, Arts, and Ideas",
+          "description": "Ever wanted to know how music affects your brain, what quantum mechanics really is, or how black…",
+          "url": "https://rss.libsyn.com/shows/604590/destinations/5264190.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/d3/22/95/d32295a0-f278-1807-9fde-5698c30aac30/mza_16649100911920251614.jpeg/256x256bb.jpg",
+          "type": "podcast"
         }
       ]
     },
@@ -118,6 +174,13 @@
           "description": "Start your day with three short stories to know",
           "url": "https://feeds.npr.org/510318/podcast.xml",
           "imageURL": "https://www.google.com/s2/favicons?domain=npr.org&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "The World",
+          "description": "Co-hosts Marco Werman and Carolyn Beeler, along with their team of reporters and producers, bring…",
+          "url": "https://latest-edition.feed.theworld.org/",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/46/9a/e6/469ae607-80b8-163d-9173-1b9a4263d496/mza_4950847779691596668.png/256x256bb.jpg",
           "type": "podcast"
         }
       ]
@@ -148,6 +211,48 @@
           "url": "https://feeds.thisamericanlife.org/talpodcast",
           "imageURL": "https://www.google.com/s2/favicons?domain=thisamericanlife.org&sz=128",
           "type": "podcast"
+        },
+        {
+          "title": "The Builders",
+          "description": "Whose imagination do you want to live in?",
+          "url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8adeeef5-b6c0-4cfa-b6cc-b4c0011490b1/51d9281c-e886-4139-b940-b4c0011494bc/podcast.rss",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/1a/2e/de/1a2ede66-1775-0875-c938-7f77c0e2ea85/mza_10281795707287482764.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "METRO with Sarah Koenig",
+          "description": "From the team that brought you Serial comes “METRO with Sarah Koenig,” stories about New York City…",
+          "url": "https://feeds.simplecast.com/R9ZBMPFj",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/12/c0/f0/12c0f0a3-d63b-65b2-bf5f-65cde78df630/mza_4461290554239607773.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Pop Culture Happy Hour",
+          "description": "Trying to keep up with the latest in pop culture?",
+          "url": "https://feeds.npr.org/510282/podcast.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/29/ca/0b/29ca0bf1-aa5b-3da8-9be0-f357793116a7/mza_16337213754400532987.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Blank Check with Griffin & David",
+          "description": "Not just another bad movie podcast, Blank Check reviews directors' complete filmographies episode…",
+          "url": "https://feeds.acast.com/public/shows/6ac4309aaef0446505856133",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9e/dc/a2/9edca279-2375-e939-1f16-7ef6cce8a2c1/mza_8895145708975523992.jpeg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "The Ancients",
+          "description": "A podcast for all ancient history fans!",
+          "url": "https://access.acast.com/rss/f2925f7a-eb08-471a-9958-387cb5ee6353",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/6c/94/31/6c943113-5484-a41d-5cb7-bf606ff289ef/mza_6401313720037127611.jpeg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "The Ezra Klein Show",
+          "description": "Ezra Klein invites you into a conversation on something that matters.",
+          "url": "https://feeds.simplecast.com/kEKXbjuJ",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9d/ca/35/9dca35d8-e7d2-7e4f-63b5-c2ff4973a3f5/mza_16891544429738729361.jpg/256x256bb.jpg",
+          "type": "podcast"
         }
       ]
     },
@@ -163,6 +268,48 @@
           "url": "https://shoptalkshow.com/feed/podcast/",
           "imageURL": "https://www.google.com/s2/favicons?domain=shoptalkshow.com&sz=128",
           "type": "podcast"
+        },
+        {
+          "title": "Design Matters with Debbie Millman",
+          "description": "Design Matters with Debbie Millman is one of the world’s very first podcasts.",
+          "url": "https://feeds.acast.com/public/shows/67572f5f7205a5bc68e9792a",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/f5/a1/92/f5a192ba-e932-ca00-c014-6426d73931e1/mza_11459321327818220529.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Twenty Thousand Hertz",
+          "description": "The stories behind the world's most recognizable and interesting sounds.",
+          "url": "https://feed.20k.org",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ad/dd/64/addd64d2-c2b1-4ff2-aa5f-0f5cc723f92b/mza_10710679716941336906.jpeg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Creative Pep Talk",
+          "description": "A Weekly Podcast Companion for Your Creative Journey Transform your creative potential into reality…",
+          "url": "https://rss.introcast.io/929743897/feeds.megaphone.fm/TPG2212080179",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/57/71/6b/57716be1-f4d7-28b4-c680-aedbca8d7e61/mza_3733534962498424170.jpeg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Design Better",
+          "description": "Design Better co-hosts Eli Woolery and Aarron Walter explore the intersection of design…",
+          "url": "https://feeds.megaphone.fm/designbetter",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b1/49/70/b149707b-416e-a9e9-d054-34591c915424/mza_10163662345082686528.jpeg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Monocle on Design",
+          "description": "Everything you need to know about the world of design, from furniture to fashion and craft to…",
+          "url": "https://www.omnycontent.com/d/playlist/e6127ab7-b81e-456b-893c-a8d600215365/0fccd071-0f91-49e2-80e0-ab8a0121089e/29beb406-a8dd-446c-80d0-ab8a012108a3/podcast.rss",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/46/e1/a3/46e1a3f9-5127-cc42-03c4-b6b94c5c8d73/mza_663063972594807232.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Once Upon A Design",
+          "description": "Once Upon a Design is a podcast dedicated to the stories behind the artisans, craftspeople and…",
+          "url": "https://rss.libsyn.com/shows/613450/destinations/5348565.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c3/34/9d/c3349d59-402b-38fe-5883-c34e7dfe2c52/mza_4324729790453316480.png/256x256bb.jpg",
+          "type": "podcast"
         }
       ]
     },
@@ -177,6 +324,142 @@
           "description": "The economy explained through story",
           "url": "https://feeds.npr.org/510289/podcast.xml",
           "imageURL": "https://www.google.com/s2/favicons?domain=npr.org&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "The Indicator from Planet Money",
+          "description": "A bite-sized show about big ideas.",
+          "url": "https://feeds.npr.org/510325/podcast.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/52/43/7a/52437a60-2f82-5abd-e65a-77e1a4fc41c2/mza_16254826952631581399.jpg/256x256bb.jpg",
+          "type": "podcast"
+        }
+      ]
+    },
+    {
+      "id": "gaming",
+      "titleKey": "discover_category_gaming",
+      "icon": "gamecontroller",
+      "color": "cyan",
+      "feeds": [
+        {
+          "title": "Giant Bombcast",
+          "description": "The Giant Bomb discusses the latest video game news and new releases, answers listener questions…",
+          "url": "https://www.spreaker.com/show/5928697/episodes/feed",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/83/85/0c/83850c00-c58b-caf4-1054-3da7a017176b/mza_4147593309275125891.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Retronauts",
+          "description": "The original classic gaming podcast continues its endless quest to explore the history of video…",
+          "url": "https://audioboom.com/channels/5081747.rss",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/4f/31/01/4f3101ff-8a66-2c86-1a02-d0bfbe6026ad/mza_15543838864756204817.png/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Fire Escape Cast",
+          "description": "Dan Ryckert, Mary Kish, and Mike Mahardy can’t shut down bars while talking about video games like…",
+          "url": "https://www.spreaker.com/show/5008213/episodes/feed",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/25/7d/43/257d4398-c368-acbe-5611-0c5b92ab101a/mza_11863191532389677706.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "The Kit & Krysta Podcast",
+          "description": "The Kit & Krysta Podcast is a weekly podcast hosted by Kit Ellis and Krysta Yang, who previously…",
+          "url": "https://audioboom.com/channels/5081035.rss",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b3/41/a1/b341a18a-6477-6f83-998f-9384f56c23c6/mza_10008566849683477789.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "The Game Informer Show",
+          "description": "The Game Informer Show is a weekly gaming podcast covering the latest video game news, industry…",
+          "url": "https://www.spreaker.com/show/6639255/episodes/feed",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6c/97/88/6c978855-88d5-ac73-2fe2-37daf19167ac/mza_7324512718532400724.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Castle Super Beast",
+          "description": "Every week, the creators of Super Best Friends Play discuss the best and worst of the videogame…",
+          "url": "https://rss.libsyn.com/shows/46822/destinations/156361.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/35/39/00/3539003d-9a9f-5098-731b-e09e3c19e605/mza_7802182564210366041.jpg/256x256bb.jpg",
+          "type": "podcast"
+        }
+      ]
+    },
+    {
+      "id": "sports",
+      "titleKey": "discover_category_sports",
+      "icon": "sportscourt",
+      "color": "mint",
+      "feeds": [
+        {
+          "title": "F1 Beyond The Grid",
+          "description": "The risk-takers, late-brakers and history-makers of Formula 1 slow down for in-depth interviews.",
+          "url": "https://audioboom.com/channels/4964339.rss",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7f/ef/7f/7fef7f99-b02d-b13f-58d5-86b5fc16bff5/mza_15688580458854152990.png/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Tifo Football Podcast",
+          "description": "In-depth tactical, historical & geopolitical breakdowns of the beautiful game.",
+          "url": "https://feeds.acast.com/public/shows/681cccd63e6644d7a3b3065c",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/68/5d/25/685d255a-7016-af66-0cca-1738ec6c019b/mza_14516692395545786421.jpeg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Pablo Torre Finds Out",
+          "description": "Follow Pablo down the rabbit hole, beyond the game — every Tuesday, Thursday and Friday — on his…",
+          "url": "https://feeds.acast.com/public/shows/68b1d0ea993d10acb9c3fe4f",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6c/e5/27/6ce5278d-5c3f-b992-7ba5-e45811dad115/mza_3053656086025708268.jpeg/256x256bb.jpg",
+          "type": "podcast"
+        }
+      ]
+    },
+    {
+      "id": "health",
+      "titleKey": "discover_category_health",
+      "icon": "stethoscope",
+      "color": "mint",
+      "feeds": [
+        {
+          "title": "The Peter Attia Drive",
+          "description": "Expert insight on health, performance, longevity, critical thinking, and pursuing excellence.",
+          "url": "https://rss.libsyn.com/shows/121729/destinations/713489.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/89/b8/c0/89b8c0bb-f65c-66ef-8b96-fffea8f0cf5f/mza_872007510196734520.png/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "ZOE Science & Nutrition",
+          "description": "The world’s top scientists explain the latest health, nutrition, and gut health research and…",
+          "url": "https://feeds.megaphone.fm/ZOELIMITED9301524082",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/83/21/fa/8321fa07-c424-c95e-25f8-b99d952b074e/mza_11331013497668602482.jpeg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Dying of Embarrassment",
+          "description": "Dying of Embarrassment is a Health & Wellness podcast about the awkward, avoided, and unspoken…",
+          "url": "https://feeds.megaphone.fm/YAP4294764338",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e2/74/fb/e274fbc2-1acd-e037-b8a7-c49daa3838db/mza_2171731786476716750.jpeg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Extend Podcast with Darshan Shah, MD",
+          "description": "Extend with Darshan Shah, MD is a podcast dedicated to cutting-edge science, research, tools, and…",
+          "url": "https://rss.libsyn.com/shows/551312/destinations/4758622.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e2/65/43/e26543c2-2aea-1c7b-774f-71ac705039a5/mza_12440564964874810259.png/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Not Your Doctor",
+          "description": "Not Your Doctor is a chatty, question-driven podcast hosted by three resident doctors in the US and…",
+          "url": "https://feeds.acast.com/public/shows/696153c579fe7d55455e6c5f",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/99/59/b3/9959b308-753a-18bd-87a7-a6ce57258b55/mza_12128326224603247165.jpeg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Sh!t That Goes On In Our Heads",
+          "description": "”Sh!t That Goes On In Our Heads” is a podcast that emerged from G-Rex’s personal mental health…",
+          "url": "https://feeds.simplecast.com/92MthJiE",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b5/d6/1a/b5d61a74-5861-d169-11e1-601a94363d21/mza_863550189105150917.jpg/256x256bb.jpg",
           "type": "podcast"
         }
       ]
@@ -199,6 +482,105 @@
           "description": "Making artificial intelligence practical and actionable",
           "url": "https://changelog.com/practicalai/feed",
           "imageURL": "https://www.google.com/s2/favicons?domain=changelog.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "\"The Cognitive Revolution\"",
+          "description": "A biweekly podcast where hosts Nathan Labenz and Erik Torenberg interview the builders on the edge…",
+          "url": "https://feeds.megaphone.fm/RINTP3108857801",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b1/29/0d/b1290dd6-516c-bc2d-53b6-473d18a3dff2/mza_6540782963388625071.jpeg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "The TWIML AI Podcast (formerly This Week in Machine Learning & Artificial Intelligence)",
+          "description": "Machine learning and artificial intelligence are dramatically changing the way businesses operate…",
+          "url": "https://feeds.megaphone.fm/MLN2155636147",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/16/e7/85/16e78525-cfa1-a5f6-0ca9-f80dab699c61/mza_5916579879984323845.jpeg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "AI & The Future of Humanity:  Artificial Intelligence, Technology, VR, Algorithm, Automation, ChatBPT, Robotics, Augmented Re",
+          "description": "What are the dangers, risks, and opportunities of AI?",
+          "url": "https://thecreativeprocess.squarespace.com/ai-the-future-of-humanity?format=rss",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/d0/8f/d7/d08fd70a-e632-17b0-aaae-962d2f13a7d4/mza_7025847732469812084.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Latent Space: The AI Engineer Podcast",
+          "description": "The main Latent Space podcast: AI engineering, Forward Deployed Engineering, AI for science, and ⚡…",
+          "url": "https://podcast.latent.space/feed.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5c/7d/2a/5c7d2ade-4458-04e8-9838-979d187712ed/mza_16100858243175777898.jpg/256x256bb.jpg",
+          "type": "podcast"
+        }
+      ]
+    },
+    {
+      "id": "environment",
+      "titleKey": "discover_category_environment",
+      "icon": "leaf",
+      "color": "teal",
+      "feeds": [
+        {
+          "title": "Outrage + Optimism",
+          "description": "Outrage + Optimism is for anyone who is not ready to give up on making the world a better place.",
+          "url": "https://feeds.acast.com/public/shows/6781112bec40818e0b501b6a",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ff/fa/33/fffa336a-814d-a128-f834-bb4b778500ee/mza_4516823945662398049.jpeg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Climate One",
+          "description": "We’re living through a climate emergency; addressing this crisis begins by talking about it.",
+          "url": "https://feeds.megaphone.fm/CCC9544803627",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/30/bf/53/30bf531d-cc0b-792c-3200-f0eecccbbc2d/mza_4728386772732955616.jpeg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Extinction Rebellion Podcast",
+          "description": "Welcome to the Extinction Rebellion Podcast.",
+          "url": "https://xr-podcast.podomatic.com/rss2.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6f/2f/e6/6f2fe675-58d5-4b38-1850-caeb2408ca5c/mza_17979290327967788293.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Drilled",
+          "description": "Drilled is a true-crime climate change podcast exposing how corporate corruption and political…",
+          "url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9a7ab5ee-ce11-48ff-a544-b3ec00ea9b1e/7f82f371-6316-4ea6-a108-b3ec00ea9b2d/podcast.rss",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e1/c9/c9/e1c9c956-5aa5-a438-c054-c9589d142510/mza_12886697696136811164.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Living on Earth",
+          "description": "As the planet we call home faces a climate emergency, Living on Earth is your go-to source for the…",
+          "url": "https://feeds.megaphone.fm/livingonearth",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/76/e6/37/76e63720-55eb-1a8e-b985-856bcb14019c/mza_16919706186049863506.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "One Planet Podcast · Climate Change, Politics, Sustainability, Environmental Solutions, Renewable Energy, Activism, Biodiver",
+          "description": "The story of our environment may well be the most important story this century.",
+          "url": "https://thecreativeprocess.squarespace.com/oneplanet1?format=rss",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/8e/c1/92/8ec19263-b4ff-6605-ed96-891130e732f8/mza_14301805833784601406.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Climate Change (Audio)",
+          "description": "Climate change is here; it's happening.",
+          "url": "https://podcast.uctv.tv/uctv_climatechange.rss",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/62/38/96/62389662-843e-c080-f601-e14e343204a6/mza_17494659936716263207.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Bionic Planet: Reversing Climate Change by Restoring Nature",
+          "description": "We've entered a new epoch: the Anthropocene, and nothing is as it was.",
+          "url": "https://rss.pdrl.fm/494161/feeds.libsyn.com/81028/rss/?redirect=false",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/80/71/ad/8071ad91-6417-fbef-aaa7-61ae2c7e62a2/mza_8189696580713087530.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Cleaning Up: Leadership in an Age of Climate Change",
+          "description": "Once a week, Michael Liebreich and Bryony Worthington have a conversation with a leader in clean…",
+          "url": "https://feeds.simplecast.com/j3au6_cC",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f3/47/7d/f3477dbd-02c9-241f-3e29-ebe49df883ae/mza_11706002208959250324.jpg/256x256bb.jpg",
           "type": "podcast"
         }
       ]

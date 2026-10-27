@@ -12,6 +12,76 @@
           "url": "https://www.comptoirsecu.fr/feed/podcast/",
           "imageURL": "https://www.google.com/s2/favicons?domain=comptoirsecu.fr&sz=128",
           "type": "podcast"
+        },
+        {
+          "title": "SynthIAcast : l'actualité IA de la semaine",
+          "description": "Votre veille IA hebdo : les meilleurs podcasts IA du monde, synthétisés et vérifiés en 12 minutes.",
+          "url": "https://feed.ausha.co/JYKJ3h3rNELM",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/02/31/a5/0231a5fd-66d2-1041-4845-520ac3a16c8c/mza_9290653620967780246.jpeg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Sortie de veille",
+          "description": "Tous les samedis, écoutez Sortie de veille, le podcast hebdomadaire de MacGeneration !",
+          "url": "https://feeds.acast.com/public/shows/641870c354300300117b9168",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/43/fc/5e/43fc5eaf-1bd1-c2d2-e67a-b47275f90913/mza_5438859993522145309.jpeg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Génération IA",
+          "description": "L'IA générative telle que ChatGPT est une nouvelle révolution telle que l'ont été l'électricité ou…",
+          "url": "https://media.rss.com/generation-ia/feed.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/84/5b/9f/845b9f5d-15ae-8d34-8e60-e0f90337f304/mza_4110894718373142241.png/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "A la French",
+          "description": "Dans la Tech, les systèmes critiques sont systématiquement triplés pour éviter le crash.",
+          "url": "https://feeds.acast.com/public/shows/6966aba40b081bb8b92e4a16",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f7/89/b8/f789b843-0317-2474-69ce-9bf98566add3/mza_8054240998209955367.jpeg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Comptoir IA 🎙️🧠🤖",
+          "description": "ChatGPT, Midjourney...",
+          "url": "https://feeds.acast.com/public/shows/64d7fb0db4d0da0010a2f09d",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/f6/35/d9/f635d95c-7cb6-02ca-2736-835fa05ec1be/mza_5142399276880653852.jpeg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Le rendez-vous Tech - RDV Tech",
+          "description": "On résume chaque semaine tout le monde de la tech.",
+          "url": "https://feeds.acast.com/public/shows/le-rdv-tech",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fe/43/e7/fe43e795-aa66-d233-3a7b-292633ea11ec/mza_2978818391863055112.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "On refait le Mac - ORLM",
+          "description": "Les podcasts d'ORLM.tv, On refait le Mac et On refait la Tech en version audio !",
+          "url": "https://feeds.acast.com/public/shows/66d854a5202da66c8d90131d",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d4/ee/84/d4ee84fe-0751-1287-1ec8-58d0a70782b8/mza_16549799281978892443.jpeg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "TsunamIA: surfez sur la vague du changement apporté par l'intelligence artificielle",
+          "description": "Plongez dans l'univers fascinant de l'intelligence artificielle avec TsunamIA, votre balise dans…",
+          "url": "https://feeds.acast.com/public/shows/652c4be6bfc089001266974d",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e1/b5/01/e1b501de-2ae1-a977-5088-5d30c007668f/mza_5141502001287620156.jpeg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Torréfaction",
+          "description": "Chaque vendredi, Caf et Fask se posent derrière le micro pour partager leurs actus du moment.",
+          "url": "https://www.geekzone.fr/feed/torrefaction/",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/3b/96/0d/3b960da9-aef7-2d06-776c-c7872292fa8f/mza_10818821655482461847.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "DataGen",
+          "description": "DataGen est un podcast qui permet de comprendre les stratégies data des plus belles boîtes en…",
+          "url": "https://feeds.acast.com/public/shows/5fa58959e64011214fbf140d",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5b/c5/d3/5bc5d3b3-a820-8309-b48a-1e2709bf6999/mza_11363422181765453349.jpeg/256x256bb.jpg",
+          "type": "podcast"
         }
       ]
     },
@@ -41,6 +111,55 @@
           "url": "https://feeds.acast.com/public/shows/68db9a016d92c33f9c2eff83",
           "imageURL": "https://www.google.com/s2/favicons?domain=lemonde.fr&sz=128",
           "type": "podcast"
+        },
+        {
+          "title": "Les idées larges",
+          "description": "Accompagnés de chercheuses et chercheurs venus de disciplines variées, Laura Raim et Youness…",
+          "url": "https://www.arteradio.com/xml_sound_emission?emissionname=%22Les%20id%C3%A9es%20larges%22&partner=applepodcast",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/24/50/fe/2450fe2b-eb25-fad0-3382-e1c60a3ad1de/mza_9416313209984923213.png/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Vivants !",
+          "description": "Qui parle, aujourd’hui, au nom du loup, de l’abeille, du cachalot, du chêne ou de l’étoile de mer ?",
+          "url": "https://feed.ausha.co/70eXkSQ4KlmM",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7a/f4/a9/7af4a9d2-2ecc-af29-5af4-9b83763e9ac5/mza_7015846033877178789.jpeg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Le temps d'une rencontre",
+          "description": "Cairn.info vous présente un podcast lié aux acteurs de la recherche francophone.",
+          "url": "https://feeds.acast.com/public/shows/66b22aff5063c053df529a55",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ca/3a/4a/ca3a4a3b-612a-9101-8881-937f3c4a20be/mza_7357484766460101615.jpeg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Choses à Savoir CERVEAU",
+          "description": "Pour tout comprendre, jour après jour, sur le fonctionnement du cerveau.",
+          "url": "https://feeds.acast.com/public/shows/66067003352c110016ad6ad3",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/97/ac/55/97ac557a-fa4e-89d0-e5f0-ca305795d0af/mza_11254873649440119431.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Astronomie : Fragments d'Univers",
+          "description": "Au début de chaque épisode de Astronomie : Fragments d'Univers, tu remarqueras que les annonces…",
+          "url": "https://www.spreaker.com/show/6912486/episodes/feed",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fc/5c/a8/fc5ca869-c101-3df3-5163-f23d6627447d/mza_3925732742102952232.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Dans la tête des chiens",
+          "description": "🎙 Dans la tête des chiens – Le podcast qui vous aide à comprendre votre chien pour bâtir une…",
+          "url": "https://feed.ausha.co/XZvKrtNwgJ8v",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/1d/58/5f/1d585f07-652f-ac1e-fab4-6e81d5eb9bec/mza_12752068466626513786.jpeg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Science ou Fiction",
+          "description": "Science ou Fiction, c’est le podcast pop et dynamique qui casse les idées reçues, à retrouver tous…",
+          "url": "https://feeds.audiomeans.fr/feed/6b1bbabe-8af4-4fca-9101-82422f212ad2.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/47/1d/2d/471d2dc4-62f6-b320-8176-d3ccac20fb5a/mza_12530112906648715058.jpg/256x256bb.jpg",
+          "type": "podcast"
         }
       ]
     },
@@ -69,6 +188,48 @@
           "description": "Ouest-France",
           "url": "https://oldpodcasts.ouest-france.fr/ws/saooti/services/rss/emission/4/100/fr_FR/1",
           "imageURL": "https://www.google.com/s2/favicons?domain=ouest-france.fr&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "C dans l'air",
+          "description": "Caroline Roux, du lundi au jeudi et Aurélie Casse les vendredis et samedis rendent compte en…",
+          "url": "https://api.octopus.saooti.com/rss/playlist/500.rss",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/be/6d/b0/be6db039-e02a-4963-fae1-f2d139b2141f/mza_9586600214643436705.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "C ce soir",
+          "description": "Karim Rissouli, accompagné de Laure Adler et Camille Diao, présente ce rendez-vous où les idées…",
+          "url": "https://api.octopus.saooti.com/rss/playlist/502.rss",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/be/42/1c/be421c62-39f0-efac-950d-efc7193667b7/mza_15219058458253319710.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Pourquoi faire compliqué ?",
+          "description": "Nous parlons sans cesse de “la crise” comme si elle tombait du ciel.",
+          "url": "https://feeds.audiomeans.fr/feed/1613b34f-3c02-4203-b343-5da556fdeafd.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/1c/91/07/1c9107f1-b177-e757-8c2c-955ce595a862/mza_12064557232224880584.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Le Crayon",
+          "description": "Retrouvez ici la version audio de tous nos contenus phares !",
+          "url": "https://feeds.acast.com/public/shows/6929ae46a443330de9a91585",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/d1/fc/78/d1fc789b-aa35-235d-8a30-3b0e61a01104/mza_4111539898055702498.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "À l’air libre",
+          "description": "Retours sur enquêtes, reportages, débats...",
+          "url": "https://feeds.audiomeans.fr/feed/ce559f3f-f8fa-48cb-9dd1-682d177d55d8.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f2/9f/46/f29f46fd-1c8f-5a90-0367-b030f5ef1b92/mza_10430471572984001337.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "C politique",
+          "description": "C Politique décrypte l'actualité française et internationale, en plateau avec des intellectuel(le)s…",
+          "url": "https://api.octopus.saooti.com/rss/emission/14548.rss",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/74/b5/ef/74b5ef73-8988-9783-9656-be9262d23785/mza_1847924054344246627.jpg/256x256bb.jpg",
           "type": "podcast"
         }
       ]
@@ -106,6 +267,62 @@
           "url": "https://feeds.audiomeans.fr/feed/9f8626d5-a57f-475d-8c0b-43c20fa2e696.xml",
           "imageURL": "https://www.google.com/s2/favicons?domain=nova.fr&sz=128",
           "type": "podcast"
+        },
+        {
+          "title": "Profils : des récits uniques",
+          "description": "Histoires vraies et fictions folles, témoignages intimes et récits de soi comme autant de moments…",
+          "url": "https://www.arteradio.com/xml_flux?fluxname=%22Profils%22&partner=applepodcast",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/a2/7e/eda27e24-c52e-55b8-e4b6-83e4aa0f51ef/mza_3147196269598423328.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "La Guerre et la Paix",
+          "description": "La Guerre et la Paix l’adaptation radiophonique du roman de Léon Tolstoï, en version restaurée.",
+          "url": "https://api.octopus.saooti.com/rss/emission/16311.rss?slug=itunes.apple.com",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b9/fc/b7/b9fcb7a5-3f6a-9a16-b081-02dae8d95c00/mza_11880924357916961221.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "OnTime",
+          "description": "Bienvenue sur le podcast de OnTime, le média d'interviews podcast qui vous emmène dans les…",
+          "url": "https://feeds.acast.com/public/shows/65a7db4a06466f0016053008",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/58/23/4a/58234ad7-ee22-cdcc-eb51-7b4e82af7988/mza_11742452204321987853.jpeg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Secrets d'Histoire",
+          "description": "Stéphane Bern vous invite chaque semaine à la rencontre d’un grand personnage de l’Histoire, en…",
+          "url": "https://feeds.audiomeans.fr/feed/6054dcbc-e621-4922-9639-ce9dc00a8a93.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/61/3a/11/613a116d-d013-6f1d-97aa-8737fde2e65d/mza_679663832358408913.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Les Frères Karamazov",
+          "description": "Les Frères Karamazov, l’adaptation du dernier roman de Fédor Dostoïevski, en version restaurée.",
+          "url": "https://api.octopus.saooti.com/rss/emission/16966.rss?slug=podcasts.apple.com",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c1/02/7c/c1027cd1-7aa7-3e2e-0edb-b95972e12dfb/mza_12248826024035306575.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "RÉALISÉ SANS TRUCAGE",
+          "description": "➡ Souscrivez à nos abonnements premium et découvrez notre contenu exclusif…",
+          "url": "https://feeds.acast.com/public/shows/63a6f9cd471563001006a3a8",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/4c/81/cb/4c81cb0e-9490-039c-ab6c-2d0417495d41/mza_15726542259832384925.jpeg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Passages, le podcast d'histoires vraies de Louie Media",
+          "description": "Quand le réel dépasse la fiction.",
+          "url": "https://feeds.acast.com/public/shows/a7277f6f-bb0c-49df-ac44-80cf3167a59b",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/16/5b/84/165b844c-d30d-a9ea-a162-c97e139b0610/mza_6332193258797033708.jpeg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Nota Bene",
+          "description": "Nota Bene, c'est une autre façon de découvrir l'Histoire de France et du monde !",
+          "url": "https://feeds.acast.com/public/shows/60d08901011c680012d146fc",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5c/b4/36/5cb436ce-61ae-8ead-0879-081d30614064/mza_11535895720036623694.jpeg/256x256bb.jpg",
+          "type": "podcast"
         }
       ]
     },
@@ -121,6 +338,34 @@
           "url": "https://feed.ausha.co/PAkPMik4R9Dj",
           "imageURL": "https://image.ausha.co/zTEoL1UrJ0ru1mwyxGZLbcybbq3SzHyTi6oABgMq_1400x1400.jpeg?t=1646059501",
           "type": "podcast"
+        },
+        {
+          "title": "Les Goûts Les Couleurs",
+          "description": "Au bout du compte, tout n’est qu’une question de goûts et de couleurs.",
+          "url": "https://feed.ausha.co/OqX6VTjxZYVA",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/84/f3/38/84f338a6-fb9c-d87a-1dfd-4203eeea5857/mza_8866817924476517922.jpeg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "DECODEUR, décoration et design",
+          "description": "Bienvenue dans DECODEUR, le podcast qui parle de celles et ceux qui font la décoration et le design…",
+          "url": "https://feed.ausha.co/y01vpFXlgq84",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/c8/29/ce/c829ce87-d682-4539-4331-f9dd7e6b3cbf/mza_13166602464143213975.jpeg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Femmes d'arts",
+          "description": "Créé en 2019, Femmes d'arts est le premier podcast qui vous emmène à la rencontre des femmes qui…",
+          "url": "https://feeds.acast.com/public/shows/65d898547e8f7600174bdf97",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/08/95/94/08959463-ae82-8079-6dac-bde4b650a55a/mza_3206179538767975398.jpeg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "40 mm",
+          "description": "Après avoir créer mon premier podcast sur l'actu du crédit, j'ai découvert un intérêt (une passion…",
+          "url": "https://feeds.acast.com/public/shows/65653ac5f00fab0011c7a4b9",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/56/74/b8/5674b8f2-0c44-b999-c7ff-610799c98ace/mza_8475043579038622241.jpeg/256x256bb.jpg",
+          "type": "podcast"
         }
       ]
     },
@@ -135,6 +380,41 @@
           "description": "Leadership, management et culture d'entreprise",
           "url": "https://feeds.acast.com/public/shows/65294b6074eb720012379a6a",
           "imageURL": "https://assets.pippa.io/shows/65294b6074eb720012379a6a/show-cover.jpeg",
+          "type": "podcast"
+        },
+        {
+          "title": "Silicon Carne, un peu de picante dans un monde de Tech !",
+          "description": "Silicon Carne – Le seul talk-show Tech qui parle de la Silicon Valley depuis la Silicon Valley… en…",
+          "url": "https://feed.ausha.co/vVW80F6lQwAm",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fd/1e/21/fd1e216b-4922-e7fb-3cee-c596e812f4b3/mza_16127903943988940379.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "UNBX, le podcast de la réussite",
+          "description": "Chaque semaine, Hugo Clément et Marc Simoncini reçoivent celles et ceux qui ont réussi à sortir du…",
+          "url": "https://feeds.acast.com/public/shows/6aaba7448577b7eb504cf325",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/08/64/f8/0864f8bb-ac8c-5e75-d808-8b86836a2368/mza_9911379682205925251.jpeg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Matthias Baccino",
+          "description": "Prenez votre argent en main !",
+          "url": "https://feeds.acast.com/public/shows/6a12eb57294da705c31d3351",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f9/34/92/f934928c-9a20-3612-0945-b356506e1488/mza_17976197249653617129.jpeg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Comment t'as fait ?® Les entrepreneurs expliquent leur business",
+          "description": "Comment t’as fait ?",
+          "url": "https://feed.ausha.co/B6EYWTGNrkQq",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e1/a3/af/e1a3af66-44d8-5734-c6b0-52993c862fad/mza_15961944990274477301.jpeg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Matthieu Louvet - S'investir",
+          "description": "Ancien ingénieur en IA, je me suis plongé dans ma passion des finances personnelles en créant en…",
+          "url": "https://feed.ausha.co/KwqWvcdN8WZa",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b2/f5/bb/b2f5bb5d-7c37-a629-695c-c3b273189fab/mza_2541590241696014311.jpeg/256x256bb.jpg",
           "type": "podcast"
         }
       ]
@@ -165,6 +445,69 @@
           "url": "https://feeds.acast.com/public/shows/5b7ac427c6a58e726f576cff",
           "imageURL": "https://www.google.com/s2/favicons?domain=liberation.fr&sz=128",
           "type": "podcast"
+        },
+        {
+          "title": "Fin Du Game",
+          "description": "Fin Du Game c'est l'émission qui décrypte les jeux vidéo que vous avez finis (ou non).",
+          "url": "https://feeds.acast.com/public/shows/66ab52d50913aff5a45c6d19",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/80/ba/f2/80baf23d-c4b5-9102-2226-91809cbc6c7a/mza_14960087053453963292.jpeg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "ORIGAMI L'Hebdo",
+          "description": "Chaque semaine, la rédaction d'ORIGAMI se réunit en plateau pour parler de jeu vidéo, \"mais pas…",
+          "url": "https://feeds.acast.com/public/shows/6608022384d38a00165d5a80",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/a1/d1/62/a1d1621f-2e79-9c68-2417-36edfb3b5b1d/mza_6567800675744973135.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Le rendez-vous Jeux - RDV Jeux",
+          "description": "RDV Jeux : l'actu du jeu vidéo et de l'industrie !",
+          "url": "https://feeds.acast.com/public/shows/le-rendez-vous-jeux",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b8/ff/a0/b8ffa04c-7d1e-193f-3217-c4a9dab0d809/mza_5097833784618076774.png/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "La Taverne du Gamer - Podcast Jeux Vidéo",
+          "description": "Bienvenue dans la Taverne du gamer, installez vous confortablement et profitez !",
+          "url": "https://feeds.podcastics.com/podcastics/podcasts/rss/4766_9713a3bdd5afa4db66950da4fe3e62e4.rss",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/26/fc/03/26fc03c6-17f3-b99c-ef63-1e0fea7ce815/mza_8448064697209568580.jpeg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "ZQSD",
+          "description": "ZQSD, c'est le podcast des gens qui ont coulé le magazine Joystick.",
+          "url": "https://feeds.acast.com/public/shows/674c3de3f6ece089ea1b129c",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b2/5a/d3/b25ad39d-f7e3-c354-16b0-06cd45f7f9e8/mza_18045560699826240803.jpeg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Tant qu’il y aura du Wi-Fi !",
+          "description": "“Tant qu’il y aura du Wi-Fi…” est le podcast qui décrypte la culture gaming, la tech et la pop…",
+          "url": "https://feeds.acast.com/public/shows/698ee59d8dc5f2047a9b4671",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/72/72/d3/7272d3b4-8b96-f60b-d283-50e566a995a4/mza_9062305511443698906.jpeg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Super Vieux Jeux",
+          "description": "Dans Super Vieux Jeux, Sylvain Tastet, Patrick Hellio et Raphael Lucas disent merde à l'actu et…",
+          "url": "https://feeds.acast.com/public/shows/65e31ff5bec0f30016328781",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/73/fa/62/73fa6290-8133-a480-9cfe-3880ada952ca/mza_6030556653670659581.jpeg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Head Shot - Des Têtes et des Jeux",
+          "description": "Dans Head Shot, Marion Bargiacchi va à la rencontre \"des têtes et des jeux\", des gens qui…",
+          "url": "https://feeds.acast.com/public/shows/66f6bd3dbc5939914872fab0",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/38/89/58388933-5384-26f4-715c-f42134e8135d/mza_14574980179195581959.jpeg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Ori·ori",
+          "description": "Ori·ori explore les saisons à travers les cultures populaires, mais pas que.",
+          "url": "https://feeds.acast.com/public/shows/oriori",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d8/fe/6c/d8fe6c49-11ed-2563-ca14-610f26338f0c/mza_17933608750050861528.jpeg/256x256bb.jpg",
+          "type": "podcast"
         }
       ]
     },
@@ -180,6 +523,48 @@
           "url": "https://feed.ausha.co/owXpzuzzqwqP",
           "imageURL": "https://www.google.com/s2/favicons?domain=lequipe.fr&sz=128",
           "type": "podcast"
+        },
+        {
+          "title": "SAFE PACE - Le podcast des sports d'endurance, présenté par Hugo Clément",
+          "description": "Chaque semaine dans SAFE PACE, Hugo Clément explore l’univers en pleine expansion des sports…",
+          "url": "https://feeds.acast.com/public/shows/6ad0950d94a3daa98ebbe54b",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/10/7b/ed107b88-9e6f-ac3a-3b38-9038ff045535/mza_14395774652848254011.jpeg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "WINAMAX FOOTBALL CLUB",
+          "description": "Retrouvez le Winamax Football Club du lundi au vendredi à 13h et le week-end à midi avec l'équipe…",
+          "url": "https://feeds.podcastics.com/podcastics/podcasts/rss/1049_ea6163c54bc5e626b6115fc5a4888afe.rss",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/cf/cd/fd/cfcdfdd1-0f1f-ce55-b4de-35b4b8371f43/mza_15510037799317435524.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Dans la Tête d'un Coureur",
+          "description": "Le 1er podcast francophone dédié à la course à pied et à la préparation mentale by Sunday Night…",
+          "url": "https://feeds.audiomeans.fr/feed/f16e2818-c652-4fa2-ab65-2f81cf8331bc.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/59/74/b6/5974b697-7a5d-06a8-d504-719a11db9d25/mza_12893466278155581964.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "First Team",
+          "description": "🎙️ Des interviews exclusives, analyses et débats basket.",
+          "url": "https://feeds.acast.com/public/shows/6315f8d430a52e00124aad08",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7b/a8/b0/7ba8b0ba-a1eb-4098-0297-4acea722843a/mza_16638400035027141444.jpeg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Wiloo",
+          "description": "Je parle de football ⚽ Ici, vous trouverez la version audio de mes vidéos YouTube.",
+          "url": "https://feeds.acast.com/public/shows/62fd0ceae0c13d001228edf9",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c5/4e/31/c54e31d7-8ece-cc65-28b4-d1c3d84b26e1/mza_18010788864935471754.jpeg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Culotte & TRAIL",
+          "description": "Le podcast des femmes qui courent.",
+          "url": "https://feeds.audiomeans.fr/feed/40608b49-dbf2-4bfe-a1e6-a1071e46a345.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6b/c7/40/6bc7407f-6166-a700-f70b-bd5af6db7808/mza_661211929761730212.jpg/256x256bb.jpg",
+          "type": "podcast"
         }
       ]
     },
@@ -194,6 +579,83 @@
           "description": "Actualité médicale et santé publique",
           "url": "https://radiofrance-podcast.net/podcast09/rss_25394.xml",
           "imageURL": "https://www.google.com/s2/favicons?domain=radiofrance.fr&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Émotions, un podcast pour mettre des mots sur vos émotions, présenté par Marie Misset",
+          "description": "“Émotions”, c’est un podcast dans lequel trouver des réponses lorsque l’on s’interroge sur les…",
+          "url": "https://feeds.acast.com/public/shows/8fb79794-2f6a-41f0-9ae1-d7766f4e4092",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/c6/8b/f1/c68bf162-537d-a361-db8b-dffb624f2ef5/mza_11628092127487380555.jpeg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "La Source",
+          "description": "Bienvenue sur La Source, le podcast wellness, santé & biohacking, dans lequel nous allons puiser la…",
+          "url": "https://feeds.acast.com/public/shows/696a156f4796fcbb57e418e7",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6e/59/49/6e5949e0-284c-3acc-3fc9-78257d7ec2db/mza_15614449310718012381.jpeg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "En tête à tête",
+          "description": "Et si on parlait enfin de santé mentale simplement ?",
+          "url": "https://feeds.acast.com/public/shows/6a2576286263fbced6931700",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/4c/8f/b0/4c8fb043-613d-133b-2af4-f8502353eb38/mza_14536643847109255950.jpeg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Encore heureux",
+          "description": "Burn-out, dépression, éco-anxiété, injonctions au bonheur : et si votre mal-être était avant tout…",
+          "url": "https://feeds.audiomeans.fr/feed/10f59399-cd5e-4137-8c0c-390d160375d5.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/80/ab/cf/80abcf24-54e6-7861-40d0-e3f027a87b52/mza_7350640089098037521.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Tais-toi (aka t'es toi)",
+          "description": "Tais-toi, c’est le podcast d’une fille qui s’est beaucoup trop longtemps empêchée de parler.",
+          "url": "https://feeds.acast.com/public/shows/65bb6517099860001751a699",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ca/c4/6b/cac46b9e-949f-a40b-67d3-85699399ce3a/mza_11745113210769226029.jpeg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Chaud Dedans",
+          "description": "Vivre sa ménopause autrement.",
+          "url": "https://feeds.audiomeans.fr/feed/7d323902-7b5e-4ee2-9130-c5cddf26ecbd.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7b/b6/ec/7bb6ecf3-b4f0-6e70-8180-6f34a13246bc/mza_12103145851215014602.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Tempête mentale",
+          "description": "Et si les troubles psychiques pouvaient parler ?",
+          "url": "https://feeds.acast.com/public/shows/68d3950c704fa58404d55d4c",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c8/aa/07/c8aa07f9-9729-095e-96a6-12fada1a2c7c/mza_5706001607943973522.jpeg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Entre Mes Consults",
+          "description": "Bienvenue dans Entre Mes Consults by Hafsa !",
+          "url": "https://feed.ausha.co/MAr3ZuNPMn1D",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7f/77/49/7f7749bf-a76f-6055-332c-8ef8233ab486/mza_6646857743973470400.jpeg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Folie Douce - politiser la santé mentale",
+          "description": "Je suis Lauren Bastide, journaliste, autrice et productrice.",
+          "url": "https://feeds.audiomeans.fr/feed/84859420-27bc-4619-a817-81beb346f97f.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/10/3c/87/103c87ed-5d70-dac8-906c-4bff67d5a2f6/mza_14260688319390311934.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Libre antenne - Valérie Darmon",
+          "description": "Au cœur de la nuit, les auditeurs se livrent en toute liberté aux oreilles attentives et…",
+          "url": "https://feeds.audiomeans.fr/feed/0cfcdf47-1308-4f79-a9f1-2eb992eb94e2.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ff/db/a5/ffdba5f8-3d91-fd79-a1b3-22b3e9124606/mza_6920184826977883681.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Laurent Karila : Addiktion",
+          "description": "Laurent KARILA est professeur de médecine, psychiatre, addictologue… Et très fan de musique Metal !",
+          "url": "https://api.octopus.saooti.com/rss/playlist/509.rss",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/72/fd/8a/72fd8ae6-d5e8-50a2-5537-ef2a60becef8/mza_294537810323003120.jpg/256x256bb.jpg",
           "type": "podcast"
         }
       ]
@@ -217,6 +679,20 @@
           "url": "https://feeds.acast.com/public/shows/43160adc-fadd-4764-b93f-aa1ca93f22bf",
           "imageURL": "https://www.google.com/s2/favicons?domain=acast.com&sz=128",
           "type": "podcast"
+        },
+        {
+          "title": "Trench Tech",
+          "description": "Esprits Critiques pour Tech Ethique !",
+          "url": "https://feed.ausha.co/DPOJLTk1MlKx",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/b4/c8/10/b4c810dc-779f-4d7c-b199-c35922d2cd1e/mza_11541609314198289757.jpeg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "IA encore du taf ?! • Le podcast sur le travail à l'ère de l'intelligence artificielle",
+          "description": "🎙️ IA encore du taf ?!",
+          "url": "https://feeds.acast.com/public/shows/687be06d0de40e9a7ca282f0",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a0/38/00/a03800e8-8b17-3e47-7d90-9f70c8e3d781/mza_8211292528892563103.jpeg/256x256bb.jpg",
+          "type": "podcast"
         }
       ]
     },
@@ -231,6 +707,27 @@
           "description": "Fréquence terre - La Radio Nature - diffuse des musiques du monde et des émissions sur l'environnement depuis 2003",
           "url": "https://frequenceterre.com/feed/",
           "imageURL": "https://www.google.com/s2/favicons?domain=frequenceterre.com&sz=128",
+          "type": "podcast"
+        },
+        {
+          "title": "Greenletter Club, l'écologie décortiquée",
+          "description": "💥 Lien pour s'inscrire à au Podcast Live le 23 septembre 👉 https://bit.ly/4iYqAsq Faut-il manger…",
+          "url": "https://feed.ausha.co/bPRKpsJEPv6e",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/82/ba/30/82ba30dc-d601-7996-5a85-11271f26790f/mza_3152932747532391012.jpeg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Le Monde d'après par Reporterre",
+          "description": "Rencontre avec les penseurs de l'écologie, politiques, acteurs, militants, écrivains...",
+          "url": "https://feed.ausha.co/brwdvlCd8jQl",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f5/5b/e9/f55be9d2-3904-755a-c8cd-29bee1d23d93/mza_9790586454249419528.jpeg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Sismique - Où va le monde ?",
+          "description": "Notre vivons une époque sismique.",
+          "url": "https://feeds.acast.com/public/shows/9851446c-d9b9-47a2-99a9-26d0a4968cc3",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2a/64/c4/2a64c411-ff63-b4de-66e4-434e9976ccaf/mza_1824297463251251756.jpeg/256x256bb.jpg",
           "type": "podcast"
         }
       ]
