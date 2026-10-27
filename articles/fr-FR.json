@@ -512,6 +512,13 @@
           "url": "https://www.cineserie.com/feed/",
           "imageURL": "https://www.google.com/s2/favicons?domain=cineserie.com&sz=128",
           "type": "article"
+        },
+        {
+          "title": "Critikat",
+          "description": "Critiques de cinéma indépendantes et approfondies",
+          "url": "https://www.critikat.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=critikat.com&sz=128",
+          "type": "article"
         }
       ]
     },
