@@ -1,0 +1,574 @@
+{
+  "categories": [
+    {
+      "id": "tech",
+      "titleKey": "discover_category_tech",
+      "icon": "cpu",
+      "color": "blue",
+      "feeds": [
+        {
+          "title": "Loop Infinito (by Xataka)",
+          "description": "¡Vótame en los Premios iVoox 2026!",
+          "url": "https://feeds.ivoox.com/feed_fg_f1757774_filtro_1.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d8/69/bf/d869bf29-bb71-d3ef-c974-6fd09659fa27/mza_5757935485455313164.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Las Charlas de Applesfera",
+          "description": "¡Vótame en los Premios iVoox 2026!",
+          "url": "https://feeds.ivoox.com/feed_fg_f1455481_filtro_1.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7e/b8/74/7eb8748f-56b2-ca85-ddd7-f385a97084fa/mza_8492582910617169787.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Emilcar Daily",
+          "description": "Un podcast sobre tecnología en general, Apple en particular, redes sociales, productividad personal…",
+          "url": "https://media.rss.com/emilcar-daily/feed.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6e/a8/79/6ea87936-b83c-d1e7-e332-5d74714b6e15/mza_10246521746613645992.png/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Cupertino, podcast sobre Apple",
+          "description": "Cupertino es el podcast de mixx.io dedicado a cubrir los productos y servicios de Apple desde una…",
+          "url": "https://voicemi.es/feed/cupertino",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/3a/a4/ed3aa41b-9579-9ee7-51a6-b9d0b8043c8a/mza_16562356142460703720.png/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Inteligencia Artificial",
+          "description": "El podcast donde hablamos del presente y el futuro de la inteligencia artificial.",
+          "url": "https://pochocosta.com/feed/podcast/inteligencia-artificial/",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c4/cf/7b/c4cf7b9b-f1e5-70db-809c-e5014bd454c9/mza_9250690293692799720.png/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Desde el reloj",
+          "description": "Podcast diario sobre tecnología grabado directamente desde un AppleWatch.",
+          "url": "https://feed.desdeelreloj.com",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/66/4f/00/664f0061-56ae-38e9-090e-517bb83adefb/mza_13360350366892872122.png/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Applelianos",
+          "description": "¡Vótame en los Premios iVoox 2026!",
+          "url": "https://feeds.ivoox.com/feed_fg_f1170563_filtro_1.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/1d/2c/12/1d2c124c-29b2-f4ce-a66a-6e6b8827774d/mza_14286400717300311358.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Tierra de Hackers",
+          "description": "Tu noticiero de ciberseguridad hecho podcast.",
+          "url": "https://feeds.ivoox.com/feed_fg_f1891863_filtro_1.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bf/bb/f7/bfbbf798-58d9-6c3f-6ee5-c147d7f7744a/mza_14749269156481593691.jpg/256x256bb.jpg",
+          "type": "podcast"
+        }
+      ]
+    },
+    {
+      "id": "science",
+      "titleKey": "discover_category_science",
+      "icon": "atom",
+      "color": "green",
+      "feeds": [
+        {
+          "title": "A hombros de gigantes",
+          "description": "Programa de divulgación científica y actualidad con los hallazgos más recientes.",
+          "url": "https://api.rtve.es/api/programas/1873/audios.rss",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/03/7b/a8/037ba8db-da57-c79e-3e1f-325814c48f06/mza_9162983713581066015.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Ciencia Fresca - Cienciaes.com",
+          "description": "La ciencia no deja de asombrarnos con nuevos descubrimientos insospechados cada semana.",
+          "url": "https://feeds.feedburner.com/CienciaFresca-Cienciaescom",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/74/29/44/7429440e-361b-7600-24ac-c8bc9649e723/mza_2777743564255017916.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Sapiens",
+          "description": "Mirar al pasado para comprender el presente e imaginar el futuro.",
+          "url": "https://api.rtve.es/api/adapter/programas/128073/audios.rss",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/70/38/4a/70384a12-19e1-8784-4b26-b5ec495af202/mza_1260975685240701353.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Materia Oscura",
+          "description": "Materia Oscura es un programa especializado en Ciencia del periodista José Manuel Nieves.",
+          "url": "https://www.omnycontent.com/d/playlist/7e594858-42ba-4ecb-86d8-ad1a002e5281/8ebcda15-6175-4dca-aa9a-ae6d00fd882e/e482fb86-4298-48a7-bebb-ae6d00fd8866/podcast.rss",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5a/7b/56/5a7b5691-9f4f-cfff-c378-b039a11792dd/mza_14192838464928816676.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Coffee Break: Señal y Ruido",
+          "description": "Coffee Break: Señal y Ruido es la tertulia semanal en la que, medio en broma medio en serio…",
+          "url": "https://feeds.acast.com/public/shows/69c0f7587878605e1161547d",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fe/ca/95/feca9556-76f9-fcc7-d3a4-b01d7e545c79/mza_1817717591290799345.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Quantum AM",
+          "description": "Quantum AM es el podcast de ciencia y curiosidades de QuantumFracture presentado por Crespo.",
+          "url": "https://feeds.ivoox.com/feed_fg_f13232874_filtro_1.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a7/e7/91/a7e79124-80cd-f0f3-8995-5829da1b493f/mza_2461310730836560641.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Oscilador Armónico",
+          "description": "¡Vótame en los Premios iVoox 2026!",
+          "url": "https://feeds.ivoox.com/feed_fg_f11799533_filtro_1.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/25/02/87/25028762-2e4d-28f0-5f98-96c1e0111e36/mza_15814359484820927511.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Catástrofe ultravioleta",
+          "description": "Si quieres escucharnos, hazte socio en elDiario.es/Catastrofe.",
+          "url": "https://www.omnycontent.com/d/playlist/554539c9-b3b2-431a-9f3a-ada4006d04a0/d422d26a-b8b3-4c1f-b507-b2e20117a99d/d1a34000-0d86-4257-b229-b2e20117a9b8/podcast.rss",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/67/26/9e/67269e46-929f-8675-54a1-3cc942795117/mza_14065457056903933258.jpg/256x256bb.jpg",
+          "type": "podcast"
+        }
+      ]
+    },
+    {
+      "id": "news",
+      "titleKey": "discover_category_news",
+      "icon": "newspaper",
+      "color": "red",
+      "feeds": [
+        {
+          "title": "El hilo",
+          "description": "Cuando alguien comparte un hilo en redes sociales sabemos que nos va a contar una historia, o dar…",
+          "url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/b9075595-43ce-4bdd-9a4c-b1ea01352a3d/e4eb1040-260e-4556-a9c7-b1ea01352a67/podcast.rss",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/23/1e/46/231e46a9-6243-a562-0706-67a177604925/mza_9950353516062688371.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Es la Mañana de Federico",
+          "description": "Información y opinión con Federico Jiménez Losantos y sus colaboradores habituales para arrancar…",
+          "url": "https://esradio.libertaddigital.com/es-la-manana-de-federico/podcast.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/dc/1a/e3/dc1ae39a-c329-9936-ed91-803855eac1b8/mza_9108373831978867332.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Más de uno",
+          "description": "Más de uno: información, actualidad, entrevistas y entretenimiento cada mañana en Onda Cero con…",
+          "url": "https://www.ondacero.es/rss/podcast/triton/mount/ATRESMEDIA_MAS_DE_UNO_AOD_P/origin/fastly",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/de/8f/56/de8f5676-4619-5e9e-5096-93f0acce6dba/mza_7514169580272353353.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "La noche de Cuesta",
+          "description": "Carlos Cuesta y su equipo analizan, como sólo ellos saben hacerlo, todo lo ocurrido durante la…",
+          "url": "https://esradio.libertaddigital.com/la-noche-de-cuesta/podcast.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e5/ab/e3/e5abe3e4-9e92-7b0d-267a-a9400011886f/mza_15184831458158844062.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "La Brújula",
+          "description": "Actualidad, noticias y análisis con Marta García Aller para entender cada tarde las claves de la…",
+          "url": "https://www.ondacero.es/rss/podcast/triton/mount/ATRESMEDIA_LA_BRUJULA_AOD_P/origin/fastly",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7a/8f/1e/7a8f1e2b-1a85-374c-d489-a2e0d374004b/mza_1905898263534652118.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "En casa de Herrero",
+          "description": "Las noticias de siempre pero con el estilo característico de Luis Herrero y todo su equipo.",
+          "url": "https://esradio.libertaddigital.com/en-casa-de-herrero/podcast.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/3c/7f/54/3c7f5451-380a-71be-b10e-a81c376f0fdf/mza_5730781991133270856.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "La Trinchera de Llamas",
+          "description": "Los fines de semana son mucho más interesantes con \"La Trinchera de Llamas\", un programa que nos…",
+          "url": "https://esradio.libertaddigital.com/la-trinchera-de-llamas/podcast.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/7d/d3/4e/7dd34e83-38ea-b719-7550-d90de8163505/mza_7817413784079583727.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Julia en la onda",
+          "description": "Julia Otero te trae toda la información y el humor de los fines de semana de Onda Cero",
+          "url": "https://www.ondacero.es/rss/podcast/triton/mount/ATRESMEDIA_JULIA_EN_LA_ONDA_AOD_P/origin/fastly",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/35/b2/72/35b2726f-72e2-c594-a581-287efc84bf3d/mza_15934066491248241043.jpg/256x256bb.jpg",
+          "type": "podcast"
+        }
+      ]
+    },
+    {
+      "id": "culture",
+      "titleKey": "discover_category_culture",
+      "icon": "theatermasks",
+      "color": "pink",
+      "feeds": [
+        {
+          "title": "HISTORIA DE ARAGÓN",
+          "description": "La historia de Aragón es apasionante.",
+          "url": "https://eu.mdstrm.com/feeds/698b79117070d0ead9468dda/69adb01a5ef460ec33d8f23e?property=itunes",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/95/55/ed955550-3c04-43e0-57a4-d14e24ada2f1/mza_1069319186577817660.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "El ojo crítico",
+          "description": "Cine, literatura, teatro, cómic, ciencia, danza...",
+          "url": "https://api.rtve.es/api/programas/1957/audios.rss",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/81/0b/6e/810b6e15-ef73-b352-6fc2-49263a8a3085/mza_5362308585950461334.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Aquí hay dragones",
+          "description": "¡Vótame en los Premios iVoox 2026!",
+          "url": "https://feeds.ivoox.com/feed_fg_f1576365_filtro_1.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a1/d0/51/a1d0512d-8598-2b29-ac0d-17e6621e0af7/mza_3425950709462332752.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Todopoderosos",
+          "description": "¡Vótame en los Premios iVoox 2026!",
+          "url": "https://feeds.feedburner.com/todopoderosos",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/57/dd/43/57dd43fe-0ef4-843b-77a0-fd7fa98820a7/mza_4259121099561043706.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "WORLDCAST",
+          "description": "Hosted by: Pedro Buerbaum.",
+          "url": "https://feeds.megaphone.fm/HOT7749589265",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/df/68/7a/df687aa2-e7eb-fef1-c998-82b34084849d/mza_1397833389770661540.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "El Descampao",
+          "description": "¡Vótame en los Premios iVoox 2026!",
+          "url": "https://feeds.ivoox.com/feed_fg_f1268956_filtro_1.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/49/60/be/4960bed0-c7f8-a677-d912-449a3bb2a64e/mza_9522738859596665301.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Cowboys de Medianoche",
+          "description": "Cowboys de medianoche es un programa dirigido por Luis Herrero en el que, junto a José Luis Garci…",
+          "url": "https://esradio.libertaddigital.com/cowboys-de-medianoche/podcast.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/1f/cc/30/1fcc30af-d66e-9672-e333-6d177b7137a8/mza_3858184985326569394.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "La escóbula de la brújula",
+          "description": "Una reunión semanal de amigos con curiosidad sobre Historia, cultura y leyendas.",
+          "url": "https://www.omnycontent.com/d/playlist/2446592a-b80e-4d28-a4fd-ae4c0140ac11/9afe58f0-d402-4e05-a5ce-aead00a0ba96/fd25a142-cbf1-4f2b-9146-aead00a0bab7/podcast.rss",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/20/49/c1/2049c1fd-a8e5-71b1-7fe9-5c3a44bcec1c/mza_883807119909851442.jpg/256x256bb.jpg",
+          "type": "podcast"
+        }
+      ]
+    },
+    {
+      "id": "design",
+      "titleKey": "discover_category_design",
+      "icon": "paintpalette",
+      "color": "purple",
+      "feeds": [
+        {
+          "title": "Plano Cero",
+          "description": "Plano Cero es una sección de “Más de Uno Puente Genil” que está dedicada a la arquitectura y el…",
+          "url": "https://feeds.ivoox.com/feed_fg_f12271305_filtro_1.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/a5/06/b0/a506b065-17ea-2922-9ec0-d8fd6aa25704/mza_17036944356694214981.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Diseñando Sueños",
+          "description": "Hola Hola!",
+          "url": "https://rss.libsyn.com/shows/418127/destinations/3473561.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fc/d9/ba/fcd9bad4-3f6f-771f-da64-c1b204373359/mza_8906439853892173930.png/256x256bb.jpg",
+          "type": "podcast"
+        }
+      ]
+    },
+    {
+      "id": "business",
+      "titleKey": "discover_category_business",
+      "icon": "chart.line.uptrend.xyaxis",
+      "color": "orange",
+      "feeds": [
+        {
+          "title": "Spicy4tuna",
+          "description": "¡Vótame en los Premios iVoox 2026!",
+          "url": "https://feeds.ivoox.com/feed_fg_f12292250_filtro_1.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0f/2b/d7/0f2bd77d-4309-af4c-12f3-06ea56d28bd3/mza_2881845507794056917.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Finect Talks",
+          "description": "¡Vótame en los Premios iVoox 2026!",
+          "url": "https://feeds.ivoox.com/feed_fg_f1757620_filtro_1.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/49/11/cf/4911cfd1-7045-716d-f391-e501af6db4ac/mza_5770638803940257948.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Tu dinero nunca duerme",
+          "description": "Cada semana Luis Fernando Quintero, Domingo Soriano y Manuel Llamas se dan cita con los mejores…",
+          "url": "https://esradio.libertaddigital.com/tu-dinero-nunca-duerme/podcast.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/b5/21/ca/b521ca6c-0fe7-d075-10ff-99b3962ceef6/mza_6953371195165317146.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Value Investing FM",
+          "description": "¡Vótame en los Premios iVoox 2026!",
+          "url": "https://feeds.ivoox.com/feed_fg_f1499494_filtro_1.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/cc/fa/06/ccfa0612-b62e-1a60-7582-e3f2f053f460/mza_6735235957559812821.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Economía para quedarte sin amigos",
+          "description": "La cara oculta de la Economía.",
+          "url": "https://esradio.libertaddigital.com/economia-para-quedarte-sin-amigos/podcast.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/6d/0b/1c/6d0b1c1f-add3-f81b-c39d-aa126a1644b9/mza_12248016637023239448.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Value School | Ahorro, finanzas personales, economía, inversión y value investing",
+          "description": "Bienvenido al podcast de Value School, un proyecto educativo y de divulgación con el que aprenderás…",
+          "url": "https://rss.libsyn.com/shows/122024/destinations/716040.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/16/65/6b/16656b9f-1e5e-52d0-6600-fbf22ba05f78/mza_13078015853078489108.png/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Salud Financiera",
+          "description": "Podcast Diario para Mejorar tu relación con las Finanzas y los Mercados Financieros.",
+          "url": "https://feeds.transistor.fm/salud-financiera",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/65/19/50/65195017-0f7a-7b01-81ef-007b43e3e16a/mza_13183092006597303309.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Objetivo : Libertad financiera",
+          "description": "¡Vótame en los Premios iVoox 2026!",
+          "url": "https://feeds.ivoox.com/feed_fg_f12494259_filtro_1.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/97/b5/ae/97b5aef2-5db3-24a2-aef8-a57d64d627fe/mza_15090730482509017276.jpg/256x256bb.jpg",
+          "type": "podcast"
+        }
+      ]
+    },
+    {
+      "id": "gaming",
+      "titleKey": "discover_category_gaming",
+      "icon": "gamecontroller",
+      "color": "indigo",
+      "feeds": [
+        {
+          "title": "Chiclana & Friends",
+          "description": "Videojuegos y fatiguitas.",
+          "url": "https://feed.podbean.com/chiclanafriends/feed.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6a/a7/58/6aa7584c-e979-77f5-d936-cc0fac9bb3cf/mza_12935956825990956100.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Reconectados Videojuegos",
+          "description": "¡Vótame en los Premios iVoox 2026!",
+          "url": "https://feeds.ivoox.com/feed_fg_f1467878_filtro_1.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/94/cd/1e/94cd1ef7-9d0e-88f0-b1b5-5bdbce8c9f8d/mza_10604658688918954177.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Un café con Nintendo",
+          "description": "¡Vótame en los Premios iVoox 2026!",
+          "url": "https://feeds.ivoox.com/feed_fg_f1461123_filtro_1.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6b/24/7b/6b247b03-36c8-9c8a-9f2f-8a56394dcdfd/mza_4415895996346057760.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "GG by 3DJuegos",
+          "description": "¡Vótame en los Premios iVoox 2026!",
+          "url": "https://feeds.ivoox.com/feed_fg_f12552436_filtro_1.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/4a/9a/e5/4a9ae59e-c2c8-8043-d0b2-6505c6a19404/mza_11757505404120050004.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Troquel Connection.",
+          "description": "Programa dedicado al análisis de los juegos de mesa.",
+          "url": "https://feeds.ivoox.com/feed_fg_f1303262_filtro_1.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a1/5d/f5/a15df52c-fca2-ff7f-b1a1-b5803a382bdb/mza_7320316745887741767.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Pixel Perfect Videojuegos",
+          "description": "El programa de radio de ninguna radio que presenta la actualidad videojueguil cada 15 días.",
+          "url": "https://feeds.ivoox.com/feed_fg_f11069834_filtro_1.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/81/44/4d/81444d26-1685-dcc2-ee06-714bfee792d5/mza_18392454587450931403.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "MeriPodcast",
+          "description": "Con más de una década en el aire, el Meripodcast de Meristation es uno de los programas veteranos…",
+          "url": "https://www.omnycontent.com/d/playlist/c98df85b-3c4c-4c41-bc67-ad4000e63551/be4e2c6d-35ea-41c9-8e19-afaa0151ec3b/cef6246a-5792-4706-9da5-afaa0151ec61/podcast.rss",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/48/3c/9e/483c9edd-5f75-1d12-faaa-42e81d26d911/mza_11250514657031767553.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "GTM Restart",
+          "description": "¡Vótame en los Premios iVoox 2026!",
+          "url": "https://feeds.ivoox.com/feed_fg_f1286786_filtro_1.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/d6/9d/31/d69d3126-5d26-45d8-4fb6-abb9515ee1d8/mza_6418573823908291939.jpg/256x256bb.jpg",
+          "type": "podcast"
+        }
+      ]
+    },
+    {
+      "id": "sports",
+      "titleKey": "discover_category_sports",
+      "icon": "trophy",
+      "color": "yellow",
+      "feeds": [
+        {
+          "title": "El Primer Palo",
+          "description": "Juanma Rodríguez toma los mandos de la noche en esRadio en un programa deportivo distinto con…",
+          "url": "https://esradio.libertaddigital.com/el-primer-palo/podcast.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/a0/e7/cc/a0e7ccb3-b85f-ba5c-819e-faf7e7ccb1f7/mza_1688973121456910935.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "La Pizarra de Quintana",
+          "description": "Con Miguel Quintana, Adrián Blanco, Nahuel Miranda y Alex de Llano a los mandos, La Pizarra de…",
+          "url": "https://www.omnycontent.com/d/playlist/4ac2c3a8-bb0c-499b-bf22-ac8400df1983/23858072-d78f-4b2c-870e-ad95016caf18/272fdbf7-9428-4781-92e9-ad95016eb929/podcast.rss",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3a/5d/54/3a5d5417-c8e3-4d75-92ed-07f08b7a9881/mza_3140586576263267480.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Radioestadio noche",
+          "description": "Toda la información deportiva, con Edu Pidal",
+          "url": "https://www.ondacero.es/rss/podcast/triton/mount/ATRESMEDIA_RADIOESTADIO_NOCHE_AOD_P/origin/fastly",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2a/82/99/2a829973-f6ca-1164-50dd-c39e37abd1ae/mza_6313668545583781760.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "La Tribu con Raúl Varela",
+          "description": "La primera tertulia deportiva de la mañana, de lunes a viernes, en \"A Diario\" con Raúl Varela.",
+          "url": "https://www.omnycontent.com/d/playlist/4ac2c3a8-bb0c-499b-bf22-ac8400df1983/7345e2c8-3edf-4530-b882-ac8700b152e1/a6c99e71-a9ce-48d3-97d9-acaa0101581c/podcast.rss",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9a/60/0c/9a600ce6-3de8-e85f-d3f3-d4960fedceaf/mza_11100161238664517110.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "DESPIERTA San Francisco con David Sánchez",
+          "description": "David Sánchez te cuenta el deporte con su particular visión, el deporte de la forma más desenfadada.",
+          "url": "https://www.omnycontent.com/d/playlist/4ac2c3a8-bb0c-499b-bf22-ac8400df1983/4a980c59-d92d-4665-a62d-ac8700cdd84c/95007735-846b-4477-a98e-ac8700ce55e3/podcast.rss",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b9/81/90/b981906d-0ba2-b01a-9e13-1959e5f9fd08/mza_3233354482614853549.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Hijos de la Resistencia",
+          "description": "Podcast creado para los amantes de la resistencia.",
+          "url": "https://feeds.transistor.fm/hijos-de-la-resistencia",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/4b/e9/b9/4be9b954-1a22-95b7-c248-989ee27a72cd/mza_2079510679150897638.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Podcast de El Radio",
+          "description": "Análisis crítico de la prensa deportiva española, con especial énfasis en la radiofónica",
+          "url": "https://feeds.ivoox.com/feed_fg_f1101856_filtro_1.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/7e/65/8b/7e658b0e-ecf7-cf8a-93e4-13c083faff8a/mza_13118939516378514925.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Fútbol es Radio",
+          "description": "Fútbol es Radio es una tertulia desenfadada de fútbol, de lunes a viernes de 15:05 a 16:00.",
+          "url": "https://esradio.libertaddigital.com/futbol-es-radio/podcast.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/b2/26/57/b226574c-1d32-c749-5461-15a246a7c9e8/mza_10130853983432051675.jpeg/256x256bb.jpg",
+          "type": "podcast"
+        }
+      ]
+    },
+    {
+      "id": "health",
+      "titleKey": "discover_category_health",
+      "icon": "stethoscope",
+      "color": "mint",
+      "feeds": [
+        {
+          "title": "El podcast de Cristina Mitre",
+          "description": "Este es el podcast de la periodista y escritora Cristina Mitre, premio Ondas a la Mejor Anfitriona…",
+          "url": "https://feeds.acast.com/public/shows/62ed09b7dd4e730012475bd3",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/52/8e/8c/528e8cab-cdad-d6a6-1793-677943289fe5/mza_5038673872399010876.jpeg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Tiene Sentido",
+          "description": "Cada semana te presentamos historias, herramientas y aprendizajes de personas que te ayudarán a…",
+          "url": "https://feeds.acast.com/public/shows/68f00719c68aefb908ab6df4",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/79/ea/44/79ea4413-0c38-fd82-6ef7-cebc6a3ed243/mza_6714452225751421874.jpeg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Entiende Tu Mente",
+          "description": "Somos el pódcast de psicología más escuchado en español.",
+          "url": "https://feeds.acast.com/public/shows/69779e4cf4b515342e3b249c",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c4/e0/b4/c4e0b43a-888d-c267-6a85-3f0cb5bbd911/mza_4665026146816110789.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Tus Amigas Las Hormonas",
+          "description": "Soy Isabel Viña Bas, médico y directora médico-científica de IVB Wellness Lab.",
+          "url": "https://www.spreaker.com/show/5751435/episodes/feed",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/aa/17/0a/aa170a87-c850-f790-43c3-08c32a76a1f1/mza_11059709646368077132.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "De Piel a Cabeza",
+          "description": "Un pódcast sobre salud física y mental con evidencia científica, claridad y sentido del humor.",
+          "url": "https://feeds.acast.com/public/shows/643581449f37ad00102a3fb3",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d4/31/97/d4319764-e64f-3a76-53f2-c3f6b317ca79/mza_7004396062495144939.jpeg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Mañana Empiezo",
+          "description": "El podcast para los que sueñan con tener una vida más sana.",
+          "url": "https://www.omnycontent.com/d/playlist/2446592a-b80e-4d28-a4fd-ae4c0140ac11/9d313449-5b99-4855-81a4-aea700ee3a1b/5589b437-096d-42ae-999e-aea700ee3a33/podcast.rss",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/1f/54/21/1f542134-8559-8cb3-f809-3c34eefd8b61/mza_949575972062480181.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Dr. Borja Bandera",
+          "description": "En este podcast recibirás los mejores consejos para optimizar tu salud y así evitar enfermedad.",
+          "url": "https://feeds.megaphone.fm/TBT9156379627",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3c/c3/6a/3cc36a8f-6a41-b99b-6e57-7c8d9f5d8bed/mza_8822080409990764246.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Meditaciones guiadas con Iciar Burgos",
+          "description": "¡Vótame en los Premios iVoox 2026!",
+          "url": "https://feeds.ivoox.com/feed_fg_f1272932_filtro_1.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/c5/a0/3e/c5a03ed6-ec74-a4e9-d7cd-ffa942f51bbc/mza_1581229144370929360.jpg/256x256bb.jpg",
+          "type": "podcast"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "titleKey": "discover_category_ai",
+      "icon": "sparkles",
+      "color": "cyan",
+      "feeds": [
+        {
+          "title": "La TERTULia de la Inteligencia Artificial",
+          "description": "Inteligencia Artificial en profundidad contada por expertos…",
+          "url": "https://feeds.ivoox.com/feed_fg_f11815311_filtro_1.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/86/14/52/86145253-02e5-3ad1-9412-89f326eb8910/mza_11397703874459631690.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Horizontes Digitales: Tecnología, Inteligencia Artificial y Futuro digital",
+          "description": "¿Cómo está transformando la inteligencia artificial nuestra forma de aprender, trabajar y entender…",
+          "url": "https://www.spreaker.com/show/2467211/episodes/feed",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ea/fe/4d/eafe4dc1-e55d-52b2-2f81-0248faae3b72/mza_15467174959993885366.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "En clave de inteligencia artificial",
+          "description": "Bienvenidos a \"En clave de inteligencia artificial\", un videopodcast de Deloitte España y del think…",
+          "url": "https://rss.libsyn.com/shows/523083/destinations/4981855.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/29/c6/7f/29c67fb5-3256-2485-f581-b399ebee97c5/mza_1286925604759811575.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Código AdrIA. Inteligencia Artificial",
+          "description": "La inteligencia artificial llevada a la empresa de una forma sencilla",
+          "url": "https://prestocast.com/codigoadria/feed",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/17/a1/7a/17a17aa6-80f0-d282-aad5-6b624f0ca233/mza_7513347621316578248.jpg/256x256bb.jpg",
+          "type": "podcast"
+        }
+      ]
+    }
+  ]
+}

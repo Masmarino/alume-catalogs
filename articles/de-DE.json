@@ -1,0 +1,736 @@
+{
+  "categories": [
+    {
+      "id": "tech",
+      "titleKey": "discover_category_tech",
+      "icon": "cpu",
+      "color": "blue",
+      "feeds": [
+        {
+          "title": "heise online",
+          "description": "IT-Nachrichten und Hintergründe",
+          "url": "https://www.heise.de/rss/heise-atom.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=heise.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Golem.de",
+          "description": "IT-News für Profis",
+          "url": "https://rss.golem.de/rss.php?feed=RSS2.0",
+          "imageURL": "https://www.google.com/s2/favicons?domain=golem.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "t3n",
+          "description": "Digitales Business, Technologie und Zukunft",
+          "url": "https://t3n.de/rss.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=t3n.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "netzpolitik.org",
+          "description": "Digitale Freiheitsrechte und Netzpolitik",
+          "url": "https://netzpolitik.org/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=netzpolitik.org&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "ComputerBase",
+          "description": "Hardware, Software und Tests",
+          "url": "https://www.computerbase.de/rss/news.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=computerbase.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Caschys Blog",
+          "description": "Technik, Apps und Gadgets",
+          "url": "https://stadt-bremerhaven.de/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=stadt-bremerhaven.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "iFun",
+          "description": "iPhone, iPad und Apple-News",
+          "url": "https://www.ifun.de/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=ifun.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Mobiflip",
+          "description": "Smartphones, Apps und Technik",
+          "url": "https://www.mobiflip.de/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=mobiflip.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Macwelt",
+          "description": "Mac, iPhone und Apple",
+          "url": "https://www.macwelt.de/feed",
+          "imageURL": "https://www.google.com/s2/favicons?domain=macwelt.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "c't",
+          "description": "Magazin für Computertechnik",
+          "url": "https://www.heise.de/ct/rss/artikel-atom.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=heise.de&sz=128",
+          "type": "article"
+        }
+      ]
+    },
+    {
+      "id": "science",
+      "titleKey": "discover_category_science",
+      "icon": "atom",
+      "color": "green",
+      "feeds": [
+        {
+          "title": "Spektrum der Wissenschaft",
+          "description": "Wissenschaftsnachrichten",
+          "url": "https://www.spektrum.de/alias/rss/spektrum-de-rss-feed/996406",
+          "imageURL": "https://www.google.com/s2/favicons?domain=spektrum.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "scinexx",
+          "description": "Das Wissensmagazin",
+          "url": "https://www.scinexx.de/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=scinexx.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "wissenschaft.de",
+          "description": "Nachrichten aus der Forschung",
+          "url": "https://www.wissenschaft.de/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=wissenschaft.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "SPIEGEL Wissenschaft",
+          "description": "Wissenschaft im SPIEGEL",
+          "url": "https://www.spiegel.de/wissenschaft/index.rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=spiegel.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Riffreporter",
+          "description": "Wissenschaftsjournalismus",
+          "url": "https://riff.media/de/rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=riffreporter.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Quarks",
+          "description": "Wissenschaft vom WDR",
+          "url": "https://www.quarks.de/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=quarks.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "FAZ Wissen",
+          "description": "Wissen in der FAZ",
+          "url": "https://www.faz.net/rss/aktuell/wissen/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=faz.net&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "ScienceBlogs.de",
+          "description": "Wissenschaftsblogs",
+          "url": "https://scienceblogs.de/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=scienceblogs.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "GEO",
+          "description": "Natur, Wissen und Reportagen",
+          "url": "https://www.geo.de/feed/rss/geo/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=geo.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Deutschlandfunk Forschung aktuell",
+          "description": "Nachrichten aus der Wissenschaft",
+          "url": "https://www.deutschlandfunk.de/forschung-aktuell-100.rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=deutschlandfunk.de&sz=128",
+          "type": "article"
+        }
+      ]
+    },
+    {
+      "id": "news",
+      "titleKey": "discover_category_news",
+      "icon": "newspaper",
+      "color": "red",
+      "feeds": [
+        {
+          "title": "tagesschau",
+          "description": "Nachrichten der ARD",
+          "url": "https://www.tagesschau.de/index~rss2.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=tagesschau.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "DER SPIEGEL",
+          "description": "Schlagzeilen des SPIEGEL",
+          "url": "https://www.spiegel.de/schlagzeilen/index.rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=spiegel.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "ZEIT ONLINE",
+          "description": "Nachrichten der ZEIT",
+          "url": "https://newsfeed.zeit.de/index",
+          "imageURL": "https://www.google.com/s2/favicons?domain=zeit.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Süddeutsche Zeitung",
+          "description": "Top-Themen der SZ",
+          "url": "https://rss.sueddeutsche.de/rss/Topthemen",
+          "imageURL": "https://www.google.com/s2/favicons?domain=sueddeutsche.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "FAZ",
+          "description": "Aktuelle Nachrichten der FAZ",
+          "url": "https://www.faz.net/rss/aktuell/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=faz.net&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Deutsche Welle",
+          "description": "Nachrichten aus aller Welt",
+          "url": "https://rss.dw.com/xml/rss-de-all",
+          "imageURL": "https://www.google.com/s2/favicons?domain=dw.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "taz",
+          "description": "Die Tageszeitung",
+          "url": "https://taz.de/!p4608;rss/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=taz.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "WELT",
+          "description": "Aktuelle Nachrichten der WELT",
+          "url": "https://www.welt.de/feeds/latest.rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=welt.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "n-tv",
+          "description": "Nachrichten von n-tv",
+          "url": "https://www.n-tv.de/rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=n-tv.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "stern",
+          "description": "Nachrichten des stern",
+          "url": "https://www.stern.de/feed/standard/alle-nachrichten/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=stern.de&sz=128",
+          "type": "article"
+        }
+      ]
+    },
+    {
+      "id": "culture",
+      "titleKey": "discover_category_culture",
+      "icon": "theatermasks",
+      "color": "pink",
+      "feeds": [
+        {
+          "title": "Perlentaucher",
+          "description": "Das Kulturmagazin",
+          "url": "https://www.perlentaucher.de/index.rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=perlentaucher.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "SPIEGEL Kultur",
+          "description": "Kultur im SPIEGEL",
+          "url": "https://www.spiegel.de/kultur/index.rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=spiegel.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Musikexpress",
+          "description": "Musik, Pop und Kultur",
+          "url": "https://www.musikexpress.de/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=musikexpress.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Rolling Stone",
+          "description": "Musik und Popkultur",
+          "url": "https://www.rollingstone.de/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=rollingstone.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Monopol",
+          "description": "Magazin für Kunst und Leben",
+          "url": "https://www.monopol-magazin.de/rss.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=monopol-magazin.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "laut.de",
+          "description": "Musik-News und Rezensionen",
+          "url": "https://laut.de/_feeds/news/rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=laut.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "FAZ Feuilleton",
+          "description": "Feuilleton der FAZ",
+          "url": "https://www.faz.net/rss/aktuell/feuilleton/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=faz.net&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "SZ Kultur",
+          "description": "Kultur in der SZ",
+          "url": "https://rss.sueddeutsche.de/rss/Kultur",
+          "imageURL": "https://www.google.com/s2/favicons?domain=sueddeutsche.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "nachtkritik.de",
+          "description": "Theaterkritiken",
+          "url": "https://nachtkritik.de/?format=feed&type=rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=nachtkritik.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "literaturcafe.de",
+          "description": "Literatur, Bücher und Schreiben",
+          "url": "https://www.literaturcafe.de/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=literaturcafe.de&sz=128",
+          "type": "article"
+        }
+      ]
+    },
+    {
+      "id": "design",
+      "titleKey": "discover_category_design",
+      "icon": "paintpalette",
+      "color": "purple",
+      "feeds": [
+        {
+          "title": "PAGE online",
+          "description": "Design, Kreation und Kommunikation",
+          "url": "https://page-online.de/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=page-online.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Designtagebuch",
+          "description": "Corporate Design und Branding",
+          "url": "https://www.designtagebuch.de/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=designtagebuch.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Stylepark",
+          "description": "Architektur und Design",
+          "url": "https://www.stylepark.com/de/rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=stylepark.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Design made in Germany",
+          "description": "Deutsches Design",
+          "url": "https://www.designmadeingermany.de/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=designmadeingermany.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "SCHÖNER WOHNEN",
+          "description": "Wohnen und Einrichten",
+          "url": "https://www.schoener-wohnen.de/feed/all/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=schoener-wohnen.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Dr. Web",
+          "description": "Webdesign und Entwicklung",
+          "url": "https://www.drweb.de/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=drweb.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Typografie.info",
+          "description": "Typografie und Schrift",
+          "url": "https://www.typografie.info/3/rss/1-typografieinfo-feed.xml/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=typografie.info&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "AD Deutschland",
+          "description": "Architektur und Interior Design",
+          "url": "https://www.ad-magazin.de/feed/rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=ad-magazin.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Architektur Online",
+          "description": "Architektur und Bauen",
+          "url": "https://www.architektur-online.com/feed",
+          "imageURL": "https://www.google.com/s2/favicons?domain=architektur-online.com&sz=128",
+          "type": "article"
+        }
+      ]
+    },
+    {
+      "id": "business",
+      "titleKey": "discover_category_business",
+      "icon": "chart.line.uptrend.xyaxis",
+      "color": "orange",
+      "feeds": [
+        {
+          "title": "Handelsblatt",
+          "description": "Wirtschaft und Finanzen",
+          "url": "https://www.handelsblatt.com/contentexport/feed/top-themen",
+          "imageURL": "https://www.google.com/s2/favicons?domain=handelsblatt.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "manager magazin",
+          "description": "Wirtschaft und Management",
+          "url": "https://www.manager-magazin.de/news/index.rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=manager-magazin.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "WirtschaftsWoche",
+          "description": "Wirtschaftsnachrichten",
+          "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
+          "imageURL": "https://www.google.com/s2/favicons?domain=wiwo.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Gründerszene",
+          "description": "Startups und Digitalwirtschaft",
+          "url": "https://www.businessinsider.de/gruenderszene/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=businessinsider.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "SPIEGEL Wirtschaft",
+          "description": "Wirtschaft im SPIEGEL",
+          "url": "https://www.spiegel.de/wirtschaft/index.rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=spiegel.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "ZEIT Wirtschaft",
+          "description": "Wirtschaft in der ZEIT",
+          "url": "https://newsfeed.zeit.de/wirtschaft/index",
+          "imageURL": "https://www.google.com/s2/favicons?domain=zeit.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "FAZ Wirtschaft",
+          "description": "Wirtschaft in der FAZ",
+          "url": "https://www.faz.net/rss/aktuell/wirtschaft/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=faz.net&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Capital",
+          "description": "Wirtschaft und Geld",
+          "url": "https://www.capital.de/feed/standard/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=capital.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "deutsche-startups.de",
+          "description": "Startup-News",
+          "url": "https://www.deutsche-startups.de/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=deutsche-startups.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "tagesschau Wirtschaft",
+          "description": "Wirtschaft bei tagesschau.de",
+          "url": "https://www.tagesschau.de/wirtschaft/index~rss2.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=tagesschau.de&sz=128",
+          "type": "article"
+        }
+      ]
+    },
+    {
+      "id": "gaming",
+      "titleKey": "discover_category_gaming",
+      "icon": "gamecontroller",
+      "color": "indigo",
+      "feeds": [
+        {
+          "title": "GameStar",
+          "description": "PC-Spiele und Gaming",
+          "url": "https://www.gamestar.de/news/rss/news.rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=gamestar.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "PC Games",
+          "description": "PC-Spiele",
+          "url": "https://www.pcgames.de/feed.cfm?menu_alias=home/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=pcgames.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Eurogamer.de",
+          "description": "Spiele-News und Tests",
+          "url": "https://www.eurogamer.de/feed",
+          "imageURL": "https://www.google.com/s2/favicons?domain=eurogamer.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "IGN Deutschland",
+          "description": "Videospiele und Unterhaltung",
+          "url": "https://de.ign.com/feed.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=de.ign.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Xboxdynasty",
+          "description": "Xbox-News",
+          "url": "https://www.xboxdynasty.de/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=xboxdynasty.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Mein-MMO",
+          "description": "Online-Spiele und MMOs",
+          "url": "https://mein-mmo.de/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=mein-mmo.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Play3",
+          "description": "PlayStation-News",
+          "url": "https://www.play3.de/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=play3.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "GamesWirtschaft",
+          "description": "Games-Branche",
+          "url": "https://www.gameswirtschaft.de/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=gameswirtschaft.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Nintendo-Online",
+          "description": "Nintendo-Magazin",
+          "url": "https://www.nintendo-online.de/rss.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=nintendo-online.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "PlayStation Blog DE",
+          "description": "Offizieller PlayStation-Blog",
+          "url": "https://blog.de.playstation.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=blog.de.playstation.com&sz=128",
+          "type": "article"
+        }
+      ]
+    },
+    {
+      "id": "sports",
+      "titleKey": "discover_category_sports",
+      "icon": "trophy",
+      "color": "yellow",
+      "feeds": [
+        {
+          "title": "kicker",
+          "description": "Fußball und Sport",
+          "url": "https://newsfeed.kicker.de/news/aktuell",
+          "imageURL": "https://www.google.com/s2/favicons?domain=kicker.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "11 Freunde",
+          "description": "Magazin für Fußballkultur",
+          "url": "https://www.11freunde.de/aktuelles/index.rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=11freunde.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "SPIEGEL Sport",
+          "description": "Sport im SPIEGEL",
+          "url": "https://www.spiegel.de/sport/index.rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=spiegel.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "SZ Sport",
+          "description": "Sport in der SZ",
+          "url": "https://rss.sueddeutsche.de/rss/Sport",
+          "imageURL": "https://www.google.com/s2/favicons?domain=sueddeutsche.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "FAZ Sport",
+          "description": "Sport in der FAZ",
+          "url": "https://www.faz.net/rss/aktuell/sport/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=faz.net&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "ZEIT Sport",
+          "description": "Sport in der ZEIT",
+          "url": "https://newsfeed.zeit.de/sport/index",
+          "imageURL": "https://www.google.com/s2/favicons?domain=zeit.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Formel1.de",
+          "description": "Formel 1",
+          "url": "https://www.formel1.de/rss/news/feed.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=formel1.de&sz=128",
+          "type": "article"
+        }
+      ]
+    },
+    {
+      "id": "health",
+      "titleKey": "discover_category_health",
+      "icon": "stethoscope",
+      "color": "mint",
+      "feeds": [
+        {
+          "title": "Apotheken Umschau",
+          "description": "Gesundheit und Medizin",
+          "url": "https://www.apotheken-umschau.de/rss/topthemen.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=apotheken-umschau.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Deutsches Ärzteblatt",
+          "description": "Medizinische Nachrichten",
+          "url": "https://www.aerzteblatt.de/rss/news.asp",
+          "imageURL": "https://www.google.com/s2/favicons?domain=aerzteblatt.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "SPIEGEL Gesundheit",
+          "description": "Gesundheit im SPIEGEL",
+          "url": "https://www.spiegel.de/gesundheit/index.rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=spiegel.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "SZ Gesundheit",
+          "description": "Gesundheit in der SZ",
+          "url": "https://rss.sueddeutsche.de/rss/Gesundheit",
+          "imageURL": "https://www.google.com/s2/favicons?domain=sueddeutsche.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "stern Gesundheit",
+          "description": "Gesundheit im stern",
+          "url": "https://www.stern.de/feed/standard/gesundheit/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=stern.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "ZEIT Gesundheit",
+          "description": "Gesundheit in der ZEIT",
+          "url": "https://newsfeed.zeit.de/gesundheit/index",
+          "imageURL": "https://www.google.com/s2/favicons?domain=zeit.de&sz=128",
+          "type": "article"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "titleKey": "discover_category_ai",
+      "icon": "sparkles",
+      "color": "cyan",
+      "feeds": [
+        {
+          "title": "The Decoder",
+          "description": "Nachrichten zu künstlicher Intelligenz",
+          "url": "https://the-decoder.de/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=the-decoder.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "heise KI",
+          "description": "KI bei heise",
+          "url": "https://www.heise.de/thema/Kuenstliche-Intelligenz.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=heise.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "t3n KI",
+          "description": "KI bei t3n",
+          "url": "https://t3n.de/tag/kuenstliche-intelligenz/rss.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=t3n.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "AlgorithmWatch",
+          "description": "Algorithmen und Gesellschaft",
+          "url": "https://algorithmwatch.org/de/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=algorithmwatch.org&sz=128",
+          "type": "article"
+        }
+      ]
+    },
+    {
+      "id": "environment",
+      "titleKey": "discover_category_environment",
+      "icon": "leaf",
+      "color": "teal",
+      "feeds": [
+        {
+          "title": "Klimareporter",
+          "description": "Klima, Energie und Politik",
+          "url": "https://www.klimareporter.de/?format=feed&type=rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=klimareporter.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Utopia",
+          "description": "Nachhaltig leben",
+          "url": "https://utopia.de/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=utopia.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "pv magazine Deutschland",
+          "description": "Photovoltaik und Energiewende",
+          "url": "https://www.pv-magazine.de/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=pv-magazine.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Solarserver",
+          "description": "Solarenergie",
+          "url": "https://www.solarserver.de/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=solarserver.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "SPIEGEL Klima",
+          "description": "Klima und Natur im SPIEGEL",
+          "url": "https://www.spiegel.de/wissenschaft/natur/index.rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=spiegel.de&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "taz Öko",
+          "description": "Ökologie in der taz",
+          "url": "https://taz.de/Oeko/!p4610;rss/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=taz.de&sz=128",
+          "type": "article"
+        }
+      ]
+    }
+  ]
+}

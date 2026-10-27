@@ -1,0 +1,617 @@
+{
+  "categories": [
+    {
+      "id": "tech",
+      "titleKey": "discover_category_tech",
+      "icon": "cpu",
+      "color": "blue",
+      "feeds": [
+        {
+          "title": "c't 4004 – der c't-3003-Podcast",
+          "description": "c't-3003-Host Jan-Keno Janssen redet mit seinem Freund Christian Lutz-Weicken über Technik.",
+          "url": "https://ct-3003.podigee.io/feed/mp3",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d9/f2/8d/d9f28d18-d39d-ab5d-2337-87b4c8340dac/mza_8825696806129103149.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Bits und so",
+          "description": "Die wöchentliche Talkrunde rund um Apple, Mac, iPod + iPhone, Gadgets und so.",
+          "url": "https://www.bitsundso.de/feed/",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts62/v4/32/21/7c/32217c1f-e63d-8d25-d4c1-13647bb55f1e/mza_7055685683099081324.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Darknet Diaries Deutsch",
+          "description": "heise online erzählt wahre Geschichten von der dunklen Seite des Internets.",
+          "url": "https://darknet-diaries-deutsch.podigee.io/feed/mp3",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/48/2b/97/482b974a-ad56-1074-8918-928e69eb20b8/mza_877667823158441640.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Tech, KI & Schmetterlinge",
+          "description": "Der Tech- und KI-Podcast von Sascha Lobo in Zusammenarbeit mit Schwarz Digits.",
+          "url": "https://tech-ki.podigee.io/feed/mp3",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/73/59/bf/7359bf6c-412d-5bd4-256d-5c13c0f33c33/mza_5884610664343757302.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "KREWKAST",
+          "description": "Podcast by Felix Bahlinger, Julian Völzke",
+          "url": "https://cdn.julephosting.de/podcasts/544-krewkast/feed.rss",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/86/9f/e3/869fe383-75a2-08dc-10cb-d4ac8290b4f9/mza_383832027263275797.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "c’t uplink - der IT-Podcast aus Nerdistan",
+          "description": "Mitglieder der c't-Redaktion diskutieren über die aktuellen Themen aus dem c’t Magazin und was…",
+          "url": "https://ct-uplink.podigee.io/feed/mp3",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/e7/bd/be/e7bdbe9f-277c-a037-767a-a011f1f7834a/mza_13258806842920819115.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Apfelfunk",
+          "description": "Apfelfunk ist ein wöchentlicher Podcast über Apple-Themen.",
+          "url": "https://feeds.soundcloud.com/users/soundcloud:users:201768667/sounds.rss",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts114/v4/6b/f1/7c/6bf17c7b-bdeb-f93b-b88d-1606a182726c/mza_7758731218418145213.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "They Talk Tech – mit Eckert und Wolfangel",
+          "description": "Der neue Technologie-Podcast mit Svea Eckert und Eva Wolfangel.",
+          "url": "https://frauen-technik.podigee.io/feed/mp3",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ef/c3/30/efc330bd-0070-f9a7-cbf9-1e2a35f6ef29/mza_8855196205067606750.jpg/256x256bb.jpg",
+          "type": "podcast"
+        }
+      ]
+    },
+    {
+      "id": "science",
+      "titleKey": "discover_category_science",
+      "icon": "atom",
+      "color": "green",
+      "feeds": [
+        {
+          "title": "Das Wissen | SWR",
+          "description": "Wichtige Zusammenhänge, überraschende Hintergründe, gründliche Recherchen.",
+          "url": "https://www.swr.de/~podcast/swrkultur/programm/podcast-swr-das-wissen-102.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5e/79/0d/5e790d5c-6968-2620-1299-0285f052800a/mza_15895010674887674056.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Aha! Zehn Minuten Alltags-Wissen",
+          "description": "Kann Wasser schlecht werden?",
+          "url": "https://zehnminutenalltagswissen.podigee.io/feed/mp3",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/68/a2/2a/68a22a01-be59-6685-2853-b10d6e103e43/mza_9458542464565831962.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Der KI-Podcast",
+          "description": "\"Der KI-Podcast\" der ARD ist der Podcast für Einsteiger und Profis, die verstehen wollen, wie KI…",
+          "url": "https://feeds.br.de/der-ki-podcast/feed.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c8/46/6d/c8466dc3-efc5-0852-de44-c3077d2eb17a/mza_12796844955860036292.jpeg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Quarks Daily",
+          "description": "Deine Themen wissenschaftlich geprüft: Es gibt so viele Fragen, die auf eine Antwort warten, und so…",
+          "url": "https://www1.wdr.de/mediathek/audio/daily-quarks/daily-quarks-podcast-104.podcast",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/80/df/0a/80df0a51-a03c-4d88-be79-5218e7b96513/mza_2279849573389052619.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "IQ - Wissenschaft und Forschung",
+          "description": "Wissenschaft und Technik geht uns alle an.",
+          "url": "https://feeds.br.de/iq-wissenschaft-und-forschung/feed.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/e1/f1/02/e1f1026c-73ab-fce8-7d88-caf94e30ba80/mza_16406768264366407060.jpeg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "KI verstehen",
+          "description": "Künstliche Intelligenz revolutioniert unseren Alltag.",
+          "url": "https://www.deutschlandfunk.de/ki-verstehen-102.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f8/f6/66/f8f666c9-c579-ad1d-5ef9-dfebd891afd9/mza_9599126053077777239.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "NEU DENKEN",
+          "description": "NEU DENKEN ist ein Video- und Audiopodcast, der unseren gesellschaftlichen Diskurs neu aufrollt…",
+          "url": "https://neu-denken-podcast.podigee.io/feed/mp3",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c7/2f/44/c72f4484-6332-aac6-8003-863d9aab0781/mza_8545451067097219987.png/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Kettenreaktion – Der Wissenschafts-Podcast von Dirk und Sabine Steffens",
+          "description": "Wie schützen kackende Blauwale unser Klima?",
+          "url": "https://kettenreaktion.podigee.io/feed/mp3",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/18/8f/e6/188fe66b-a5eb-b5ad-4395-f954cf0392cd/mza_2128156457926867884.jpg/256x256bb.jpg",
+          "type": "podcast"
+        }
+      ]
+    },
+    {
+      "id": "news",
+      "titleKey": "discover_category_news",
+      "icon": "newspaper",
+      "color": "red",
+      "feeds": [
+        {
+          "title": "RONZHEIMER.",
+          "description": "Der 2025 mit einem Bambi ausgezeichnete Podcast von Journalist und Kriegsreporter Paul Ronzheimer…",
+          "url": "https://ronzheimer.podigee.io/feed/mp3",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/16/ab/81/16ab81cb-e31f-5ea0-81a7-902a96dfd750/mza_17924075471806194431.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Lanz + Precht",
+          "description": "In dem ZDF-Podcast sprechen Markus Lanz (Journalist, Talkshow-Moderator) und Richard David Precht…",
+          "url": "https://cdn.julephosting.de/podcasts/1355-lanz-precht/feed.rss",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/77/6b/e0/776be00d-6661-737d-a7dd-f5662c5fa110/mza_18360247097984895676.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "0630 - der News-Podcast",
+          "description": "Der Nachrichtenpodcast von 1LIVE und funk.",
+          "url": "https://www1.wdr.de/mediathek/audio/wdr/0630bywdraktuell/0630bywdraktuell-100.podcast",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/88/12/08/88120877-c28c-f80e-d6bb-dd4b7ab09e89/mza_3270076329516020131.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Machtwechsel",
+          "description": "Dagmar Rosenfeld und Robin Alexander sortieren im täglichen Lärm der Nachrichten, was wirklich…",
+          "url": "https://machtwechsel.podigee.io/feed/mp3",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0e/96/5a/0e965afc-cd4c-1394-d3be-17895a8be2cf/mza_3328428716888725480.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "11KM Stories",
+          "description": "Jeffrey Epstein war der vielleicht größte Sexualstraftäter aller Zeiten.",
+          "url": "https://www.ndr.de/nachrichten/info/podcast4684.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fb/1d/98/fb1d98c5-b3ac-a7f3-1ad6-56b6892e3646/mza_14973357692492876001.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "The Pioneer Morning Briefing - Nachrichten aus Politik und Wirtschaft",
+          "description": "Gabor Steingart, Alev Doğan, Chelsea Spieker und Karina Mößbauer präsentieren einen der…",
+          "url": "https://dasmorningbriefing.podigee.io/feed/mp3",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b9/46/89/b946897a-544b-4e9a-10a4-a06476112912/mza_10637618897557523963.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "11KM: der tagesschau-Podcast",
+          "description": "Geschichten zum Weitererzählen und Recherchen, die bewegen.",
+          "url": "https://www.tagesschau.de/multimedia/podcasts/11km/index~podcast.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/da/cd/3c/dacd3c03-20e7-e0a2-db59-c80bb013fce6/mza_13975641150493506875.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "15 Minuten. Der tagesschau-Podcast am Morgen",
+          "description": "Infos für den Tag.",
+          "url": "https://www.tagesschau.de/multimedia/podcast/15-minuten/index~podcast.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7f/dc/ce/7fdcce74-47d8-5ff8-38df-44c4b0e2f51c/mza_8322428780415729606.jpg/256x256bb.jpg",
+          "type": "podcast"
+        }
+      ]
+    },
+    {
+      "id": "culture",
+      "titleKey": "discover_category_culture",
+      "icon": "theatermasks",
+      "color": "pink",
+      "feeds": [
+        {
+          "title": "Hotel Matze",
+          "description": "Das ist kein richtiges Hotel, sondern ein Interview-Podcast von Matze Hielscher.",
+          "url": "https://hotelmatze.podigee.io/feed/mp3",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/8d/a1/17/8da117bb-470e-8964-48fb-25c145dd290d/mza_7149095789878383485.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Zwei Seiten - Der Podcast über Bücher | WDR",
+          "description": "Zwischen Christine Westermann und Mona Ameziane liegen zwei Generationen und unzählige Bücher in…",
+          "url": "https://www1.wdr.de/mediathek/audio/wdr/zwei-seiten/zwei-seiten-100.podcast",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/14/cc/7d/14cc7d94-591c-72cf-d6a0-6738eea20e88/mza_17613409708523705228.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Was bisher geschah - Geschichtspodcast",
+          "description": "Wenn wir wissen, was bisher geschah, nehmen wir intensiver wahr, was heute passiert und verstehen…",
+          "url": "https://feeds.acast.com/public/shows/68935df5eef665d629ba5e4c",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5e/41/27/5e4127a2-16d2-e5ed-d102-0ebee36a677b/mza_10394024390826351097.jpeg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Tech Bro Topia",
+          "description": "Von Alltags-KI über die \"Superintelligenz\" bis zur möglichen Auslöschung der Menschheit: Welches…",
+          "url": "https://www.deutschlandfunk.de/tech-bro-topia-104.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/70/d0/b7/70d0b778-dcb5-31c6-c2ac-0f661d5ff51f/mza_14481969390861379808.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "maybrit illner (AUDIO)",
+          "description": "Der Polit-Talk im ZDF mit Moderatorin Maybrit Illner",
+          "url": "https://www.zdf.de/rss/podcast/audio/zdf/politik/maybrit-illner",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/74/81/19/748119f1-1c50-76eb-4aff-7c307d8c00ca/mza_5018701736654350433.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Geschichten aus der Geschichte",
+          "description": "Seit über zehn Jahren erzählen sich die Historiker Daniel Meßner und Richard Hemmer Woche für Woche…",
+          "url": "https://geschichten-aus-der-geschichte.podigee.io/feed/mp3",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/85/1a/a0/851aa005-ab82-58db-77ee-e72334245c6a/mza_16313729734616176279.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Dein Ernst",
+          "description": "Benjamin von Stuckrad-Barre spricht hier einmal pro Woche mit Persönlichkeiten aus Kultur…",
+          "url": "https://dein-ernst.podigee.io/feed/mp3",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/63/d2/f1/63d2f1a0-9a52-6459-8ca3-cb3d72443322/mza_17797326409969932657.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "eat.READ.sleep. Der Podcast, der das Lesen feiert.",
+          "description": "Bücher-Talk mit Daniel Kaiser und Katharina Mahrenholtz Wir lieben Bücher - manche mehr und manche…",
+          "url": "https://www.ndr.de/podcast4732.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/23/88/6b/23886b76-5977-46ba-8c4d-36c39491378e/mza_11125337552719849217.jpg/256x256bb.jpg",
+          "type": "podcast"
+        }
+      ]
+    },
+    {
+      "id": "design",
+      "titleKey": "discover_category_design",
+      "icon": "paintpalette",
+      "color": "purple",
+      "feeds": [
+        {
+          "title": "Vom Portfolio zur Marke | Business-Strategien für Kreative",
+          "description": "Das ist der Podcast »Vom Portfolio zur Marke | Business-Strategien für Kreative«, der bis zum 12.",
+          "url": "https://portfolio-podcast.podigee.io/feed/mp3",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0d/d6/b9/0dd6b9d0-a744-5360-502f-91fe3c634ea9/mza_18370665398284966400.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "DDCAST - Was ist gut? Design, Kommunikation, Architektur",
+          "description": "‘What we design designs us back’ sagte einmal Jason Silva ein bekannter Techno Futurist aus den USA.",
+          "url": "https://ddcast.podigee.io/feed/mp3",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/63/a8/51/63a851f2-7402-0c18-dbb5-adc1f4593b2c/mza_14895553328194513939.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Hurra Hurra – ein Designpodcast der BURG",
+          "description": "Hurra Hurra!",
+          "url": "https://hurrahurra.podigee.io/feed/mp3",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/e1/8a/ac/e18aac26-25ea-ef6f-2a01-2aff51250563/mza_9056453288898273748.png/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Unfolding Space - Unboxing Lives mit Feng Shui",
+          "description": "Willkommen bei Unfolding Space - Unboxing Lives!",
+          "url": "https://feeds.zencastr.com/f/CBgSzOpf.rss",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/9d/b5/be/9db5be5d-13e0-32c4-a5ff-527ec7f6288d/mza_11285596206507967458.png/256x256bb.jpg",
+          "type": "podcast"
+        }
+      ]
+    },
+    {
+      "id": "business",
+      "titleKey": "discover_category_business",
+      "icon": "chart.line.uptrend.xyaxis",
+      "color": "orange",
+      "feeds": [
+        {
+          "title": "Handelsblatt Morning Briefing - News aus Wirtschaft, Politik und Finanzen",
+          "description": "Mit unserem Podcast Handelsblatt Morning Briefing starten Sie optimal in den Tag.",
+          "url": "https://handelsblatt-morningbriefing.podigee.io/feed/mp3",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/bb/bb/15/bbbb1508-1586-2eab-a6df-2e1087b2645b/mza_16582388684453278601.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "OMR Podcast",
+          "description": "OMR-Gründer Philipp Westermeyer trifft regelmäßig die spannendsten Menschen aus Wirtschaft…",
+          "url": "https://omr.podigee.io/feed/mp3",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e1/05/26/e1052677-7242-8dee-615d-47e244e4975c/mza_612793993452847160.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "IMPERIUM",
+          "description": "Jeden Dienstag erzählt Marc Ben Puch in dieser Podcastserie, wie aus Ideen Imperien der Wirtschaft…",
+          "url": "https://imperium.podigee.io/feed/mp3",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/75/38/9c/75389c54-a972-66ff-a212-ac605ac0e2fa/mza_4994067263860752961.png/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Make Economy Great Again",
+          "description": "Deutschland schmiert ab.",
+          "url": "https://make-economy-great.podigee.io/feed/mp3",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/82/db/f9/82dbf906-d128-c8ab-6c6b-aeedb5d0a7d2/mza_9509475948024793775.png/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "bto – der Ökonomie-Podcast von Dr. Daniel Stelter",
+          "description": "bto – beyond the obvious – der Ökonomie-Podcast von Dr.",
+          "url": "https://feeds.acast.com/public/shows/649948e4db3d690011987638",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/51/2f/d5/512fd5e4-c06d-822d-bf04-91acc009a0d7/mza_10381773680082294908.jpeg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Schwarz Rot Geld – Wer sind Deutschlands Superreiche?",
+          "description": "Über Elon Musk, Jeff Bezos oder Mark Zuckerberg wissen wir erstaunlich viel.",
+          "url": "https://www.swr.de/~podcast/audio/podcast-a-z/schwarz-rot-geld/schwarz-rot-geld-podcast-100.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fb/3c/65/fb3c65fc-5633-0db4-aaec-bedd6b5030a1/mza_15495314449600162882.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Haben Sie kurz Zeit?",
+          "description": "Wer sind die Menschen hinter den großen Entscheidungen?",
+          "url": "https://feeds.simplecast.com/o_IClBHx",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b8/9c/78/b89c7846-69cc-1e16-452a-d9cdf2aec1e1/mza_3397451964559476897.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "TOMorrow - Business. Stars. Lifestyle.",
+          "description": "TOMorrow ist das Instagram der Podcasts.",
+          "url": "https://tomorrow.podigee.io/feed/mp3",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/98/48/5e/98485eb8-fa01-1564-ccbe-f16f8aa49bc0/mza_8969036097904346097.jpg/256x256bb.jpg",
+          "type": "podcast"
+        }
+      ]
+    },
+    {
+      "id": "gaming",
+      "titleKey": "discover_category_gaming",
+      "icon": "gamecontroller",
+      "color": "indigo",
+      "feeds": [
+        {
+          "title": "Stay Forever - Retrogames & Technik",
+          "description": "Ein Podcast über die aufregenden Games und Games-Technologien der 80er, 90er und frühen 2000er…",
+          "url": "https://podcastd45a61.podigee.io/feed/mp3",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/52/d3/4c/52d34c0b-8df1-4309-a33b-9e01861abdc3/mza_929648341272977536.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Das Dilettantische Duett — Wöchentliche News, nach bestem Unwissen erzählt",
+          "description": "Vor 10 Jahren lernten sich Mikkel und Andi bei PietSmiet kennen und noch immer haben sie sich viel…",
+          "url": "https://feeds.acast.com/public/shows/67cee73cd64d9d8e86db6b62",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/87/98/74/87987479-eddd-0e53-8fd7-31a7ff2683c7/mza_2077989770006909469.jpeg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Nerdwelten Podcast",
+          "description": "Tauche mit Hardy Heßdörfer, Daniel Cloutier und Dennis Deuster in die faszinierende Welt der…",
+          "url": "https://feeds.acast.com/public/shows/68aee5c51ec4fc75764d257f",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d6/51/f0/d651f029-5dca-6734-fae5-5157b6a45873/mza_5446790837165864343.jpeg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Hooked FM",
+          "description": "Der wöchentliche Podcast von Hooked!",
+          "url": "https://www.hookedmagazin.de/feed/hookedfm/",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/bf/03/49/bf03499e-1401-bc11-2a79-9873e62b35f7/mza_16953829542318733168.png/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "OK COOL",
+          "description": "OK COOL ist das unabhängige Magazin über Menschen, Spiele und ihre Geschichten.",
+          "url": "https://okcool.podigee.io/feed/mp3",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/6d/b4/8b/6db48bd9-2b70-a0de-5404-cdcd35da98a7/mza_4326399869289021424.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Lorewalker",
+          "description": "„Lorewalker – Der WoW Lore Podcast“ Tauche ein in die faszinierende Welt von Azeroth!",
+          "url": "https://lorewalker.podigee.io/feed/mp3",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5c/9e/57/5c9e5729-a436-e835-ceba-9a6c0afa2839/mza_7263012672622166339.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Spieleveteranen",
+          "description": "Ein Podcast über alte und neue Spiele",
+          "url": "https://www.spieleveteranen.de/feed/podcast",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/3d/6c/1e/3d6c1e1d-fbdf-608c-cae5-a418d91708de/mza_2309421170358174803.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "PC Games Podcast",
+          "description": "Der PC Games Podcast - der offizielle Videospielpodcast der PC Games - erscheint seit über einem…",
+          "url": "https://podcast.audiocon.de/rss/e3b46afb420723b1696effa0ad7c85c8f59ca495",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/d0/41/5b/d0415be2-f8d2-4ac1-22e5-6ac56309c15e/mza_4683751811869608955.jpg/256x256bb.jpg",
+          "type": "podcast"
+        }
+      ]
+    },
+    {
+      "id": "sports",
+      "titleKey": "discover_category_sports",
+      "icon": "trophy",
+      "color": "yellow",
+      "feeds": [
+        {
+          "title": "Copa TS",
+          "description": "Tommi Schmitts große Leidenschaft ist der Fußball.",
+          "url": "https://copa-ts-podcast.podigee.io/feed/mp3",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/c9/9a/99/c99a99ad-2535-5b54-fadc-2af3d35725a8/mza_17655381741890168440.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Stammplatz – Fußball News täglich",
+          "description": "Der tägliche Fußball-Podcast mit André Albers, Noah Friedmann und Niklas Heising!",
+          "url": "https://stammplatz.podigee.io/feed/mp3",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/65/a3/44/65a3444d-bf89-55c1-5ee6-fdea850af28b/mza_1674841741832937864.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Reif ist live – Fußball Talk von BILD",
+          "description": "EM 2024-Spezial: „Jetzt kommt Scholl“ mit Mehmet Scholl!",
+          "url": "https://reifistlive.podigee.io/feed/mp3",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts114/v4/e6/a7/1e/e6a71e4d-1ec2-c2ca-f45e-6818db4dad06/mza_5271494502275806016.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Down Set Talk! - Der NFL Podcast von RTL",
+          "description": "News, Analysen und mehr!",
+          "url": "https://cdn.audiorella.com/podcasts/1751-down-set-talk-der-nfl-podcast-von-rtl/feed.rss",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b8/0b/e7/b80be708-72a0-6d19-472b-596defb62a13/mza_12568157574222275722.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "FUSSBALL MML Daily",
+          "description": "Eure tägliche Dosis MML.",
+          "url": "https://feeds.acast.com/public/shows/6793946208d81ee9acbad8d3",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c9/07/2b/c9072b0d-142c-6b01-cf02-a72b773d1d0d/mza_8387667295630386309.jpeg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "kicker Daily - Dein täglicher Fußball-Wecker",
+          "description": "kicker Daily ist euer täglicher Fußball-Kompass.",
+          "url": "https://kickerdaily.podigee.io/feed/mp3",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2d/f4/62/2df462ae-bd72-0c42-8ba4-93acd93ffa84/mza_6838319101711848274.png/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Der SPORT1 DOPPELPASS",
+          "description": "Für alle, die den „SPORT1 DOPPELPASS“ verpasst haben: Hier gibt es die kompletten Folgen des…",
+          "url": "https://cdn.audiorella.com/podcasts/1799-der-sport1-doppelpass/feed.rss",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a2/4a/fe/a24afed2-7a66-38e5-0b69-77b54d2db90a/mza_9537526212584984809.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Behind The Athletes",
+          "description": "Der Erfolg im Sport ist die Spitze des Eisbergs.",
+          "url": "https://www.bta-pod.com/feed/mp3",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/56/51/60/5651600d-c413-5266-55e6-3deaaa7c0432/mza_13870309180038640339.png/256x256bb.jpg",
+          "type": "podcast"
+        }
+      ]
+    },
+    {
+      "id": "health",
+      "titleKey": "discover_category_health",
+      "icon": "stethoscope",
+      "color": "mint",
+      "feeds": [
+        {
+          "title": "Psychologie to go!",
+          "description": "Woran erkenne ich einen Narzissten?",
+          "url": "https://psychologie-to-go.podigee.io/feed/mp3",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e1/29/c7/e129c7aa-6c5f-5671-efd5-e64ef5ac4ed2/mza_16301182029685412482.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Modern Medicine mit Alessandro Falcone",
+          "description": "Wie bleiben wir möglichst lange gesund und leistungsfähig?",
+          "url": "https://media.rss.com/modern-medicine-podcast/feed.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/4a/ad/3c/4aad3c6d-63b2-b09f-5d8e-28c8a614f994/mza_8855622723518211867.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Smarter leben",
+          "description": "Der Ideen-Podcast des SPIEGEL mit Lenne Kaffka.",
+          "url": "https://www.omnycontent.com/d/playlist/5ac1e950-45c7-4eb7-87c0-aa0f018441b8/895a9f0b-6d87-4d20-aaba-abc000ffb087/913ea7fc-e0c6-4ba8-8360-abc000ffb08c/podcast.rss",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ba/cb/e5/bacbe51b-d62c-a287-5f7d-f8d38e3e60c7/mza_6980130824680851460.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "So bin ich eben! Stefanie Stahls Psychologie-Podcast für alle \"Normalgestörten\"",
+          "description": "Woran erkennt man eine toxische Beziehung?",
+          "url": "https://feeds.acast.com/public/shows/695b7e82511175cf3ed1d504",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ad/a5/2c/ada52c0b-15b2-2e70-1e49-024d377a39ae/mza_9527976792751484553.jpeg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Die Ernährungs-Docs - Essen als Medizin",
+          "description": "Mit Ernährung Krankheiten in den Griff bekommen oder sogar heilen.",
+          "url": "https://www.ndr.de/fernsehen/sendungen/die-ernaehrungsdocs/audio-podcast/podcast5666.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8b/ac/d1/8bacd1d2-233c-c985-c2d0-0af622a8c68b/mza_16644476153890385246.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Frauenstimmen",
+          "description": "Es wird Zeit.",
+          "url": "https://feeds.acast.com/public/shows/64abe409cf27900011079609",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3f/60/ef/3f60eff7-1726-6417-34bd-ef3557cba2eb/mza_2903797814445866750.jpeg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Wie geht's? mit Robin Gosens",
+          "description": "„Wie geht’s?“ – eine simple Frage, viele Antworten.",
+          "url": "https://www.ndr.de/podcast/podcast-344.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/0e/88/a50e8846-fa9a-ea48-1b47-a99f9e7519c0/mza_9992125261805390283.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Stahl aber herzlich – Der Psychotherapie-Podcast mit Stefanie Stahl",
+          "description": "Der Podcast direkt von der Therapie-Couch.",
+          "url": "https://cdn.audiorella.com/podcasts/1748-stahl-aber-herzlich-der-psychotherapie-podcast-mit-stefanie-stahl/feed.rss",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bb/4b/c8/bb4bc851-5a61-d4f1-f984-a1c547ada417/mza_2323138645097383529.jpg/256x256bb.jpg",
+          "type": "podcast"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "titleKey": "discover_category_ai",
+      "icon": "sparkles",
+      "color": "cyan",
+      "feeds": [
+        {
+          "title": "F.A.Z. Künstliche Intelligenz",
+          "description": "Einmal im Monat sprechen Peter Buxmann und Holger Schmidt mit Gästen über Einsatzfelder der…",
+          "url": "https://kuenstlicheintelligenz.podigee.io/feed/mp3",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/69/b5/30/69b53074-fdfa-310b-ad86-92d3200bee7f/mza_3137522662091385225.png/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Der künstliche Intelligenz Podcast",
+          "description": "Wie verändert Künstliche Intelligenz unser Leben – heute und morgen?",
+          "url": "https://letscast.fm/podcasts/der-kuenstliche-intelligenz-podcast-c5b8a00c/feed",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/38/da/8c/38da8c71-a103-555d-938c-65bd0ac7ec16/mza_3845500129474675318.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "KI für müde Mäuse – Künstliche Intelligenz im Alltag, einfach erklärt",
+          "description": "Alle reden über Künstliche Intelligenz.",
+          "url": "https://ki-fuer-muede-maeuse.podigee.io/feed/mp3",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/49/ed/07/49ed073b-8ea0-ebea-ca20-b75035bff67c/mza_7306970341543787050.jpg/256x256bb.jpg",
+          "type": "podcast"
+        }
+      ]
+    },
+    {
+      "id": "environment",
+      "titleKey": "discover_category_environment",
+      "icon": "leaf",
+      "color": "teal",
+      "feeds": [
+        {
+          "title": "Das Klima",
+          "description": "Die Klimakrise ist umfassend und global.",
+          "url": "https://dasklima.podigee.io/feed/mp3",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/6f/6e/f8/6f6ef87d-f952-4849-16ff-be94b2aedac8/mza_2743855255436209964.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Warm, wärmer, am wärmsten - Klimawandelanpassung in der Praxis",
+          "description": "Im Podcast \"warm, wärmer, am wärmsten\" der Klimaregion Graz-Umgebung Nord werden Praxisbeispiele im…",
+          "url": "https://warm-waermer-podcast.podigee.io/feed/mp3",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/22/f9/2d/22f92d74-8104-cfb2-c60e-fe1d562ed162/mza_6916947061122111801.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Landwirtschaft.Klima.Wandel.",
+          "description": "Die Landwirtschaft ist stark vom Klimawandel betroffen.",
+          "url": "https://landwirtschaft-klima-wandel.podigee.io/feed/mp3",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/37/c3/1c/37c31c65-a889-6f65-c692-a58b0c4ec2db/mza_1115015956764288342.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "GradWandel - Podcast aus dem Klimahaus Bremerhaven",
+          "description": "GradWandel ist der Podcast aus dem Klimahaus Bremerhaven, der weltweit einzigen Wissens - und…",
+          "url": "https://klimahaus.podigee.io/feed/mp3",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/8e/c3/31/8ec33145-0a10-bc20-ee1f-11515a0aaacc/mza_3734608164989780618.jpg/256x256bb.jpg",
+          "type": "podcast"
+        }
+      ]
+    }
+  ]
+}

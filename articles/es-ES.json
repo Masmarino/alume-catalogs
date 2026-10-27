@@ -1,0 +1,764 @@
+{
+  "categories": [
+    {
+      "id": "tech",
+      "titleKey": "discover_category_tech",
+      "icon": "cpu",
+      "color": "blue",
+      "feeds": [
+        {
+          "title": "Xataka",
+          "description": "Tecnología, ciencia y cultura digital",
+          "url": "https://www.xataka.com/feedburner.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=xataka.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Genbeta",
+          "description": "Software, apps e internet",
+          "url": "https://www.genbeta.com/feedburner.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=genbeta.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Applesfera",
+          "description": "Todo sobre Apple en español",
+          "url": "https://www.applesfera.com/feedburner.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=applesfera.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Xataka Móvil",
+          "description": "Telefonía móvil, operadores y tarifas",
+          "url": "https://www.xatakamovil.com/feedburner.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=xatakamovil.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Hipertextual",
+          "description": "Tecnología, ciencia y cultura",
+          "url": "https://hipertextual.com/feed",
+          "imageURL": "https://www.google.com/s2/favicons?domain=hipertextual.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "MuyComputer",
+          "description": "Hardware, software y tecnología de consumo",
+          "url": "https://www.muycomputer.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=muycomputer.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Microsiervos",
+          "description": "Tecnología, ciencia, internet y curiosidades",
+          "url": "https://www.microsiervos.com/index.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=microsiervos.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "ADSLZone",
+          "description": "Internet, fibra, móviles y tecnología",
+          "url": "https://www.adslzone.net/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=adslzone.net&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "El Chapuzas Informático",
+          "description": "Hardware, componentes y gaming de PC",
+          "url": "https://elchapuzasinformatico.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=elchapuzasinformatico.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Wwwhat's new",
+          "description": "Novedades de internet y tecnología",
+          "url": "https://wwwhatsnew.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=wwwhatsnew.com&sz=128",
+          "type": "article"
+        }
+      ]
+    },
+    {
+      "id": "science",
+      "titleKey": "discover_category_science",
+      "icon": "atom",
+      "color": "green",
+      "feeds": [
+        {
+          "title": "El País Ciencia",
+          "description": "La ciencia en El País",
+          "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/ciencia/portada",
+          "imageURL": "https://www.google.com/s2/favicons?domain=elpais.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Cuaderno de Cultura Científica",
+          "description": "Ciencia y cultura por la UPV/EHU",
+          "url": "https://culturacientifica.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=culturacientifica.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "The Conversation España",
+          "description": "Análisis de investigadores y académicos",
+          "url": "https://theconversation.com/es/articles.atom",
+          "imageURL": "https://www.google.com/s2/favicons?domain=theconversation.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Muy Interesante",
+          "description": "Ciencia, historia y curiosidades",
+          "url": "https://muyinteresante.okdiario.com/feed",
+          "imageURL": "https://www.google.com/s2/favicons?domain=muyinteresante.okdiario.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "National Geographic España",
+          "description": "Naturaleza, ciencia e historia",
+          "url": "https://www.nationalgeographic.com.es/feeds/rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=nationalgeographic.com.es&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "ABC Ciencia",
+          "description": "La ciencia en ABC",
+          "url": "https://www.abc.es/rss/2.0/ciencia/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=abc.es&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Ciencia La Vanguardia",
+          "description": "La ciencia en La Vanguardia",
+          "url": "https://www.lavanguardia.com/rss/ciencia.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=lavanguardia.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Astrobitácora",
+          "description": "Astronomía y espacio",
+          "url": "https://www.astrobitacora.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=astrobitacora.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "El Mundo Ciencia",
+          "description": "La ciencia en El Mundo",
+          "url": "https://e00-elmundo.uecdn.es/elmundo/rss/ciencia.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=elmundo.es&sz=128",
+          "type": "article"
+        }
+      ]
+    },
+    {
+      "id": "news",
+      "titleKey": "discover_category_news",
+      "icon": "newspaper",
+      "color": "red",
+      "feeds": [
+        {
+          "title": "El País",
+          "description": "Portada de El País",
+          "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
+          "imageURL": "https://www.google.com/s2/favicons?domain=elpais.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "El Mundo",
+          "description": "Portada de El Mundo",
+          "url": "https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=elmundo.es&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "ABC",
+          "description": "Portada de ABC",
+          "url": "https://www.abc.es/rss/2.0/portada/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=abc.es&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "La Vanguardia",
+          "description": "Portada de La Vanguardia",
+          "url": "https://www.lavanguardia.com/rss/home.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=lavanguardia.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "20minutos",
+          "description": "Últimas noticias de 20minutos",
+          "url": "https://www.20minutos.es/rss/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=20minutos.es&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "elDiario.es",
+          "description": "Periodismo a pesar de todo",
+          "url": "https://www.eldiario.es/rss/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=eldiario.es&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "El Confidencial",
+          "description": "Actualidad de España",
+          "url": "https://rss.elconfidencial.com/espana/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=elconfidencial.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "BBC Mundo",
+          "description": "Noticias internacionales en español",
+          "url": "https://feeds.bbci.co.uk/mundo/rss.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Europa Press",
+          "description": "Agencia de noticias",
+          "url": "https://www.europapress.es/rss/rss.aspx",
+          "imageURL": "https://www.google.com/s2/favicons?domain=europapress.es&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "El Español",
+          "description": "Portada de El Español",
+          "url": "https://www.elespanol.com/rss/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=elespanol.com&sz=128",
+          "type": "article"
+        }
+      ]
+    },
+    {
+      "id": "culture",
+      "titleKey": "discover_category_culture",
+      "icon": "theatermasks",
+      "color": "pink",
+      "feeds": [
+        {
+          "title": "Jot Down",
+          "description": "Cultura contemporánea y entrevistas",
+          "url": "https://www.jotdown.es/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=jotdown.es&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Fotogramas",
+          "description": "Cine y series",
+          "url": "https://www.fotogramas.es/rss/all.xml/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=fotogramas.es&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Espinof",
+          "description": "Cine, series y televisión",
+          "url": "https://www.espinof.com/feedburner.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=espinof.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Babelia",
+          "description": "Suplemento cultural de El País",
+          "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/babelia/portada",
+          "imageURL": "https://www.google.com/s2/favicons?domain=elpais.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "El País Cultura",
+          "description": "La cultura en El País",
+          "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/cultura/portada",
+          "imageURL": "https://www.google.com/s2/favicons?domain=elpais.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Zenda",
+          "description": "Libros y literatura",
+          "url": "https://www.zendalibros.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=zendalibros.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "MondoSonoro",
+          "description": "Música independiente y conciertos",
+          "url": "https://www.mondosonoro.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=mondosonoro.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Jenesaispop",
+          "description": "Música pop y cultura",
+          "url": "https://jenesaispop.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=jenesaispop.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Rockdelux",
+          "description": "Música, cine y cultura",
+          "url": "https://www.rockdelux.com/es/feed",
+          "imageURL": "https://www.google.com/s2/favicons?domain=rockdelux.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Letras Libres",
+          "description": "Revista de crítica y creación",
+          "url": "https://letraslibres.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=letraslibres.com&sz=128",
+          "type": "article"
+        }
+      ]
+    },
+    {
+      "id": "design",
+      "titleKey": "discover_category_design",
+      "icon": "paintpalette",
+      "color": "purple",
+      "feeds": [
+        {
+          "title": "Gràffica",
+          "description": "Diseño gráfico, tipografía y comunicación visual",
+          "url": "https://graffica.info/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=graffica.info&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Brandemia",
+          "description": "Branding e identidad corporativa",
+          "url": "https://brandemia.org/feed",
+          "imageURL": "https://www.google.com/s2/favicons?domain=brandemia.org&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Yorokobu",
+          "description": "Creatividad, diseño y cultura visual",
+          "url": "https://www.yorokobu.es/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=yorokobu.es&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Decoesfera",
+          "description": "Decoración e interiorismo",
+          "url": "https://decoracion.trendencias.com/feedburner.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=decoracion.trendencias.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "ArchDaily en Español",
+          "description": "Arquitectura en español",
+          "url": "https://www.archdaily.cl/cl/feed",
+          "imageURL": "https://www.google.com/s2/favicons?domain=archdaily.cl&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "AD España",
+          "description": "Arquitectura, interiorismo y diseño",
+          "url": "https://www.revistaad.es/feed/rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=revistaad.es&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Domestika Blog",
+          "description": "Creatividad y diseño",
+          "url": "https://www.domestika.org/es/blog/rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=domestika.org&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Foroalfa",
+          "description": "Diseño y branding",
+          "url": "https://foroalfa.org/rss/es/2.0.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=foroalfa.org&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Arquitectura y Diseño",
+          "description": "Arquitectura e interiorismo",
+          "url": "https://www.arquitecturaydiseno.es/feeds/rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=arquitecturaydiseno.es&sz=128",
+          "type": "article"
+        }
+      ]
+    },
+    {
+      "id": "business",
+      "titleKey": "discover_category_business",
+      "icon": "chart.line.uptrend.xyaxis",
+      "color": "orange",
+      "feeds": [
+        {
+          "title": "Expansión",
+          "description": "Diario económico",
+          "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=expansion.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Cinco Días",
+          "description": "Economía, mercados y empresas",
+          "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/cincodias.elpais.com/portada",
+          "imageURL": "https://www.google.com/s2/favicons?domain=elpais.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Emprendedores",
+          "description": "Emprendimiento y pymes",
+          "url": "https://www.emprendedores.es/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=emprendedores.es&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Business Insider España",
+          "description": "Negocios, economía y tecnología",
+          "url": "https://www.businessinsider.es/rss/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=businessinsider.es&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "El Confidencial Economía",
+          "description": "Economía en El Confidencial",
+          "url": "https://rss.elconfidencial.com/economia/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=elconfidencial.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "El Blog Salmón",
+          "description": "Economía y finanzas personales",
+          "url": "https://www.elblogsalmon.com/feedburner.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=elblogsalmon.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Forbes España",
+          "description": "Negocios y liderazgo",
+          "url": "https://forbes.es/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=forbes.es&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Merca2",
+          "description": "Economía y empresas",
+          "url": "https://www.merca2.es/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=merca2.es&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Marketing Directo",
+          "description": "Marketing y publicidad",
+          "url": "https://www.marketingdirecto.com/feed",
+          "imageURL": "https://www.google.com/s2/favicons?domain=marketingdirecto.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "El País Economía",
+          "description": "La economía en El País",
+          "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/economia/portada",
+          "imageURL": "https://www.google.com/s2/favicons?domain=elpais.com&sz=128",
+          "type": "article"
+        }
+      ]
+    },
+    {
+      "id": "gaming",
+      "titleKey": "discover_category_gaming",
+      "icon": "gamecontroller",
+      "color": "indigo",
+      "feeds": [
+        {
+          "title": "Vandal",
+          "description": "Videojuegos: noticias y análisis",
+          "url": "https://vandal.elespanol.com/xml.cgi",
+          "imageURL": "https://www.google.com/s2/favicons?domain=vandal.elespanol.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "VidaExtra",
+          "description": "Videojuegos y cultura gamer",
+          "url": "https://www.vidaextra.com/feedburner.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=vidaextra.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "HobbyConsolas",
+          "description": "Videojuegos, cine y series",
+          "url": "https://www.hobbyconsolas.com/rss/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=hobbyconsolas.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "IGN España",
+          "description": "Videojuegos, cine y entretenimiento",
+          "url": "https://es.ign.com/feed.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=es.ign.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Eurogamer.es",
+          "description": "Noticias y análisis de videojuegos",
+          "url": "https://www.eurogamer.es/feed",
+          "imageURL": "https://www.google.com/s2/favicons?domain=eurogamer.es&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Areajugones",
+          "description": "Videojuegos, anime y series",
+          "url": "https://areajugones.sport.es/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=areajugones.sport.es&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Nintenderos",
+          "description": "Todo sobre Nintendo",
+          "url": "https://www.nintenderos.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=nintenderos.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Generación Xbox",
+          "description": "Todo sobre Xbox",
+          "url": "https://www.generacionxbox.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=generacionxbox.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "AnaitGames",
+          "description": "Videojuegos con otra mirada",
+          "url": "https://www.anaitgames.com/feed",
+          "imageURL": "https://www.google.com/s2/favicons?domain=anaitgames.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "PlayStation Blog ES",
+          "description": "Blog oficial de PlayStation en español",
+          "url": "https://blog.es.playstation.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=blog.es.playstation.com&sz=128",
+          "type": "article"
+        }
+      ]
+    },
+    {
+      "id": "sports",
+      "titleKey": "discover_category_sports",
+      "icon": "trophy",
+      "color": "yellow",
+      "feeds": [
+        {
+          "title": "Marca",
+          "description": "Diario deportivo",
+          "url": "https://e00-marca.uecdn.es/rss/portada.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=marca.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Mundo Deportivo",
+          "description": "Diario deportivo de Barcelona",
+          "url": "https://www.mundodeportivo.com/rss/home.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=mundodeportivo.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Relevo",
+          "description": "Deporte con calma",
+          "url": "https://www.relevo.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=relevo.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "El País Deportes",
+          "description": "El deporte en El País",
+          "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/deportes/portada",
+          "imageURL": "https://www.google.com/s2/favicons?domain=elpais.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Estadio Deportivo",
+          "description": "Deporte andaluz y nacional",
+          "url": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=estadiodeportivo.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Gigantes del Basket",
+          "description": "Baloncesto",
+          "url": "https://www.gigantes.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=gigantes.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Solobasket",
+          "description": "Baloncesto español",
+          "url": "https://www.solobasket.com/feed",
+          "imageURL": "https://www.google.com/s2/favicons?domain=solobasket.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Motorsport.com España",
+          "description": "Motor y automovilismo",
+          "url": "https://es.motorsport.com/rss/all/news/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=es.motorsport.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Panenka",
+          "description": "Fútbol y cultura",
+          "url": "https://www.panenka.org/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=panenka.org&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Sphera Sports",
+          "description": "Deporte con análisis",
+          "url": "https://spherasports.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=spherasports.com&sz=128",
+          "type": "article"
+        }
+      ]
+    },
+    {
+      "id": "health",
+      "titleKey": "discover_category_health",
+      "icon": "stethoscope",
+      "color": "mint",
+      "feeds": [
+        {
+          "title": "CuídatePlus",
+          "description": "Salud y bienestar",
+          "url": "https://cuidateplus.marca.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=cuidateplus.marca.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "El País Salud",
+          "description": "Salud y bienestar en El País",
+          "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/salud-y-bienestar/portada",
+          "imageURL": "https://www.google.com/s2/favicons?domain=elpais.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Vitónica",
+          "description": "Deporte, nutrición y salud",
+          "url": "https://www.vitonica.com/feedburner.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=vitonica.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Redacción Médica",
+          "description": "Actualidad sanitaria",
+          "url": "https://www.redaccionmedica.com/rss/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=redaccionmedica.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Diario Médico",
+          "description": "Actualidad médica",
+          "url": "https://www.diariomedico.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=diariomedico.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Mejor con Salud",
+          "description": "Consejos de salud y bienestar",
+          "url": "https://mejorconsalud.as.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=mejorconsalud.as.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "ConSalud",
+          "description": "Actualidad sanitaria",
+          "url": "https://www.consalud.es/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=consalud.es&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Salud 20minutos",
+          "description": "Salud en 20minutos",
+          "url": "https://www.20minutos.es/rss/salud/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=20minutos.es&sz=128",
+          "type": "article"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "titleKey": "discover_category_ai",
+      "icon": "sparkles",
+      "color": "cyan",
+      "feeds": [
+        {
+          "title": "Wwwhat's new IA",
+          "description": "Novedades de inteligencia artificial",
+          "url": "https://wwwhatsnew.com/category/inteligencia-artificial/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=wwwhatsnew.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "El País IA",
+          "description": "Inteligencia artificial en El País",
+          "url": "https://feeds.elpais.com/mrss-s/list/ep/site/elpais.com/tag/inteligencia_artificial_a",
+          "imageURL": "https://www.google.com/s2/favicons?domain=elpais.com&sz=128",
+          "type": "article"
+        }
+      ]
+    },
+    {
+      "id": "environment",
+      "titleKey": "discover_category_environment",
+      "icon": "leaf",
+      "color": "teal",
+      "feeds": [
+        {
+          "title": "Climática",
+          "description": "Periodismo climático",
+          "url": "https://www.climatica.lamarea.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=climatica.lamarea.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "El País Clima",
+          "description": "Clima y medio ambiente en El País",
+          "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/clima-y-medio-ambiente/portada",
+          "imageURL": "https://www.google.com/s2/favicons?domain=elpais.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "EFEverde",
+          "description": "Periodismo ambiental de la Agencia EFE",
+          "url": "https://efeverde.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=efeverde.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Ecoticias",
+          "description": "Noticias de medio ambiente",
+          "url": "https://www.ecoticias.com/feed",
+          "imageURL": "https://www.google.com/s2/favicons?domain=ecoticias.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Ethic",
+          "description": "Sostenibilidad y pensamiento",
+          "url": "https://ethic.es/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=ethic.es&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "El Periódico de la Energía",
+          "description": "Actualidad energética",
+          "url": "https://elperiodicodelaenergia.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=elperiodicodelaenergia.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Greenpeace España",
+          "description": "Noticias de Greenpeace",
+          "url": "https://es.greenpeace.org/es/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=es.greenpeace.org&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "pv magazine España",
+          "description": "Energía solar fotovoltaica",
+          "url": "https://www.pv-magazine.es/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=pv-magazine.es&sz=128",
+          "type": "article"
+        }
+      ]
+    }
+  ]
+}

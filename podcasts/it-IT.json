@@ -1,0 +1,391 @@
+{
+  "categories": [
+    {
+      "id": "tech",
+      "titleKey": "discover_category_tech",
+      "icon": "cpu",
+      "color": "blue",
+      "feeds": [
+        {
+          "title": "EasyApple",
+          "description": "Non accontentarti di ciò che sai già fare con il tuo iPhone, iPad o Mac: c'è tanto altro da…",
+          "url": "https://feeds.easypodcast.it/EasyApple",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/d1/03/83/d1038333-c163-60a7-2b0d-bb7c30ea8bcd/mza_1175440933815263513.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Digitalia",
+          "description": "Notizie dal mondo della rete per i cittadini della rete",
+          "url": "https://digitalia.fm/feeds/digitalia.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/34/4f/e4/344fe4bf-5cc1-06bf-dde6-2b01cc8d77b5/mza_3363407695183653017.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Il Disinformatico",
+          "description": "Colui che mette luce laddove internet e l'informatica tutta ci sembrano assolutamente troppo…",
+          "url": "https://www.rsi.ch/web/podcast/il-disinformatico/?f=podcast-xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/28/1d/8c/281d8c4d-adbf-487e-984a-8c901e4a6ab6/mza_10283646483516461781.png/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "StoryTech di Fjona Cakalli",
+          "description": "La tecnologia ci affascina e ci inquieta.",
+          "url": "https://www.omnycontent.com/d/playlist/60311b15-274a-4e3f-8ba9-ac3000834f37/0ab443da-033a-4ab7-9a3a-b3cd00998168/609898bc-e21c-4d71-bc25-b3cd0099817f/podcast.rss",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/02/57/d9/0257d939-a233-9a5d-aba2-da98838e28e8/mza_13173167678181460285.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "DataKnightmare: L'algoritmico è politico",
+          "description": "Uno sguardo sul lato oscuro della società dei dati, dove l'algoritmico è politico.",
+          "url": "https://www.spreaker.com/show/1977562/episodes/feed",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7c/e6/13/7ce613b7-07bf-844b-f573-082730746649/mza_14655541800303620683.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Bitcoin Italia Podcast",
+          "description": "Il Bitcoin podcast italiano.",
+          "url": "https://www.spreaker.com/show/3250113/episodes/feed",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a4/2a/93/a42a9375-36c7-6a8d-52ed-9585a63f77ef/mza_3570661521457739421.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Raffaele Gaito, il podcast.",
+          "description": "Ciao, io sono Raffaele 😊 Qui sopra pubblico analisi, tutorial, novità e reaction che riguardano il…",
+          "url": "https://www.spreaker.com/show/3284132/episodes/feed",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/aa/d2/aa/aad2aa7f-62b6-5c63-c240-efca66f77c3f/mza_9927974425487117704.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Il morso",
+          "description": "Notizie e curiosità dal mondo Apple.",
+          "url": "https://www.ilmorso.it/podcast.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5e/64/99/5e649924-0f71-30a2-ef93-b570b023b11d/mza_11336415196253967470.jpg/256x256bb.jpg",
+          "type": "podcast"
+        }
+      ]
+    },
+    {
+      "id": "science",
+      "titleKey": "discover_category_science",
+      "icon": "atom",
+      "color": "green",
+      "feeds": [
+        {
+          "title": "Scientificast, la scienza come non l'hai mai sentita",
+          "description": "Scientificast è un podcast che parla di scienza in modo semplice e divertente.",
+          "url": "https://www.spreaker.com/show/1762253/episodes/feed",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/45/77/6d/45776d6d-39e4-9c63-7a89-d3d777858ee0/mza_13676230967746021528.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Il Gomitolo Atomico",
+          "description": "Un’avventura affascinante per esplorare lo straordinario mondo che si estende fuori e dentro di noi.",
+          "url": "https://www.spreaker.com/show/6497845/episodes/feed",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/2a/97/b4/2a97b4a8-dbb5-30a0-7947-d3568dea5e59/mza_15266810054814634141.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Curiuss",
+          "description": "Curiuss è un canale di divulgazione scientifica che si occupa di storia della scienza, in…",
+          "url": "https://www.spreaker.com/show/6117532/episodes/feed",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c7/30/80/c73080aa-d8ab-5545-68e5-2048176237a2/mza_14892892798413724373.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Astronomia Semplice",
+          "description": "Astronomia Semplice è un programma per neofiti, curiosi e principianti, per chi alza lo sguardo…",
+          "url": "https://www.spreaker.com/show/4311540/episodes/feed",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ee/0b/5c/ee0b5c71-ac06-b89b-f539-e744a7932fb3/mza_4449733123975015284.jpg/256x256bb.jpg",
+          "type": "podcast"
+        }
+      ]
+    },
+    {
+      "id": "news",
+      "titleKey": "discover_category_news",
+      "icon": "newspaper",
+      "color": "red",
+      "feeds": [
+        {
+          "title": "Il Mondo",
+          "description": "Ogni giorno due notizie dal mondo scelte dalla redazione di Internazionale.",
+          "url": "https://www.spreaker.com/show/5773405/episodes/feed",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/eb/ce/15/ebce15f3-fd72-7746-49d3-55cf984559b4/mza_1181196246366930039.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Giorno per giorno",
+          "description": "Il podcast quotidiano sui fatti più importanti per orientarsi nel mondo, con le voci dei…",
+          "url": "https://www.spreaker.com/show/4487282/episodes/feed",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/67/22/18/672218e0-9ac3-ca3d-e6ae-0a98c122d816/mza_13765113294021382142.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Market Mover",
+          "description": "Le variabili che influenzano l’andamento dei listini, le storie societarie del momento e i…",
+          "url": "https://feeds.megaphone.fm/ISOS1907906070",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/78/b1/37/78b1373a-414d-4275-5af2-d2b0ecbbdbd4/mza_4557844297068798423.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Mappe. Capire il mondo",
+          "description": "Il podcast settimanale di Esteri del Corriere della Sera: notizie e approfondimenti per orientarsi…",
+          "url": "https://www.spreaker.com/show/7377744/episodes/feed",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/94/77/589477dc-e58d-1de9-ec42-de71a7e870ae/mza_4861454385715872062.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Le news di Sky Tg 24",
+          "description": "Le ultime notizie di Sky TG24: i titoli delle breaking news, di politica, economia, esteri e…",
+          "url": "https://feeds.megaphone.fm/SIS6177785836",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/45/79/12/4579121a-15f7-2888-e058-553442612e16/mza_953796559803708337.jpg/256x256bb.jpg",
+          "type": "podcast"
+        }
+      ]
+    },
+    {
+      "id": "culture",
+      "titleKey": "discover_category_culture",
+      "icon": "theatermasks",
+      "color": "pink",
+      "feeds": [
+        {
+          "title": "Passa dal BSMT",
+          "description": "BSMT è un progetto nato per raccontare storie di ispirazione, punti di vista originali e…",
+          "url": "https://feeds.megaphone.fm/BSMT6291075949",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/2b/e8/802be832-1862-6a38-1b4f-3b819ab53dfa/mza_394471813939632872.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Di Nuovo BARBERO - Alessandro Barbero Podcast",
+          "description": "Barbero non smette mai di stupirci, per questo raccoglieremo qui le sue conferenze più belle!",
+          "url": "https://www.spreaker.com/show/6755193/episodes/feed",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a2/29/d5/a229d511-1759-111d-6cfe-142b5247ba35/mza_10709861329326268423.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "ONE MORE TIME  di Luca Casadei",
+          "description": "Luca Casadei, nato a Parigi.",
+          "url": "https://www.omnycontent.com/d/playlist/60311b15-274a-4e3f-8ba9-ac3000834f37/343b8072-a5b0-41bf-b035-af1c0103f5f9/92cb2f9a-c2cd-42dc-990a-af1c0103f610/podcast.rss",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/70/0f/39/700f3933-f3bb-7280-dc87-55c187fa5d42/mza_2627686113178304361.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Ma perché?",
+          "description": "Non sempre capiamo davvero e in profondità ciò che leggiamo.",
+          "url": "https://www.omnycontent.com/d/playlist/60311b15-274a-4e3f-8ba9-ac3000834f37/3fbddd6a-ef2f-494d-bdc7-af8f00f3c16f/73175d2f-b9a3-4deb-ba0d-af8f00f3c178/podcast.rss",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/80/04/43/8004439a-fba7-8137-9237-0724cd8b9045/mza_18004868742121630882.jpg/256x256bb.jpg",
+          "type": "podcast"
+        }
+      ]
+    },
+    {
+      "id": "design",
+      "titleKey": "discover_category_design",
+      "icon": "paintpalette",
+      "color": "purple",
+      "feeds": [
+        {
+          "title": "UNI.RSM DESIGN TALKS",
+          "description": "DESIGN TALKS è il canale podcast di UNI.RSM nato nel 2017 all’interno di Usmaradio e interamente…",
+          "url": "https://www.spreaker.com/show/2180429/episodes/feed",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/78/05/ac780563-85ae-bc20-a857-bc23f117977d/mza_10711075403932422888.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Radio UX",
+          "description": "Radio UX è un canale telegram dedicato a UX, architettura dell'informazione e usabilità…",
+          "url": "https://www.spreaker.com/show/4890042/episodes/feed",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a4/c3/77/a4c3770d-c33f-01e6-be51-ca95f9821957/mza_11454364835958054835.jpg/256x256bb.jpg",
+          "type": "podcast"
+        }
+      ]
+    },
+    {
+      "id": "business",
+      "titleKey": "discover_category_business",
+      "icon": "chart.line.uptrend.xyaxis",
+      "color": "orange",
+      "feeds": [
+        {
+          "title": "Out of Office",
+          "description": "Emma-Isadora Hagen und Swantje Allmers kennen Führung aus zwei Perspektiven: Emma musste schon mit…",
+          "url": "https://out-of-office.podigee.io/feed/mp3",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/67/6f/82/676f82de-00e7-887f-5656-8718893d0f17/mza_10304454938184227219.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Too Big To Fail - Finanza personale a 3 voci",
+          "description": "Too Big To Fail è il podcast di finanza personale per capire come investire, risparmiare e gestire…",
+          "url": "https://feeds.acast.com/public/shows/663e29e5cede820013fbb1a2",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e3/25/a5/e325a517-8a3a-2dac-3763-410d02b5fe6f/mza_15383949673754448168.jpeg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "justETF Italia - Podcast",
+          "description": "Il Podcast che ti accompagna nel mondo degli ETF, rendendo semplici anche i concetti più complessi.",
+          "url": "https://justetf-italia.podigee.io/feed/mp3",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a6/54/a3/a654a396-961d-065b-4047-354b82952531/mza_10262916206645267786.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Intelligenza Artificiale Spiegata Semplice",
+          "description": "Intelligenza Artificiale Spiegata Semplice è il podcast che ti offre un approccio chiaro e…",
+          "url": "https://www.spreaker.com/show/3326261/episodes/feed",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/75/94/e0/7594e0d6-42b8-b094-08b3-84bf26121f25/mza_12840323737700545177.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "5 Minuti Su...",
+          "description": "5 Minuti Su è il podcast che ti porta al cuore della finanza in modo chiaro, rapido e autorevole.In…",
+          "url": "https://www.spreaker.com/show/6893209/episodes/feed",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/13/a3/0a/13a30ab7-5199-a12b-5fc5-a9f4dae3219f/mza_17010450508134917084.jpg/256x256bb.jpg",
+          "type": "podcast"
+        }
+      ]
+    },
+    {
+      "id": "gaming",
+      "titleKey": "discover_category_gaming",
+      "icon": "gamecontroller",
+      "color": "indigo",
+      "feeds": [
+        {
+          "title": "Gameromancer, il podcast videoludicamente scorretto",
+          "description": "Unisciti alla community – Segui la newsletter – Dona su Patreon Questo non è il solito podcast di…",
+          "url": "https://gameromancer.com/feed/podcast",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/1a/b5/f4/1ab5f46e-31c2-299e-692c-6053f52b9dce/mza_15089780244829507207.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Console Generation",
+          "description": "Console Generation è la trasmissione radiofonica settimanale dedicata ai videogiochi, condotta da…",
+          "url": "https://www.spreaker.com/show/254016/episodes/feed",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a6/2d/62/a62d623d-00e6-0b87-5306-9f004935f81e/mza_15060595067495586518.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "ATARITECA RETROGAMING PODCAST - Il blister di videogiochi",
+          "description": "Pillole di Podcast sui videogiochi, il retrogaming, il retrocomputing e sulle novità del momento…",
+          "url": "https://www.spreaker.com/show/2833430/episodes/feed",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7e/3f/80/7e3f80e1-40ff-93a6-b467-53928dfebc18/mza_15274278556258244865.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Retroutcast",
+          "description": "Il club del retrogaming di Outcast.it.",
+          "url": "https://outcastlive.squarespace.com/retroutcast?format=rss",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts114/v4/fa/66/5e/fa665ed2-f45b-1f8c-097b-e7d9884189ad/mza_3828378218080034782.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Birra e Pixel",
+          "description": "Benvenuti al crazy's, il luogo dove, tra una pinta e l'altra, si rivivono i ricordi e gli aneddoti…",
+          "url": "https://www.spreaker.com/show/6141600/episodes/feed",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/2d/3b/0e/2d3b0e4a-f258-d328-23b9-aba5007303ee/mza_7276854572439154243.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Gamers Doom",
+          "description": "Il Podcast videoludico generazionale aperto a tutte le età!",
+          "url": "https://www.spreaker.com/show/6261410/episodes/feed",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b0/ac/9f/b0ac9fc5-5fd0-73b8-c7c1-b6f2a605002e/mza_13850555308470250738.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Outcast Weekly",
+          "description": "Il nostro podcast settimanale, in cui commentiamo notizie, annunci, indiscrezioni, pettegolezzi del…",
+          "url": "https://outcastlive.squarespace.com/outcast-weekly?format=rss",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/77/87/04/77870470-0dd2-44ad-e33d-041234a4d7a4/mza_2550558375593005867.jpg/256x256bb.jpg",
+          "type": "podcast"
+        }
+      ]
+    },
+    {
+      "id": "sports",
+      "titleKey": "discover_category_sports",
+      "icon": "trophy",
+      "color": "yellow",
+      "feeds": [
+        {
+          "title": "ALL EYES ON THE NFL",
+          "description": "Ci sono mille ragioni per amare la NFL.",
+          "url": "https://www.spreaker.com/show/7434600/episodes/feed",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d4/e1/5c/d4e15c08-4509-3ed3-32f9-f7e6e5feedb2/mza_1765766127628196013.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Radio Sportiva",
+          "description": "Raccontiamo emozioni, calcio e sport 24h su 24.",
+          "url": "https://feed.podbean.com/radiosportiva/feed.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c7/75/20/c7752073-4663-ca72-30f7-dc6a0b95a511/mza_6416538041696388348.png/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "TWENTYFOUR",
+          "description": "Dal lunedì al venerdì.",
+          "url": "https://feed.podbean.com/trashtalkingit/feed.xml",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ff/29/4a/ff294ada-4a97-2f2f-ea8a-6aacc8968121/mza_3820580071126026481.png/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Backdoor Podcast",
+          "description": "Il basket italiano, europeo e americano raccontato da e per i veri appassionati.",
+          "url": "https://www.spreaker.com/show/4175169/episodes/feed",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/50/89/00/508900c2-7bd0-b148-a079-1f9253390396/mza_1054097501601488576.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Passione Inter",
+          "description": "Passione Inter è il podcast quotidiano di analisi e approfondimento dedicato interamente al mondo…",
+          "url": "https://www.spreaker.com/show/3508364/episodes/feed",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a7/e7/c4/a7e7c4bf-aeb7-247d-acf0-7926b3889388/mza_9988187907574030127.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "[A.S. Roma] MARIONE - Il portale della ControInformazione GialloRossa",
+          "description": "MARIONE.NET - Il portale della ControInformazione GialloRossa (A.S.",
+          "url": "https://www.marione.net/rss/podcast.php",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/85/62/4f/85624fc3-0139-29a1-02ce-840950552fac/mza_9725517296340057444.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Dal Parquet",
+          "description": "Dal Parquet, il dopopartita di VareseNews.",
+          "url": "https://www.spreaker.com/show/6321088/episodes/feed",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/14/f5/87/14f587fe-07b3-081e-2459-cafd372708fc/mza_1482961554580752193.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "2 In Bianconero - Radio Bianconera",
+          "description": "Due colori, due voci, due...",
+          "url": "https://www.radiobianconera.com/rss/?type=podcast&ida=23",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/49/91/c6/4991c604-72cc-9541-fecf-7966b6f392df/mza_4604461325177405851.jpg/256x256bb.jpg",
+          "type": "podcast"
+        }
+      ]
+    },
+    {
+      "id": "health",
+      "titleKey": "discover_category_health",
+      "icon": "stethoscope",
+      "color": "mint",
+      "feeds": [
+        {
+          "title": "Un pasto alla volta",
+          "description": "Un pasto alla volta è il podcast che ti aiuterà a passare a un’alimentazione (più) vegetale in modo…",
+          "url": "https://www.spreaker.com/show/6229298/episodes/feed",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a4/5f/bb/a45fbbcf-21a5-e14a-cd57-62f7d9d05469/mza_16738483991664980589.jpg/256x256bb.jpg",
+          "type": "podcast"
+        },
+        {
+          "title": "Psicologia - Pratica la Mente",
+          "description": "Gli approfondimenti del dr.",
+          "url": "https://feeds.transistor.fm/psicologia-pratica-la-mente",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/69/bd/b4/69bdb41c-0a0d-4bff-1867-f7a82f2e9f75/mza_15113782221126963980.jpg/256x256bb.jpg",
+          "type": "podcast"
+        }
+      ]
+    }
+  ]
+}

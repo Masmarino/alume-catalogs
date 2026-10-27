@@ -1,0 +1,743 @@
+{
+  "categories": [
+    {
+      "id": "tech",
+      "titleKey": "discover_category_tech",
+      "icon": "cpu",
+      "color": "blue",
+      "feeds": [
+        {
+          "title": "HDblog",
+          "description": "Tecnologia, smartphone e recensioni",
+          "url": "https://www.hdblog.it/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=hdblog.it&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Hardware Upgrade",
+          "description": "Hardware, PC e tecnologia",
+          "url": "https://feeds.hwupgrade.it/rss_hwup.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=hwupgrade.it&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Tom's Hardware Italia",
+          "description": "Hardware, gaming e tecnologia",
+          "url": "https://www.tomshw.it/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=tomshw.it&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "DDay.it",
+          "description": "Tecnologia di consumo e mobilità elettrica",
+          "url": "https://www.dday.it/feed",
+          "imageURL": "https://www.google.com/s2/favicons?domain=dday.it&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Punto Informatico",
+          "description": "Notizie di informatica e internet",
+          "url": "https://www.punto-informatico.it/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=punto-informatico.it&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "iPhone Italia",
+          "description": "iPhone, iPad e Apple",
+          "url": "https://www.iphoneitalia.com/feed",
+          "imageURL": "https://www.google.com/s2/favicons?domain=iphoneitalia.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "SmartWorld",
+          "description": "Smartphone e tecnologia",
+          "url": "https://www.smartworld.it/feed",
+          "imageURL": "https://www.google.com/s2/favicons?domain=smartworld.it&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "TuttoAndroid",
+          "description": "Notizie e guide Android",
+          "url": "https://www.tuttoandroid.net/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=tuttoandroid.net&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Macitynet",
+          "description": "Apple, Mac e tecnologia",
+          "url": "https://www.macitynet.it/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=macitynet.it&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Agenda Digitale",
+          "description": "Innovazione e trasformazione digitale",
+          "url": "https://www.agendadigitale.eu/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=agendadigitale.eu&sz=128",
+          "type": "article"
+        }
+      ]
+    },
+    {
+      "id": "science",
+      "titleKey": "discover_category_science",
+      "icon": "atom",
+      "color": "green",
+      "feeds": [
+        {
+          "title": "Focus",
+          "description": "Scienza, natura e curiosità",
+          "url": "https://www.focus.it/rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=focus.it&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Galileo",
+          "description": "Giornale di scienza",
+          "url": "https://www.galileonet.it/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=galileonet.it&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Media INAF",
+          "description": "Notiziario dell'Istituto Nazionale di Astrofisica",
+          "url": "https://www.media.inaf.it/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=media.inaf.it&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Query",
+          "description": "Scienza e pensiero critico (CICAP)",
+          "url": "https://www.queryonline.it/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=queryonline.it&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "ASI",
+          "description": "Agenzia Spaziale Italiana",
+          "url": "https://www.asi.it/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=asi.it&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Geopop",
+          "description": "Scienza e geografia spiegate bene",
+          "url": "https://www.geopop.it/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=geopop.it&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Passione Astronomia",
+          "description": "Astronomia e spazio",
+          "url": "https://www.passioneastronomia.it/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=passioneastronomia.it&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Astrospace",
+          "description": "Spazio e astronautica",
+          "url": "https://www.astrospace.it/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=astrospace.it&sz=128",
+          "type": "article"
+        }
+      ]
+    },
+    {
+      "id": "news",
+      "titleKey": "discover_category_news",
+      "icon": "newspaper",
+      "color": "red",
+      "feeds": [
+        {
+          "title": "ANSA",
+          "description": "Agenzia di stampa italiana",
+          "url": "https://www.ansa.it/sito/ansait_rss.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=ansa.it&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "la Repubblica",
+          "description": "Prima pagina di Repubblica",
+          "url": "https://www.repubblica.it/rss/homepage/rss2.0.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=repubblica.it&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "La Stampa",
+          "description": "Notizie de La Stampa",
+          "url": "https://www.lastampa.it/rss/copertina.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=lastampa.it&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Il Sole 24 Ore",
+          "description": "Notizie dall'Italia",
+          "url": "https://www.ilsole24ore.com/rss/italia.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=ilsole24ore.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Il Fatto Quotidiano",
+          "description": "Notizie e inchieste",
+          "url": "https://www.ilfattoquotidiano.it/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=ilfattoquotidiano.it&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Fanpage",
+          "description": "Notizie e attualità",
+          "url": "https://www.fanpage.it/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=fanpage.it&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Internazionale",
+          "description": "Il meglio dei giornali di tutto il mondo",
+          "url": "https://www.internazionale.it/sitemaps/rss.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=internazionale.it&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Open",
+          "description": "Notizie e fact-checking",
+          "url": "https://www.open.online/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=open.online&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "il manifesto",
+          "description": "Quotidiano comunista",
+          "url": "https://ilmanifesto.it/feed",
+          "imageURL": "https://www.google.com/s2/favicons?domain=ilmanifesto.it&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Euronews Italiano",
+          "description": "Notizie dall'Europa e dal mondo",
+          "url": "https://it.euronews.com/rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=it.euronews.com&sz=128",
+          "type": "article"
+        }
+      ]
+    },
+    {
+      "id": "culture",
+      "titleKey": "discover_category_culture",
+      "icon": "theatermasks",
+      "color": "pink",
+      "feeds": [
+        {
+          "title": "Il Libraio",
+          "description": "Libri, autori e lettura",
+          "url": "https://www.illibraio.it/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=illibraio.it&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Doppiozero",
+          "description": "Cultura, arti e società",
+          "url": "https://www.doppiozero.com/rss.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=doppiozero.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Rolling Stone Italia",
+          "description": "Musica, cinema e cultura",
+          "url": "https://www.rollingstone.it/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=rollingstone.it&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Artribune",
+          "description": "Arte contemporanea e cultura",
+          "url": "https://www.artribune.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=artribune.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Exibart",
+          "description": "Arte e mostre",
+          "url": "https://www.exibart.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=exibart.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "OndaRock",
+          "description": "Musica rock e alternativa",
+          "url": "https://www.ondarock.it/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=ondarock.it&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Rivista Studio",
+          "description": "Cultura e attualità",
+          "url": "https://www.rivistastudio.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=rivistastudio.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Il Tascabile",
+          "description": "Rivista culturale di Treccani",
+          "url": "https://www.iltascabile.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=iltascabile.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "ComingSoon",
+          "description": "Cinema e serie",
+          "url": "https://www.comingsoon.it/feedrss/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=comingsoon.it&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Lucy sulla cultura",
+          "description": "Rivista di cultura",
+          "url": "https://lucysullacultura.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=lucysullacultura.com&sz=128",
+          "type": "article"
+        }
+      ]
+    },
+    {
+      "id": "design",
+      "titleKey": "discover_category_design",
+      "icon": "paintpalette",
+      "color": "purple",
+      "feeds": [
+        {
+          "title": "Abitare",
+          "description": "Architettura, design e interni",
+          "url": "https://www.abitare.it/it/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=abitare.it&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Elle Decor Italia",
+          "description": "Arredamento e design",
+          "url": "https://www.elledecor.com/it/rss/all.xml/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=elledecor.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Living Corriere",
+          "description": "Casa e design",
+          "url": "https://living.corriere.it/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=living.corriere.it&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Interni",
+          "description": "Interior design e architettura",
+          "url": "https://www.internimagazine.it/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=internimagazine.it&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "AD Italia",
+          "description": "Architectural Digest Italia",
+          "url": "https://www.ad-italia.it/feed/rss",
+          "imageURL": "https://www.google.com/s2/favicons?domain=ad-italia.it&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "DesignStreet",
+          "description": "Design e grafica",
+          "url": "https://www.designstreet.it/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=designstreet.it&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Inexhibit",
+          "description": "Architettura, design e musei",
+          "url": "https://www.inexhibit.com/it/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=inexhibit.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Collater.al",
+          "description": "Arte, design e cultura visiva",
+          "url": "https://www.collater.al/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=collater.al&sz=128",
+          "type": "article"
+        }
+      ]
+    },
+    {
+      "id": "business",
+      "titleKey": "discover_category_business",
+      "icon": "chart.line.uptrend.xyaxis",
+      "color": "orange",
+      "feeds": [
+        {
+          "title": "Il Sole 24 Ore Economia",
+          "description": "Economia e finanza",
+          "url": "https://www.ilsole24ore.com/rss/economia.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=ilsole24ore.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "StartupItalia",
+          "description": "Startup e innovazione",
+          "url": "https://startupitalia.eu/feed",
+          "imageURL": "https://www.google.com/s2/favicons?domain=startupitalia.eu&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "EconomyUp",
+          "description": "Economia dell'innovazione",
+          "url": "https://www.economyup.it/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=economyup.it&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Forbes Italia",
+          "description": "Economia e imprese",
+          "url": "https://forbes.it/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=forbes.it&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Wall Street Italia",
+          "description": "Finanza e investimenti",
+          "url": "https://www.wallstreetitalia.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=wallstreetitalia.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Money.it",
+          "description": "Economia e finanza personale",
+          "url": "https://www.money.it/?page=discover-feed&settore=home",
+          "imageURL": "https://www.google.com/s2/favicons?domain=money.it&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Repubblica Economia",
+          "description": "Economia su Repubblica",
+          "url": "https://www.repubblica.it/rss/economia/rss2.0.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=repubblica.it&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Economia ANSA",
+          "description": "Economia dall'ANSA",
+          "url": "https://www.ansa.it/sito/notizie/economia/economia_rss.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=ansa.it&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Soldionline",
+          "description": "Borsa e investimenti",
+          "url": "https://www.soldionline.it/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=soldionline.it&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Il Sole 24 Ore Finanza",
+          "description": "Mercati e finanza",
+          "url": "https://www.ilsole24ore.com/rss/finanza.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=ilsole24ore.com&sz=128",
+          "type": "article"
+        }
+      ]
+    },
+    {
+      "id": "gaming",
+      "titleKey": "discover_category_gaming",
+      "icon": "gamecontroller",
+      "color": "indigo",
+      "feeds": [
+        {
+          "title": "Multiplayer.it",
+          "description": "Videogiochi: notizie e recensioni",
+          "url": "https://multiplayer.it/feed/rss/homepage/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=multiplayer.it&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Everyeye",
+          "description": "Videogiochi e intrattenimento",
+          "url": "https://www.everyeye.it/feed/feed_news_rss.asp",
+          "imageURL": "https://www.google.com/s2/favicons?domain=everyeye.it&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "SpazioGames",
+          "description": "Videogiochi e cultura pop",
+          "url": "https://www.spaziogames.it/feed",
+          "imageURL": "https://www.google.com/s2/favicons?domain=spaziogames.it&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "IGN Italia",
+          "description": "Videogiochi, film e serie",
+          "url": "https://it.ign.com/feed.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=it.ign.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "The Games Machine",
+          "description": "Videogiochi dal 1988",
+          "url": "https://www.thegamesmachine.it/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=thegamesmachine.it&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Akiba Gamers",
+          "description": "Videogiochi giapponesi e anime",
+          "url": "https://akibagamers.it/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=akibagamers.it&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Nintendo Italia Blog",
+          "description": "Tutto su Nintendo",
+          "url": "https://www.nintendon.it/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=nintendon.it&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "PlayStationBit",
+          "description": "Tutto su PlayStation",
+          "url": "https://www.playstationbit.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=playstationbit.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Gamesource",
+          "description": "Videogiochi",
+          "url": "https://www.gamesource.it/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=gamesource.it&sz=128",
+          "type": "article"
+        }
+      ]
+    },
+    {
+      "id": "sports",
+      "titleKey": "discover_category_sports",
+      "icon": "trophy",
+      "color": "yellow",
+      "feeds": [
+        {
+          "title": "Calcio e Finanza",
+          "description": "Economia del calcio",
+          "url": "https://www.calcioefinanza.it/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=calcioefinanza.it&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Ultimo Uomo",
+          "description": "Sport raccontato bene",
+          "url": "https://www.ultimouomo.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=ultimouomo.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "OA Sport",
+          "description": "Sport olimpici",
+          "url": "https://www.oasport.it/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=oasport.it&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Motorsport.com Italia",
+          "description": "Motorsport",
+          "url": "https://it.motorsport.com/rss/all/news/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=it.motorsport.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Rivista Undici",
+          "description": "Calcio e cultura",
+          "url": "https://www.rivistaundici.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=rivistaundici.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Sportface",
+          "description": "Notizie sportive",
+          "url": "https://www.sportface.it/feed",
+          "imageURL": "https://www.google.com/s2/favicons?domain=sportface.it&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "TuttoMercatoWeb",
+          "description": "Calciomercato",
+          "url": "https://www.tuttomercatoweb.com/rss/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=tuttomercatoweb.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Calciomercato.com",
+          "description": "Calcio e mercato",
+          "url": "https://feeds.footballco.com/calcio/feed/g8r5n1czq4mw7v2k",
+          "imageURL": "https://www.google.com/s2/favicons?domain=calciomercato.com&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Sport ANSA",
+          "description": "Sport dall'ANSA",
+          "url": "https://www.ansa.it/sito/notizie/sport/sport_rss.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=ansa.it&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Ubitennis",
+          "description": "Tennis",
+          "url": "https://www.ubitennis.com/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=ubitennis.com&sz=128",
+          "type": "article"
+        }
+      ]
+    },
+    {
+      "id": "health",
+      "titleKey": "discover_category_health",
+      "icon": "stethoscope",
+      "color": "mint",
+      "feeds": [
+        {
+          "title": "Il Fatto Alimentare",
+          "description": "Alimentazione e sicurezza alimentare",
+          "url": "https://ilfattoalimentare.it/feed",
+          "imageURL": "https://www.google.com/s2/favicons?domain=ilfattoalimentare.it&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Quotidiano Sanità",
+          "description": "Notizie di sanità",
+          "url": "https://www.quotidianosanita.it/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=quotidianosanita.it&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "OK Salute",
+          "description": "Salute e benessere",
+          "url": "https://www.ok-salute.it/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=ok-salute.it&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Salute ANSA",
+          "description": "Salute e benessere dall'ANSA",
+          "url": "https://www.ansa.it/canale_saluteebenessere/notizie/saluteebenessere_rss.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=ansa.it&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Repubblica Salute",
+          "description": "Salute su Repubblica",
+          "url": "https://www.repubblica.it/rss/salute/rss2.0.xml",
+          "imageURL": "https://www.google.com/s2/favicons?domain=repubblica.it&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Starbene",
+          "description": "Salute, alimentazione e benessere",
+          "url": "https://www.starbene.it/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=starbene.it&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Humanitas Salute",
+          "description": "Salute e prevenzione",
+          "url": "https://www.humanitas.it/news/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=humanitas.it&sz=128",
+          "type": "article"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "titleKey": "discover_category_ai",
+      "icon": "sparkles",
+      "color": "cyan",
+      "feeds": [
+        {
+          "title": "AI4Business",
+          "description": "Intelligenza artificiale per le imprese",
+          "url": "https://www.ai4business.it/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=ai4business.it&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Innovation Post",
+          "description": "Industria 4.0 e IA",
+          "url": "https://www.innovationpost.it/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=innovationpost.it&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "StartupItalia IA",
+          "description": "IA e startup",
+          "url": "https://startupitalia.eu/tag/intelligenza-artificiale/feed",
+          "imageURL": "https://www.google.com/s2/favicons?domain=startupitalia.eu&sz=128",
+          "type": "article"
+        }
+      ]
+    },
+    {
+      "id": "environment",
+      "titleKey": "discover_category_environment",
+      "icon": "leaf",
+      "color": "teal",
+      "feeds": [
+        {
+          "title": "Rinnovabili.it",
+          "description": "Energie rinnovabili e sostenibilità",
+          "url": "https://www.rinnovabili.it/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=rinnovabili.it&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "QualEnergia",
+          "description": "Energia e clima",
+          "url": "https://www.qualenergia.it/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=qualenergia.it&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "LifeGate",
+          "description": "Sostenibilità e ambiente",
+          "url": "https://www.lifegate.it/feed",
+          "imageURL": "https://www.google.com/s2/favicons?domain=lifegate.it&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "greenMe",
+          "description": "Ambiente e stili di vita sostenibili",
+          "url": "https://www.greenme.it/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=greenme.it&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "ESG360",
+          "description": "Sostenibilità e ESG",
+          "url": "https://www.esg360.it/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=esg360.it&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Ohga",
+          "description": "Ambiente e salute",
+          "url": "https://www.ohga.it/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=ohga.it&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Ecoblog",
+          "description": "Ambiente e sostenibilità",
+          "url": "https://www.ecoblog.it/feed",
+          "imageURL": "https://www.google.com/s2/favicons?domain=ecoblog.it&sz=128",
+          "type": "article"
+        },
+        {
+          "title": "Italia che Cambia",
+          "description": "Storie di cambiamento",
+          "url": "https://www.italiachecambia.org/feed/",
+          "imageURL": "https://www.google.com/s2/favicons?domain=italiachecambia.org&sz=128",
+          "type": "article"
+        }
+      ]
+    }
+  ]
+}
