@@ -14,13 +14,6 @@
           "type": "article"
         },
         {
-          "title": "01net",
-          "description": "High-tech, smartphones, informatique et jeux vidéo",
-          "url": "https://www.01net.com/rss/info/flux-rss/flux-toutes-solutions.xml",
-          "imageURL": "https://www.google.com/s2/favicons?domain=01net.com&sz=128",
-          "type": "article"
-        },
-        {
           "title": "MacGeneration",
           "description": "Tout l'univers Apple en français",
           "url": "https://cdn.mgig.fr/rss/light_rss_macg.xml",
@@ -110,13 +103,6 @@
           "url": "https://www.zdnet.fr/feeds/rss/actualites/",
           "imageURL": "https://www.google.com/s2/favicons?domain=zdnet.fr&sz=128",
           "type": "article"
-        },
-        {
-          "title": "FrAndroid",
-          "description": "La référence tech pour s'informer, comparer et bien acheter",
-          "url": "https://www.frandroid.com/feed",
-          "imageURL": "https://www.google.com/s2/favicons?domain=frandroid.fr&sz=128",
-          "type": "article"
         }
       ]
     },
@@ -173,13 +159,6 @@
           "description": "Articles académiques et scientifiques accessibles",
           "url": "https://theconversation.com/fr/articles.atom",
           "imageURL": "https://www.google.com/s2/favicons?domain=theconversation.com&sz=128",
-          "type": "article"
-        },
-        {
-          "title": "GoodPlanet Mag",
-          "description": "Environnement, climat et développement durable",
-          "url": "https://www.goodplanet.info/feed/",
-          "imageURL": "https://www.google.com/s2/favicons?domain=goodplanet.info&sz=128",
           "type": "article"
         },
         {
@@ -318,13 +297,6 @@
           "type": "article"
         },
         {
-          "title": "Première",
-          "description": "Cinéma, films et critiques",
-          "url": "http://www.premiere.fr/rss/sorties-cinema",
-          "imageURL": "https://www.google.com/s2/favicons?domain=premiere.fr&sz=128",
-          "type": "article"
-        },
-        {
           "title": "Les Inrocks",
           "description": "Musique, cinéma, littérature et politique culturelle",
           "url": "https://www.lesinrocks.com/feed/",
@@ -339,24 +311,10 @@
           "type": "article"
         },
         {
-          "title": "Critikat",
-          "description": "Critiques de cinéma indépendantes et approfondies",
-          "url": "https://www.critikat.com/rss.xml",
-          "imageURL": "https://www.google.com/s2/favicons?domain=critikat.com&sz=128",
-          "type": "article"
-        },
-        {
           "title": "ActuaBD",
           "description": "Bandes dessinées, manga et comics",
           "url": "https://www.actuabd.com/spip.php?page=backend",
           "imageURL": "https://www.google.com/s2/favicons?domain=actuabd.com&sz=128",
-          "type": "article"
-        },
-        {
-          "title": "Chronic'art",
-          "description": "Musique, cinéma, livres — culture alternative",
-          "url": "https://www.chronicart.com/feed/",
-          "imageURL": "https://www.google.com/s2/favicons?domain=chronicart.com&sz=128",
           "type": "article"
         },
         {
@@ -422,13 +380,6 @@
           "url": "https://www.creapills.com/feed",
           "imageURL": "https://www.google.com/s2/favicons?domain=creapills.com&sz=128",
           "type": "article"
-        },
-        {
-          "title": "Golem.fr Design",
-          "description": "Architecture d'intérieur et design produit",
-          "url": "https://www.golem13.fr/feed/",
-          "imageURL": "https://www.google.com/s2/favicons?domain=golem13.fr&sz=128",
-          "type": "article"
         }
       ]
     },
@@ -450,13 +401,6 @@
           "description": "Économie, marchés et entreprises",
           "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
           "imageURL": "https://www.google.com/s2/favicons?domain=lefigaro.fr&sz=128",
-          "type": "article"
-        },
-        {
-          "title": "Capital",
-          "description": "Finance personnelle, placements et entrepreneuriat",
-          "url": "https://www.capital.fr/rss",
-          "imageURL": "https://www.google.com/s2/favicons?domain=capital.fr&sz=128",
           "type": "article"
         },
         {
@@ -507,13 +451,6 @@
           "description": "Le plus grand site jeux vidéo francophone",
           "url": "https://www.jeuxvideo.com/rss/rss-news.xml",
           "imageURL": "https://www.google.com/s2/favicons?domain=jeuxvideo.com&sz=128",
-          "type": "article"
-        },
-        {
-          "title": "JeuxActu",
-          "description": "Jeux vidéo, tests et previews",
-          "url": "https://www.jeuxactu.com/rss/ja.rss",
-          "imageURL": "https://www.google.com/s2/favicons?domain=jeuxactu.com&sz=128",
           "type": "article"
         },
         {
@@ -653,13 +590,6 @@
           "type": "article"
         },
         {
-          "title": "Maddyness",
-          "description": "Innovation, startups et tech en France",
-          "url": "https://www.maddyness.com/feed/",
-          "imageURL": "https://www.google.com/s2/favicons?domain=maddyness.com&sz=128",
-          "type": "article"
-        },
-        {
           "title": "L'Usine Digitale",
           "description": "Industrie, tech et transformation numérique",
           "url": "https://www.usine-digitale.fr/arc/outboundfeeds/rss/",
@@ -681,13 +611,6 @@
       "icon": "leaf",
       "color": "teal",
       "feeds": [
-        {
-          "title": "Reporterre",
-          "description": "Le quotidien de l'écologie",
-          "url": "https://reporterre.net/spip.php?page=backend",
-          "imageURL": "https://www.google.com/s2/favicons?domain=reporterre.net&sz=128",
-          "type": "article"
-        },
         {
           "title": "Le Monde Planète",
           "description": "Environnement, climat et biodiversité du Monde",

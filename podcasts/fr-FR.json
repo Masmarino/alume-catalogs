@@ -12,27 +12,6 @@
           "url": "https://www.comptoirsecu.fr/feed/podcast/",
           "imageURL": "https://www.google.com/s2/favicons?domain=comptoirsecu.fr&sz=128",
           "type": "podcast"
-        },
-        {
-          "title": "BFM : Tech and Co",
-          "description": "Tech&Co, la quotidienne",
-          "url": "https://feeds.simplecast.com/MdgHX7eu",
-          "imageURL": "https://www.google.com/s2/favicons?domain=bfmbusiness.bfmtv.com&sz=128",
-          "type": "podcast"
-        },
-        {
-          "title": "Aujourd'hui, c'est demain",
-          "description": "Innovations, nouvelles technologies, intelligence artificielle...",
-          "url": "https://radiofrance-podcast.net/podcast09/rss_24225.xml",
-          "imageURL": "https://www.google.com/s2/favicons?domain=francetvinfo.fr&sz=128",
-          "type": "podcast"
-        },
-        {
-          "title": "Tech – Web",
-          "description": "Actualités, tendances, par RadioFrance",
-          "url": "https://www.radiofrance.fr/rss/societe/tech-web",
-          "imageURL": "https://www.google.com/s2/favicons?domain=radiofrance.fr&sz=128",
-          "type": "podcast"
         }
       ]
     },
@@ -54,13 +33,6 @@
           "description": "Sciences, recherche et épistémologie sur France Culture",
           "url": "https://radiofrance-podcast.net/podcast09/rss_14312.xml",
           "imageURL": "https://www.google.com/s2/favicons?domain=radiofrance.fr&sz=128",
-          "type": "podcast"
-        },
-        {
-          "title": "Science VS",
-          "description": "Les myths contre la science, en français",
-          "url": "https://feeds.megaphone.fm/sciencevs",
-          "imageURL": "https://www.google.com/s2/favicons?domain=gimletmedia.com&sz=128",
           "type": "podcast"
         },
         {
@@ -97,13 +69,6 @@
           "description": "Ouest-France",
           "url": "https://oldpodcasts.ouest-france.fr/ws/saooti/services/rss/emission/4/100/fr_FR/1",
           "imageURL": "https://www.google.com/s2/favicons?domain=ouest-france.fr&sz=128",
-          "type": "podcast"
-        },
-        {
-          "title": "C Dans l'Air",
-          "description": "Débat politique quotidien de France 5",
-          "url": "https://radiofrance-podcast.net/podcast09/rss_19215.xml",
-          "imageURL": "https://www.google.com/s2/favicons?domain=france.tv&sz=128",
           "type": "podcast"
         }
       ]
@@ -171,13 +136,6 @@
           "url": "https://feeds.acast.com/public/shows/65294b6074eb720012379a6a",
           "imageURL": "https://assets.pippa.io/shows/65294b6074eb720012379a6a/show-cover.jpeg",
           "type": "podcast"
-        },
-        {
-          "title": "Sans Permission",
-          "description": "Disruption, investissement et tech entrepreneuriat",
-          "url": "https://feed.ausha.co/B6r20qU1paED",
-          "imageURL": "https://image.ausha.co/mjmX2FpJSsUdo4fDrIB52WSurwLd40nH8iX8OEb9_1400x1400.jpeg?t=1697621383",
-          "type": "podcast"
         }
       ]
     },
@@ -192,13 +150,6 @@
           "description": "Chaque semaine, dans « C’est pour demain », Jean Brossier décrypte une tendance du monde qui vient, à travers une actualité de la semaine",
           "url": "https://radiofrance-podcast.net/podcast09/rss_25531.xml",
           "imageURL": "https://www.google.com/s2/favicons?domain=radiofrance.fr&sz=128",
-          "type": "podcast"
-        },
-        {
-          "title": "Popcorn",
-          "description": "Popcorn, ça se partage !",
-          "url": "https://feeds.360.audion.fm/ExPqeXAbVQDM40hHm6gkf",
-          "imageURL": "https://www.google.com/s2/favicons?domain=twitch.com&sz=128",
           "type": "podcast"
         },
         {
@@ -229,34 +180,6 @@
           "url": "https://feed.ausha.co/owXpzuzzqwqP",
           "imageURL": "https://www.google.com/s2/favicons?domain=lequipe.fr&sz=128",
           "type": "podcast"
-        },
-        {
-          "title": "Le vélo pour tous, ici Orléans",
-          "description": "Le vélo pour tous le week-end sur \"ici Orléans\"",
-          "url": "https://radiofrance-podcast.net/podcast09/rss_23564.xml",
-          "imageURL": "https://www.google.com/s2/favicons?domain=radiofrance.fr&sz=128",
-          "type": "podcast"
-        },
-        {
-          "title": "L'Équipe du Soir",
-          "description": "Débats sportifs quotidiens de L'Équipe",
-          "url": "https://feed.ausha.co/yXADQCgVlXGY",
-          "imageURL": "https://www.google.com/s2/favicons?domain=lequipe.fr&sz=128",
-          "type": "podcast"
-        },
-        {
-          "title": "Intégrale foot",
-          "description": "Toute l'actu football en direct sur RMC",
-          "url": "https://feeds.simplecast.com/cuUVB0_z",
-          "imageURL": "https://www.google.com/s2/favicons?domain=rmc.bfmtv.com&sz=128",
-          "type": "podcast"
-        },
-        {
-          "title": "Afterfoot RMC",
-          "description": "Débats et analyses post-match football",
-          "url": "https://feeds.simplecast.com/VVMraBM_",
-          "imageURL": "https://www.google.com/s2/favicons?domain=rmc.bfmtv.com&sz=128",
-          "type": "podcast"
         }
       ]
     },
@@ -266,27 +189,6 @@
       "icon": "stethoscope",
       "color": "mint",
       "feeds": [
-        {
-          "title": "Choses à Savoir Santé",
-          "description": "Réponses aux questions santé du quotidien",
-          "url": "https://feeds.acast.com/public/shows/choses-a-savoir-sante",
-          "imageURL": "https://www.google.com/s2/favicons?domain=chosesasavoir.com&sz=128",
-          "type": "podcast"
-        },
-        {
-          "title": "La Méthode Scientifique",
-          "description": "Sciences et santé — France Culture",
-          "url": "https://radiofrance-podcast.net/podcast09/rss_10474.xml",
-          "imageURL": "https://www.google.com/s2/favicons?domain=radiofrance.fr&sz=128",
-          "type": "podcast"
-        },
-        {
-          "title": "Grand bien vous fasse !",
-          "description": "Santé, bien-être et médecine — France Inter",
-          "url": "https://radiofrance-podcast.net/podcast09/rss_14024.xml",
-          "imageURL": "https://www.google.com/s2/favicons?domain=radiofrance.fr&sz=128",
-          "type": "podcast"
-        },
         {
           "title": "France Culture — Carnets de santé",
           "description": "Actualité médicale et santé publique",
@@ -302,20 +204,6 @@
       "icon": "sparkles",
       "color": "cyan",
       "feeds": [
-        {
-          "title": "Tech & Co",
-          "description": "Technologies, IA et innovation — BFM Business",
-          "url": "https://feeds.simplecast.com/MdgHX7eu",
-          "imageURL": "https://www.google.com/s2/favicons?domain=bfmtv.com&sz=128",
-          "type": "podcast"
-        },
-        {
-          "title": "Génération Do It Yourself",
-          "description": "Entrepreneuriat tech et IA avec Mathieu Stefani",
-          "url": "https://feeds.audiomeans.fr/feed/b4a5ee3a-9230-4f9f-988d-2ae156a2d5a9.xml",
-          "imageURL": "https://www.google.com/s2/favicons?domain=gdiy.fr&sz=128",
-          "type": "podcast"
-        },
         {
           "title": "Les voies de l'IA",
           "description": "Comment détecter les deepfakes et protéger votre vie numérique ?",
@@ -339,45 +227,10 @@
       "color": "teal",
       "feeds": [
         {
-          "title": "Radio France - Écologie",
-          "description": "L'écologie décrit, étudie et analyse l'apparition, la vie, l'activité et l'évolution des êtres et organismes vivants dans leurs environnements respectifs",
-          "url": "https://www.radiofrance.fr/rss/environnement/ecologie",
-          "imageURL": "https://www.google.com/s2/favicons?domain=radiofrance.fr&sz=128",
-          "type": "podcast"
-        },
-        {
-          "title": "Radio France - Biodiversité",
-          "description": "La biodiversité, protection de la nature",
-          "url": "https://www.radiofrance.fr/rss/environnement/biodiversite",
-          "imageURL": "https://www.google.com/s2/favicons?domain=radiofrance.fr&sz=128",
-          "type": "podcast"
-        },
-        {
-          "title": "Radio France - Environnement",
-          "description": "Découvrez ici tous les podcasts et l'actualité consacrés à l'environnement et à la nature, mais aussi à l'écologie, la biodiversité et le changement climatique",
-          "url": "https://www.radiofrance.fr/rss/environnement",
-          "imageURL": "https://www.google.com/s2/favicons?domain=radiofrance.fr&sz=128",
-          "type": "podcast"
-        },
-        {
-          "title": "Radio France - Pollution",
-          "description": "Écoutez en podcasts les dernières actualités qui concernent la pollution de la nature et de l'environnement. Et surtout, des idées pour y remédier !",
-          "url": "https://www.radiofrance.fr/rss/environnement/pollution",
-          "imageURL": "https://www.google.com/s2/favicons?domain=radiofrance.fr&sz=128",
-          "type": "podcast"
-        },
-        {
           "title": "Fréquence terre",
           "description": "Fréquence terre - La Radio Nature - diffuse des musiques du monde et des émissions sur l'environnement depuis 2003",
           "url": "https://frequenceterre.com/feed/",
           "imageURL": "https://www.google.com/s2/favicons?domain=frequenceterre.com&sz=128",
-          "type": "podcast"
-        },
-        {
-          "title": "Les Clés de l'Environnement",
-          "description": "Les Clés de l’Environnement, le podcast d’Actu-Environnement, décrypte l’une des problématiques de la transition environnementale",
-          "url": "https://les-cles-environnement.lepodcast.fr/rss",
-          "imageURL": "https://www.google.com/s2/favicons?domain=actu-environnement.com&sz=128",
           "type": "podcast"
         }
       ]

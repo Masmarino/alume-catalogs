@@ -84,13 +84,6 @@
           "type": "article"
         },
         {
-          "title": "Tom's Hardware",
-          "description": "PC hardware news, reviews, and benchmarks",
-          "url": "https://www.tomshardware.com/feeds/all",
-          "imageURL": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=128",
-          "type": "article"
-        },
-        {
           "title": "IEEE Spectrum",
           "description": "Technology for the benefit of humanity",
           "url": "https://spectrum.ieee.org/feeds/feed.rss",
@@ -123,13 +116,6 @@
           "description": "Official Swift programming language blog",
           "url": "https://www.swift.org/atom.xml",
           "imageURL": "https://www.google.com/s2/favicons?domain=swift.org&sz=128",
-          "type": "article"
-        },
-        {
-          "title": "NSHipster",
-          "description": "Obscure topics in Cocoa and Swift",
-          "url": "https://nshipster.com/feed.xml",
-          "imageURL": "https://www.google.com/s2/favicons?domain=nshipster.com&sz=128",
           "type": "article"
         },
         {
@@ -168,24 +154,10 @@
           "type": "article"
         },
         {
-          "title": "VentureBeat",
-          "description": "AI, gaming, and enterprise technology",
-          "url": "https://venturebeat.com/feed/",
-          "imageURL": "https://www.google.com/s2/favicons?domain=venturebeat.com&sz=128",
-          "type": "article"
-        },
-        {
           "title": "Slashdot",
           "description": "News for nerds, stuff that matters",
           "url": "https://rss.slashdot.org/Slashdot/slashdotMain",
           "imageURL": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=128",
-          "type": "article"
-        },
-        {
-          "title": "Paul Graham Essays",
-          "description": "Essays on startups and technology",
-          "url": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
-          "imageURL": "https://www.google.com/s2/favicons?domain=paulgraham.com&sz=128",
           "type": "article"
         }
       ]
@@ -253,13 +225,6 @@
           "type": "article"
         },
         {
-          "title": "Live Science",
-          "description": "Science news and remarkable discoveries",
-          "url": "https://www.livescience.com/feeds/all",
-          "imageURL": "https://www.google.com/s2/favicons?domain=livescience.com&sz=128",
-          "type": "article"
-        },
-        {
           "title": "Popular Science",
           "description": "Science and technology for curious minds",
           "url": "https://www.popsci.com/feed/",
@@ -292,13 +257,6 @@
           "description": "Proceedings of the National Academy of Sciences",
           "url": "https://www.pnas.org/rss/current.xml",
           "imageURL": "https://www.google.com/s2/favicons?domain=pnas.org&sz=128",
-          "type": "article"
-        },
-        {
-          "title": "Space.com",
-          "description": "Space exploration, astronomy, and space science",
-          "url": "https://www.space.com/feeds/all",
-          "imageURL": "https://www.google.com/s2/favicons?domain=space.com&sz=128",
           "type": "article"
         }
       ]
@@ -342,13 +300,6 @@
           "description": "Breaking news, world news and multimedia",
           "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
           "imageURL": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
-          "type": "article"
-        },
-        {
-          "title": "The Washington Post",
-          "description": "Democracy dies in darkness",
-          "url": "https://feeds.washingtonpost.com/rss/world",
-          "imageURL": "https://www.google.com/s2/favicons?domain=washingtonpost.com&sz=128",
           "type": "article"
         },
         {
@@ -536,13 +487,6 @@
           "type": "article"
         },
         {
-          "title": "Codrops",
-          "description": "Web design and development tutorials and inspiration",
-          "url": "https://tympanus.net/codrops/feed/",
-          "imageURL": "https://www.google.com/s2/favicons?domain=tympanus.net&sz=128",
-          "type": "article"
-        },
-        {
           "title": "CSS-Tricks",
           "description": "Tips, tricks, and techniques on CSS and web design",
           "url": "https://css-tricks.com/feed/",
@@ -564,31 +508,10 @@
           "type": "article"
         },
         {
-          "title": "Eye on Design — AIGA",
-          "description": "Design content for a global community",
-          "url": "https://eyeondesign.aiga.org/feed/",
-          "imageURL": "https://www.google.com/s2/favicons?domain=eyeondesign.aiga.org&sz=128",
-          "type": "article"
-        },
-        {
-          "title": "Wallpaper*",
-          "description": "International design, fashion, and architecture",
-          "url": "https://www.wallpaper.com/rss",
-          "imageURL": "https://www.google.com/s2/favicons?domain=wallpaper.com&sz=128",
-          "type": "article"
-        },
-        {
           "title": "Architectural Digest",
           "description": "Architecture, interior design, and culture",
           "url": "https://www.architecturaldigest.com/feed/rss",
           "imageURL": "https://www.google.com/s2/favicons?domain=architecturaldigest.com&sz=128",
-          "type": "article"
-        },
-        {
-          "title": "AIGA Eye on Design",
-          "description": "Design thinking for creatives and professionals",
-          "url": "https://eyeondesign.aiga.org/feed/",
-          "imageURL": "https://www.google.com/s2/favicons?domain=aiga.org&sz=128",
           "type": "article"
         }
       ]
@@ -639,13 +562,6 @@
           "description": "Business, finance, and technology news",
           "url": "https://fortune.com/feed/",
           "imageURL": "https://www.google.com/s2/favicons?domain=fortune.com&sz=128",
-          "type": "article"
-        },
-        {
-          "title": "Wall Street Journal",
-          "description": "Business and financial news",
-          "url": "https://feeds.a.dj.com/rss/RSSWorldNews.xml",
-          "imageURL": "https://www.google.com/s2/favicons?domain=wsj.com&sz=128",
           "type": "article"
         },
         {
@@ -856,13 +772,6 @@
       "color": "cyan",
       "feeds": [
         {
-          "title": "The Gradient",
-          "description": "Perspectives on AI research and technology",
-          "url": "https://thegradient.pub/rss/",
-          "imageURL": "https://www.google.com/s2/favicons?domain=thegradient.pub&sz=128",
-          "type": "article"
-        },
-        {
           "title": "Import AI",
           "description": "Weekly newsletter on AI research by Jack Clark",
           "url": "https://jack-clark.net/feed/",
@@ -924,13 +833,6 @@
           "description": "Climate solutions and environmental justice",
           "url": "https://grist.org/feed/",
           "imageURL": "https://www.google.com/s2/favicons?domain=grist.org&sz=128",
-          "type": "article"
-        },
-        {
-          "title": "BBC — Environment",
-          "description": "Environment and nature news from the BBC",
-          "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
-          "imageURL": "https://www.google.com/s2/favicons?domain=bbc.co.uk&sz=128",
           "type": "article"
         },
         {
